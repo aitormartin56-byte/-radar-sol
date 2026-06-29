@@ -1,0 +1,36 @@
+{
+  "_ayuda": "Activa/desactiva fuentes con enabled. En 'keywords', vacío [] = sin filtro de palabras. Las keywords de superteam/grants se buscan en título y sponsor (en inglés). En 'news', el filtro ya es listo (airdrop + Solana); 'keywords' aquí AÑADE términos extra que dispararían aviso por sí solos (no pongas 'solana' a secas o te llegará toda la actualidad de Solana).",
+
+  "sources": {
+    "superteam": {
+      "enabled": true,
+      "keywords": [
+        "content", "writing", "write", "article", "thread", "twitter", "x ",
+        "translation", "translate", "language", "spanish",
+        "design", "video", "meme", "graphic",
+        "develop", "code", "rust", "frontend", "react", "anchor", "smart contract",
+        "marketing", "community", "ambassador", "research"
+      ],
+      "min_reward": 0,
+      "types": ["bounty", "project", "hackathon"],
+      "take": 50
+    },
+
+    "grants": {
+      "enabled": true,
+      "keywords": [],
+      "min_reward": 0
+    },
+
+    "news": {
+      "enabled": true,
+      "keywords": [],
+      "feeds": [
+        "https://cointelegraph.com/rss/tag/solana",
+        "https://cointelegraph.com/rss",
+        "https://decrypt.co/feed",
+        "https://cryptoslate.com/feed/"
+      ]
+    }
+  }
+}
