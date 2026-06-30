@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T11:29:49.000Z",
+  "updated_at": "2026-06-30T18:20:39.000Z",
   "counts": {
     "bounties": 16,
     "grants": 43,
@@ -8,25 +8,13 @@
   "bounties": [
     {
       "kind": "bounty",
-      "title": "Walk through a Trepa round in your language",
-      "reward": "750 USDC",
-      "type": "bounty",
-      "sponsor": "Trepa",
-      "deadline": "2026-06-30T14:59:59.000Z",
-      "time_left": "cierra en 3h",
-      "submissions": 22,
-      "url": "https://superteam.fun/earn/listing/walk-through-a-trepa-round-in-your-language",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "Write Twitter Posts & Threads for Alpha Vault Whitelist Campaign",
       "reward": "400 USDC",
       "type": "bounty",
       "sponsor": "Dominion ",
       "deadline": "2026-06-30T22:59:59.000Z",
-      "time_left": "cierra en 11h",
-      "submissions": 124,
+      "time_left": "cierra en 4h",
+      "submissions": 134,
       "url": "https://superteam.fun/earn/listing/write-twitter-posts-and-threads-for-alpha-vault-whitelist-campaign",
       "featured": false
     },
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "ZINC ",
       "deadline": "2026-07-01T12:00:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 26,
+      "time_left": "cierra en 17h",
+      "submissions": 32,
       "url": "https://superteam.fun/earn/listing/create-content-around-zinc-protocol",
       "featured": false
     },
@@ -50,8 +38,20 @@
       "sponsor": "Superteam Talent",
       "deadline": "2026-07-01T23:00:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 89,
+      "submissions": 96,
       "url": "https://superteam.fun/earn/listing/write-content-piece-about-the-superteam-talent-portal",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create a Video about Trench",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "Trench",
+      "deadline": "2026-07-02T18:29:59.000Z",
+      "time_left": "cierra en 2 días",
+      "submissions": 11,
+      "url": "https://superteam.fun/earn/listing/create-a-video-about-trench",
       "featured": false
     },
     {
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "TIPF",
       "deadline": "2026-07-03T15:59:59.999Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 63,
+      "time_left": "cierra en 2 días",
+      "submissions": 66,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Backyard Finance",
       "deadline": "2026-07-03T21:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 34,
+      "submissions": 41,
       "url": "https://superteam.fun/earn/listing/flash-bounty-backyard-patio-ambassadorship-program-qrt-campaign",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "MyPip",
       "deadline": "2026-07-04T03:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 106,
+      "submissions": 108,
       "url": "https://superteam.fun/earn/listing/write-a-banger-twitter-thread-about-mypip",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Margin Trade",
       "deadline": "2026-07-05T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 110,
+      "submissions": 113,
       "url": "https://superteam.fun/earn/listing/margintrade-content-bounty",
       "featured": false
     },
@@ -110,20 +110,8 @@
       "sponsor": "Velocity Market",
       "deadline": "2026-07-05T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 19,
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/velocity-markets-motorsport-prediction-platform-twitter-thread",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Create a Video about Trench",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Trench",
-      "deadline": "2026-07-06T18:29:59.999Z",
-      "time_left": "cierra en 6 días",
-      "submissions": 6,
-      "url": "https://superteam.fun/earn/listing/create-a-video-about-trench",
       "featured": false
     },
     {
@@ -133,8 +121,8 @@
       "type": "bounty",
       "sponsor": "Lavarage",
       "deadline": "2026-07-08T16:59:59.000Z",
-      "time_left": "cierra en 8 días",
-      "submissions": 6,
+      "time_left": "cierra en 7 días",
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/make-a-short-video-on-lavarage-v2-leverage-frontier-assets-on-solana",
       "featured": false
     },
@@ -146,7 +134,7 @@
       "sponsor": "Nolus Protocol",
       "deadline": "2026-07-09T20:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 342,
+      "submissions": 349,
       "url": "https://superteam.fun/earn/listing/nolus-amb",
       "featured": false
     },
@@ -158,7 +146,7 @@
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 3,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -170,8 +158,20 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 17 días",
-      "submissions": 44,
+      "submissions": 52,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Video Content For Moony Community",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "Moony Foundation Inc.",
+      "deadline": "2026-07-22T06:59:59.999Z",
+      "time_left": "cierra en 21 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/moonyvideobounty",
       "featured": false
     },
     {
@@ -182,7 +182,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 30 días",
-      "submissions": 24,
+      "submissions": 31,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -193,7 +193,7 @@
       "type": "bounty",
       "sponsor": "Eva.fun",
       "deadline": "2026-08-01T15:59:59.000Z",
-      "time_left": "cierra en 32 días",
+      "time_left": "cierra en 31 días",
       "submissions": 0,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-eva-mainnet",
       "featured": false
