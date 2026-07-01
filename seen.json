@@ -24,7 +24,8 @@
       "st:1d037c64-11fc-47de-a8d0-cc722618d07b",
       "st:93492edc-31a4-4f42-8be9-3409a55d583d",
       "st:f969d86a-7db1-4191-a264-b64491914660",
-      "st:bc46b993-6a42-4af7-8430-603ceaacae0d"
+      "st:bc46b993-6a42-4af7-8430-603ceaacae0d",
+      "st:e22c5eab-32dc-4518-9ba8-1ec2d09be26e"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -225,7 +226,24 @@
       "news:https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
       "news:https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
       "news:https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout",
-      "news:https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/"
+      "news:https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/",
+      "news:https://cointelegraph.com/news/crypto-q3-less-leverage-thinner-liquidity-talos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitcoin-etf-4-5-billion-outflow-june-worst-on-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/goliath-ceo-guilty-400m-crypto-ponzi-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/47-ronin-director-who-gambled-netflix-funds-on-crypto-gets-30-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
+      "news:https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+      "news:https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
+      "news:https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+      "news:https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+      "news:https://cryptoslate.com/bitcoin-can-still-fall-to-53000-if-the-etf-era-floor-disappears/",
+      "news:https://cryptoslate.com/visa-mastercard-and-coinbase-join-open-usd-as-partner-led-stablecoin-increases-defi-yield-war/",
+      "news:https://cryptoslate.com/trumps-financial-disclosure-turns-clarity-act-into-a-vote-on-his-own-crypto-holdings/"
     ]
   },
   "init": {
