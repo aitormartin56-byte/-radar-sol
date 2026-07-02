@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-07-02T17:02:54.000Z",
+  "updated_at": "2026-07-02T20:47:20.000Z",
   "counts": {
-    "bounties": 14,
+    "bounties": 13,
     "grants": 43,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Create a Video about Trench",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Trench",
-      "deadline": "2026-07-02T18:29:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 41,
-      "url": "https://superteam.fun/earn/listing/create-a-video-about-trench",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "[FLASH BOUNTY] Backyard Patio Ambassadorship Program QRT Campaign",
@@ -26,7 +14,7 @@
       "sponsor": "Backyard Finance",
       "deadline": "2026-07-03T21:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 69,
+      "submissions": 71,
       "url": "https://superteam.fun/earn/listing/flash-bounty-backyard-patio-ambassadorship-program-qrt-campaign",
       "featured": false
     },
@@ -38,7 +26,7 @@
       "sponsor": "MyPip",
       "deadline": "2026-07-04T03:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 123,
+      "submissions": 125,
       "url": "https://superteam.fun/earn/listing/write-a-banger-twitter-thread-about-mypip",
       "featured": false
     },
@@ -50,7 +38,7 @@
       "sponsor": "Margin Trade",
       "deadline": "2026-07-05T20:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 131,
+      "submissions": 134,
       "url": "https://superteam.fun/earn/listing/margintrade-content-bounty",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "Velocity Market",
       "deadline": "2026-07-05T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 23,
+      "submissions": 25,
       "url": "https://superteam.fun/earn/listing/velocity-markets-motorsport-prediction-platform-twitter-thread",
       "featured": false
     },
@@ -98,7 +86,7 @@
       "sponsor": "Nolus Protocol",
       "deadline": "2026-07-09T20:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 388,
+      "submissions": 392,
       "url": "https://superteam.fun/earn/listing/nolus-amb",
       "featured": false
     },
@@ -110,7 +98,7 @@
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
       "time_left": "cierra en 11 días",
-      "submissions": 18,
+      "submissions": 19,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -122,7 +110,7 @@
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 100,
+      "submissions": 101,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -134,7 +122,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 15 días",
-      "submissions": 72,
+      "submissions": 73,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
