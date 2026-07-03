@@ -25,7 +25,8 @@
       "st:93492edc-31a4-4f42-8be9-3409a55d583d",
       "st:f969d86a-7db1-4191-a264-b64491914660",
       "st:bc46b993-6a42-4af7-8430-603ceaacae0d",
-      "st:e22c5eab-32dc-4518-9ba8-1ec2d09be26e"
+      "st:e22c5eab-32dc-4518-9ba8-1ec2d09be26e",
+      "st:2ba096ac-5e33-4baf-adee-2b5471668ac3"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -336,7 +337,26 @@
       "news:https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
       "news:https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
-      "news:https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron"
+      "news:https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
+      "news:https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/defendant-dismiss-new-york-lawsuit-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/irish-authorities-recover-500-bitcoin-criminal-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
+      "news:https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto",
+      "news:https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
+      "news:https://decrypt.co/372723/bitcoin-etfs-draw-in-222m-snapping-10-day-losing-streak",
+      "news:https://cryptoslate.com/bitcoin-whales-send-49000-btc-to-exchanges-as-60k-rebound-shows-signs-of-weakness/",
+      "news:https://cryptoslate.com/solana-stakers-get-a-new-way-to-force-the-next-sol-inflation-fight/",
+      "news:https://cryptoslate.com/bitcoin-rally-hinges-on-whether-the-fed-buys-into-the-weak-jobs-report-after-bad-miss/",
+      "news:https://cryptoslate.com/bitcoins-14-q2-drop-came-as-stablecoin-market-contracts-for-first-time-since-2023/",
+      "news:https://cryptoslate.com/genius-made-stablecoins-legal-july-18-decides-which-stablecoins-stay-competitive/"
     ]
   },
   "init": {
