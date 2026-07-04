@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T15:47:26.000Z",
+  "updated_at": "2026-07-04T20:15:36.000Z",
   "counts": {
     "bounties": 11,
     "grants": 43,
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "Lavarage",
       "deadline": "2026-07-08T16:59:59.000Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 11,
+      "time_left": "cierra en 3 días",
+      "submissions": 13,
       "url": "https://superteam.fun/earn/listing/make-a-short-video-on-lavarage-v2-leverage-frontier-assets-on-solana",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Nolus Protocol",
       "deadline": "2026-07-09T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 402,
+      "submissions": 405,
       "url": "https://superteam.fun/earn/listing/nolus-amb",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
       "time_left": "cierra en 9 días",
-      "submissions": 24,
+      "submissions": 25,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Usuals AI",
       "deadline": "2026-07-15T22:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 4,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/usuals-ai-superteam-video-bounty",
       "featured": false
     },
@@ -85,8 +85,8 @@
       "type": "bounty",
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
-      "time_left": "cierra en 12 días",
-      "submissions": 109,
+      "time_left": "cierra en 11 días",
+      "submissions": 110,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -122,7 +122,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 26 días",
-      "submissions": 53,
+      "submissions": 54,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -133,7 +133,7 @@
       "type": "bounty",
       "sponsor": "Eva.fun",
       "deadline": "2026-08-01T15:59:59.000Z",
-      "time_left": "cierra en 28 días",
+      "time_left": "cierra en 27 días",
       "submissions": 0,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-eva-mainnet",
       "featured": false
