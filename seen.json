@@ -392,7 +392,11 @@
       "news:https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/the-death-of-the-crypto-startup-rip-2017-2026/"
+      "news:https://cryptoslate.com/the-death-of-the-crypto-startup-rip-2017-2026/",
+      "news:https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/crypto-hacks-hit-a-record-count-but-the-biggest-threat-isnt-smart-contracts/",
+      "news:https://cryptoslate.com/the-124-trillion-boomer-wealth-transfer-could-change-crypto-forever/",
+      "news:https://cryptoslate.com/binances-reported-mesh-round-puts-stablecoin-payment-routes-in-play/"
     ]
   },
   "init": {

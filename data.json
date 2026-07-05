@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T09:47:55.000Z",
+  "updated_at": "2026-07-05T15:01:31.000Z",
   "counts": {
     "bounties": 13,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Margin Trade",
       "deadline": "2026-07-05T20:59:59.000Z",
-      "time_left": "cierra en 11h",
-      "submissions": 160,
+      "time_left": "cierra en 5h",
+      "submissions": 167,
       "url": "https://superteam.fun/earn/listing/margintrade-content-bounty",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Velocity Market",
       "deadline": "2026-07-05T22:59:59.000Z",
-      "time_left": "cierra en 13h",
-      "submissions": 34,
+      "time_left": "cierra en 7h",
+      "submissions": 35,
       "url": "https://superteam.fun/earn/listing/velocity-markets-motorsport-prediction-platform-twitter-thread",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Nolus Protocol",
       "deadline": "2026-07-09T20:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 413,
+      "submissions": 417,
       "url": "https://superteam.fun/earn/listing/nolus-amb",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-07-12T20:59:59.999Z",
       "time_left": "cierra en 7 días",
-      "submissions": 2,
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/front-end-developer-for-echoes-fans",
       "featured": true
     },
@@ -74,7 +74,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-07-12T20:59:59.999Z",
       "time_left": "cierra en 7 días",
-      "submissions": 2,
+      "submissions": 29,
       "url": "https://superteam.fun/earn/listing/back-end-developer-for-echoes-fans",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Usuals AI",
       "deadline": "2026-07-15T22:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 9,
+      "submissions": 10,
       "url": "https://superteam.fun/earn/listing/usuals-ai-superteam-video-bounty",
       "featured": false
     },
@@ -122,7 +122,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 94,
+      "submissions": 98,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
@@ -146,7 +146,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 25 días",
-      "submissions": 55,
+      "submissions": 56,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
