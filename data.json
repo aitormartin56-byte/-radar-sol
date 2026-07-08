@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T07:56:39.000Z",
+  "updated_at": "2026-07-08T15:55:06.000Z",
   "counts": {
     "bounties": 12,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "project",
       "sponsor": "BAXUS",
       "deadline": "2026-07-09T03:59:59.000Z",
-      "time_left": "cierra en 20h",
-      "submissions": 62,
+      "time_left": "cierra en 12h",
+      "submissions": 530,
       "url": "https://superteam.fun/earn/listing/twitter-manager-2-week-sprint",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Nolus Protocol",
       "deadline": "2026-07-09T20:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 462,
+      "submissions": 474,
       "url": "https://superteam.fun/earn/listing/nolus-amb",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-07-12T20:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 620,
+      "submissions": 645,
       "url": "https://superteam.fun/earn/listing/front-end-developer-for-echoes-fans",
       "featured": true
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-07-12T20:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 245,
+      "submissions": 261,
       "url": "https://superteam.fun/earn/listing/back-end-developer-for-echoes-fans",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 65,
+      "submissions": 66,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
       "time_left": "cierra en 8 días",
-      "submissions": 118,
+      "submissions": 120,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 9 días",
-      "submissions": 148,
+      "submissions": 155,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
