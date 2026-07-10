@@ -598,7 +598,18 @@
       "news:https://decrypt.co/373181/anthropic-ai-oversight-board-ben-bernanke-2008-federal-crisis-fed",
       "news:https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
       "news:https://cryptoslate.com/new-hampshire-rejects-100m-bitcoin-backed-bond/",
-      "news:https://cryptoslate.com/kalshis-court-loss-shows-federal-approval-may-still-leave-prediction-markets-fenced-off-by-states/"
+      "news:https://cryptoslate.com/kalshis-court-loss-shows-federal-approval-may-still-leave-prediction-markets-fenced-off-by-states/",
+      "news:https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
+      "news:https://cryptoslate.com/jpmorgans-4-7t-private-blockchain-warning-just-gave-bitcoin-a-new-bull-case/",
+      "news:https://cryptoslate.com/a-293-billion-fight-over-satoshis-bitcoin-just-got-more-complicated/"
     ]
   },
   "init": {
