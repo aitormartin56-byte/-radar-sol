@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T18:08:07.000Z",
+  "updated_at": "2026-07-11T21:12:10.000Z",
   "counts": {
     "bounties": 12,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "project",
       "sponsor": "Echoes Fans",
       "deadline": "2026-07-12T20:59:59.999Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 714,
+      "time_left": "cierra en 23h",
+      "submissions": 716,
       "url": "https://superteam.fun/earn/listing/front-end-developer-for-echoes-fans",
       "featured": true
     },
@@ -25,8 +25,8 @@
       "type": "project",
       "sponsor": "Echoes Fans",
       "deadline": "2026-07-12T20:59:59.999Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 296,
+      "time_left": "cierra en 23h",
+      "submissions": 298,
       "url": "https://superteam.fun/earn/listing/back-end-developer-for-echoes-fans",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 136,
+      "submissions": 139,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 133,
+      "submissions": 135,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 216,
+      "submissions": 222,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "worm ",
       "deadline": "2026-07-20T03:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 12,
+      "submissions": 13,
       "url": "https://superteam.fun/earn/listing/create-content-on-worm-cup",
       "featured": false
     },
@@ -146,7 +146,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 40 días",
-      "submissions": 23,
+      "submissions": 24,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
