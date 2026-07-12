@@ -1,35 +1,11 @@
 {
-  "updated_at": "2026-07-12T19:57:37.000Z",
+  "updated_at": "2026-07-12T22:33:20.000Z",
   "counts": {
-    "bounties": 13,
+    "bounties": 11,
     "grants": 43,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Front-End Developer for Echoes Fans",
-      "reward": "5000 USDC",
-      "type": "project",
-      "sponsor": "Echoes Fans",
-      "deadline": "2026-07-12T20:59:59.999Z",
-      "time_left": "cierra en 1h",
-      "submissions": 731,
-      "url": "https://superteam.fun/earn/listing/front-end-developer-for-echoes-fans",
-      "featured": true
-    },
-    {
-      "kind": "bounty",
-      "title": "Back-End Developer For Echoes Fans",
-      "reward": "5000 USDC",
-      "type": "project",
-      "sponsor": "Echoes Fans",
-      "deadline": "2026-07-12T20:59:59.999Z",
-      "time_left": "cierra en 1h",
-      "submissions": 310,
-      "url": "https://superteam.fun/earn/listing/back-end-developer-for-echoes-fans",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Create Content on Umbra's Private Wallet on Solana",
@@ -37,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 156,
+      "time_left": "cierra en 23h",
+      "submissions": 164,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -62,7 +38,7 @@
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 138,
+      "submissions": 139,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -73,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 242,
+      "time_left": "cierra en 4 días",
+      "submissions": 245,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
