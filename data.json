@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T22:33:20.000Z",
+  "updated_at": "2026-07-13T10:42:26.000Z",
   "counts": {
     "bounties": 11,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Ownership Media",
       "deadline": "2026-07-13T21:59:59.999Z",
-      "time_left": "cierra en 23h",
-      "submissions": 164,
+      "time_left": "cierra en 11h",
+      "submissions": 180,
       "url": "https://superteam.fun/earn/listing/create-content-on-umbras-private-wallet-on-solana",
       "featured": false
     },
@@ -25,7 +25,7 @@
       "type": "bounty",
       "sponsor": "Usuals AI",
       "deadline": "2026-07-15T22:59:59.000Z",
-      "time_left": "cierra en 3 días",
+      "time_left": "cierra en 2 días",
       "submissions": 25,
       "url": "https://superteam.fun/earn/listing/usuals-ai-superteam-video-bounty",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 139,
+      "submissions": 140,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 245,
+      "submissions": 254,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-07-20T03:59:59.000Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 19,
+      "time_left": "cierra en 6 días",
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/create-content-on-worm-cup",
       "featured": false
     },
@@ -73,7 +73,7 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-07-22T06:59:59.999Z",
-      "time_left": "cierra en 9 días",
+      "time_left": "cierra en 8 días",
       "submissions": 4,
       "url": "https://superteam.fun/earn/listing/moonyvideobounty",
       "featured": false
@@ -97,8 +97,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
-      "time_left": "cierra en 18 días",
-      "submissions": 74,
+      "time_left": "cierra en 17 días",
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 18 días",
-      "submissions": 7,
+      "submissions": 8,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -133,8 +133,8 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 39 días",
-      "submissions": 31,
+      "time_left": "cierra en 38 días",
+      "submissions": 33,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
