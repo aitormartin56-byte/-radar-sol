@@ -27,7 +27,8 @@
       "st:bc46b993-6a42-4af7-8430-603ceaacae0d",
       "st:e22c5eab-32dc-4518-9ba8-1ec2d09be26e",
       "st:2ba096ac-5e33-4baf-adee-2b5471668ac3",
-      "st:425d974e-f665-40f5-a17b-1bbcb747ae8b"
+      "st:425d974e-f665-40f5-a17b-1bbcb747ae8b",
+      "st:d91eb9a6-241f-4041-aff5-5f1554732741"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -677,7 +678,31 @@
       "news:https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/bitcoin-falls-below-63000-as-markets-price-a-97-chance-hormuz-stays-disrupted-through-july/",
       "news:https://cryptoslate.com/binance-says-70-of-eu-withdrawals-went-to-self-custody-wallets-not-mica-compliant-exchanges-after-cutoff/",
-      "news:https://cryptoslate.com/bitcoins-60k-price-floor-is-back-in-play-as-hormuz-oil-shock-returns/"
+      "news:https://cryptoslate.com/bitcoins-60k-price-floor-is-back-in-play-as-hormuz-oil-shock-returns/",
+      "news:https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
+      "news:https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks",
+      "news:https://decrypt.co/373395/how-much-your-boyfriend-spending-ai-girlfriends",
+      "news:https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
+      "news:https://decrypt.co/373381/strategy-pads-cash-reserves-3-billion-skipping-bitcoin-buy-third-week",
+      "news:https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown",
+      "news:https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
+      "news:https://decrypt.co/373374/chinese-prosecutors-float-treating-crypto-mixer-privacy-coin-use-as-sign-of-money-laundering",
+      "news:https://cryptoslate.com/robinhood-chain-tokens-reportedly-vanishing-from-wallets-causing-buyers-to-lose-funds/",
+      "news:https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/",
+      "news:https://cryptoslate.com/doj-moves-to-drop-722m-bitclub-case-before-trial-as-victims-wait-to-learn-what-they-will-recover/",
+      "news:https://cryptoslate.com/stablecoins-are-moving-more-money-while-cryptos-cash-pile-gets-smaller/",
+      "news:https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
+      "news:https://cryptoslate.com/ripple-ceo-says-sec-suit-nearly-pushed-company-to-shut-down/"
     ]
   },
   "init": {
