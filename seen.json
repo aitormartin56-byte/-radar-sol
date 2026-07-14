@@ -28,7 +28,8 @@
       "st:e22c5eab-32dc-4518-9ba8-1ec2d09be26e",
       "st:2ba096ac-5e33-4baf-adee-2b5471668ac3",
       "st:425d974e-f665-40f5-a17b-1bbcb747ae8b",
-      "st:d91eb9a6-241f-4041-aff5-5f1554732741"
+      "st:d91eb9a6-241f-4041-aff5-5f1554732741",
+      "st:90cba574-26ab-4c5b-8f1b-502fafbcf1e9"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -714,7 +715,20 @@
       "news:https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
-      "news:https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind"
+      "news:https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
+      "news:https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/solo-bitcoin-miner-200k-block-budget-bitaxe-rig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-bear-market-will-bottom-when-two-month-rsi-metric-hits-zero-trader-predicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
+      "news:https://cryptoslate.com/banks-are-building-the-rails-to-profit-from-13-9-million-btc-they-do-not-own/",
+      "news:https://cryptoslate.com/trump-puts-senate-on-a-24-day-clock-to-find-60-votes-for-americas-crypto-clarity-act-rulebook/",
+      "news:https://cryptoslate.com/bitcoin-price-has-less-than-8-hours-to-outrun-60000-before-hormuz-conflict-takes-over-again/"
     ]
   },
   "init": {
