@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T17:49:15.000Z",
+  "updated_at": "2026-07-15T21:32:12.000Z",
   "counts": {
     "bounties": 14,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Usuals AI",
       "deadline": "2026-07-15T22:59:59.000Z",
-      "time_left": "cierra en 5h",
-      "submissions": 45,
+      "time_left": "cierra en 1h",
+      "submissions": 51,
       "url": "https://superteam.fun/earn/listing/usuals-ai-superteam-video-bounty",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "TIPF",
       "deadline": "2026-07-16T15:59:59.999Z",
-      "time_left": "cierra en 22h",
-      "submissions": 161,
+      "time_left": "cierra en 18h",
+      "submissions": 163,
       "url": "https://superteam.fun/earn/listing/tipf-write-some-twitter-thread",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 310,
+      "submissions": 315,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "Promethium ",
       "deadline": "2026-07-21T20:59:59.999Z",
-      "time_left": "cierra en 6 días",
-      "submissions": 38,
+      "time_left": "cierra en 5 días",
+      "submissions": 41,
       "url": "https://superteam.fun/earn/listing/promethium",
       "featured": false
     },
@@ -97,8 +97,8 @@
       "type": "project",
       "sponsor": "Hedge Your Fun",
       "deadline": "2026-07-22T20:59:59.999Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 27,
+      "time_left": "cierra en 6 días",
+      "submissions": 34,
       "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
       "featured": false
     },
@@ -109,8 +109,8 @@
       "type": "bounty",
       "sponsor": "Nibble",
       "deadline": "2026-07-27T18:29:59.999Z",
-      "time_left": "cierra en 12 días",
-      "submissions": 1,
+      "time_left": "cierra en 11 días",
+      "submissions": 2,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
     },
