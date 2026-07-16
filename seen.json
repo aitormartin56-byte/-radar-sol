@@ -29,7 +29,8 @@
       "st:2ba096ac-5e33-4baf-adee-2b5471668ac3",
       "st:425d974e-f665-40f5-a17b-1bbcb747ae8b",
       "st:d91eb9a6-241f-4041-aff5-5f1554732741",
-      "st:90cba574-26ab-4c5b-8f1b-502fafbcf1e9"
+      "st:90cba574-26ab-4c5b-8f1b-502fafbcf1e9",
+      "st:8e9ada54-767d-4892-8720-8c0eb595b6e0"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -798,7 +799,22 @@
       "news:https://cryptoslate.com/bitcoin-miner-ai-pivot-hits-roadblock-with-new-york-50-mw-permit-freeze/",
       "news:https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373615/analysts-arent-worried-coinbase-drop"
+      "news:https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
+      "news:https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ark-sentora-a16zs-tradfi-blockchain-defi-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/autonomous-ai-agent-economy-infrastructure-gaps-visa-artemis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/senate-adopts-resolution-opposing-clemency-sbf-ftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
+      "news:https://decrypt.co/373631/feds-arrest-florida-man-over-video-game-malware-that-stole-220k-in-crypto",
+      "news:https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
+      "news:https://cryptoslate.com/bitcoins-old-coins-have-gone-quiet-and-69000-could-reveal-whether-the-new-holders-crack/",
+      "news:https://cryptoslate.com/is-using-an-old-iphone-is-safer-than-a-crypto-hardware-wallet-zachxbt-thinks-so/",
+      "news:https://cryptoslate.com/blackrock-made-82-million-as-crypto-erased-30-billion-from-its-funds-now-it-wants-inside-your-wallet/",
+      "news:https://cryptoslate.com/ethereum-is-gaining-on-bitcoin-as-traders-see-a-bigger-breakout-taking-shape/"
     ]
   },
   "init": {
