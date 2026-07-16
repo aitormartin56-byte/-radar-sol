@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T16:52:22.000Z",
+  "updated_at": "2026-07-16T20:14:27.000Z",
   "counts": {
     "bounties": 13,
     "grants": 43,
@@ -14,7 +14,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-07-17T21:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 341,
+      "submissions": 352,
       "url": "https://superteam.fun/earn/listing/create-twitter-posts-explaining-streamflow-business",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "worm ",
       "deadline": "2026-07-20T03:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 40,
+      "submissions": 41,
       "url": "https://superteam.fun/earn/listing/create-content-on-worm-cup",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Promethium ",
       "deadline": "2026-07-21T20:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 53,
+      "submissions": 55,
       "url": "https://superteam.fun/earn/listing/promethium",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-07-22T06:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 6,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/moonyvideobounty",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "Lavarage",
       "deadline": "2026-07-22T16:59:59.000Z",
-      "time_left": "cierra en 6 días",
-      "submissions": 25,
+      "time_left": "cierra en 5 días",
+      "submissions": 26,
       "url": "https://superteam.fun/earn/listing/make-a-short-video-on-lavarage-v2-leverage-frontier-assets-on-solana",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Hedge Your Fun",
       "deadline": "2026-07-22T20:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 239,
+      "submissions": 274,
       "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
       "featured": false
     },
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Nibble",
       "deadline": "2026-07-27T18:29:59.999Z",
-      "time_left": "cierra en 11 días",
+      "time_left": "cierra en 10 días",
       "submissions": 4,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
@@ -98,7 +98,7 @@
       "sponsor": "Mermail",
       "deadline": "2026-07-30T13:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 4,
+      "submissions": 9,
       "url": "https://superteam.fun/earn/listing/write-an-x-post-about-mermailapp",
       "featured": false
     },
@@ -134,7 +134,7 @@
       "sponsor": "FBYT",
       "deadline": "2026-07-31T21:59:59.000Z",
       "time_left": "cierra en 15 días",
-      "submissions": 3,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
