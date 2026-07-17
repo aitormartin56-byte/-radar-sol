@@ -30,7 +30,8 @@
       "st:425d974e-f665-40f5-a17b-1bbcb747ae8b",
       "st:d91eb9a6-241f-4041-aff5-5f1554732741",
       "st:90cba574-26ab-4c5b-8f1b-502fafbcf1e9",
-      "st:8e9ada54-767d-4892-8720-8c0eb595b6e0"
+      "st:8e9ada54-767d-4892-8720-8c0eb595b6e0",
+      "st:8d0a7d55-1702-48c9-aade-70d3f98ee62c"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -853,7 +854,19 @@
       "news:https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/london-police-sentence-hackers-crypto-ransom-public-transport?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-bottom-countdown-nears-50-days-after-btc-supply-in-loss-passed-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/us-indicts-crypto-investor-over-alleged-20m-fraud-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
+      "news:https://decrypt.co/373696/bitcoin-tests-63k-as-long-term-holders-keep-selling-at-a-loss",
+      "news:https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment",
+      "news:https://cryptoslate.com/bitcoin-reclaiming-its-69000-holder-cost-basis-could-open-xrps-path-to-1-26/",
+      "news:https://cryptoslate.com/spacex-hype-collapses-with-600-million-still-carrying-leveraged-bets-before-a-massive-share-unlock/",
+      "news:https://cryptoslate.com/bitcoin-buyers-and-bagholders-are-both-selling-into-the-rebound-below-70000/"
     ]
   },
   "init": {
