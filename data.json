@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T07:11:16.000Z",
+  "updated_at": "2026-07-18T11:18:47.000Z",
   "counts": {
     "bounties": 12,
     "grants": 43,
@@ -14,7 +14,7 @@
       "sponsor": "worm ",
       "deadline": "2026-07-20T03:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 54,
+      "submissions": 55,
       "url": "https://superteam.fun/earn/listing/create-content-on-worm-cup",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Promethium ",
       "deadline": "2026-07-21T20:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 82,
+      "submissions": 87,
       "url": "https://superteam.fun/earn/listing/promethium",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Hedge Your Fun",
       "deadline": "2026-07-22T20:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 336,
+      "submissions": 339,
       "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Mermail",
       "deadline": "2026-07-30T13:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 14,
+      "submissions": 15,
       "url": "https://superteam.fun/earn/listing/write-an-x-post-about-mermailapp",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 87,
+      "submissions": 89,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 23,
+      "submissions": 24,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
