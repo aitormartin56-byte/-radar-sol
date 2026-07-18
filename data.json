@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T23:32:42.000Z",
+  "updated_at": "2026-07-18T07:11:16.000Z",
   "counts": {
     "bounties": 12,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-07-20T03:59:59.000Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 53,
+      "time_left": "cierra en 1 día",
+      "submissions": 54,
       "url": "https://superteam.fun/earn/listing/create-content-on-worm-cup",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Promethium ",
       "deadline": "2026-07-21T20:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 77,
+      "submissions": 82,
       "url": "https://superteam.fun/earn/listing/promethium",
       "featured": false
     },
@@ -37,7 +37,7 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-07-22T06:59:59.999Z",
-      "time_left": "cierra en 4 días",
+      "time_left": "cierra en 3 días",
       "submissions": 7,
       "url": "https://superteam.fun/earn/listing/moonyvideobounty",
       "featured": false
@@ -50,7 +50,7 @@
       "sponsor": "Lavarage",
       "deadline": "2026-07-22T16:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 28,
+      "submissions": 30,
       "url": "https://superteam.fun/earn/listing/make-a-short-video-on-lavarage-v2-leverage-frontier-assets-on-solana",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Hedge Your Fun",
       "deadline": "2026-07-22T20:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 333,
+      "submissions": 336,
       "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Mermail",
       "deadline": "2026-07-30T13:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 12,
+      "submissions": 14,
       "url": "https://superteam.fun/earn/listing/write-an-x-post-about-mermailapp",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 86,
+      "submissions": 87,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 21,
+      "submissions": 23,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -146,7 +146,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 33 días",
-      "submissions": 48,
+      "submissions": 49,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
