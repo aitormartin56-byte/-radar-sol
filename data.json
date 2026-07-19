@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:11:11.000Z",
+  "updated_at": "2026-07-19T21:32:52.000Z",
   "counts": {
     "bounties": 14,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-07-20T03:59:59.000Z",
-      "time_left": "cierra en 9h",
-      "submissions": 90,
+      "time_left": "cierra en 6h",
+      "submissions": 93,
       "url": "https://superteam.fun/earn/listing/create-content-on-worm-cup",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Promethium ",
       "deadline": "2026-07-21T20:59:59.999Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 124,
+      "time_left": "cierra en 1 día",
+      "submissions": 126,
       "url": "https://superteam.fun/earn/listing/promethium",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "project",
       "sponsor": "Hedge Your Fun",
       "deadline": "2026-07-22T20:59:59.999Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 362,
+      "time_left": "cierra en 2 días",
+      "submissions": 364,
       "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Dipcoin Labs",
       "deadline": "2026-07-23T02:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 18,
+      "submissions": 19,
       "url": "https://superteam.fun/earn/listing/x-postthread-about-dipcoinio-on-solana-and-trade-and-earn-campaign",
       "featured": false
     },
@@ -97,8 +97,8 @@
       "type": "bounty",
       "sponsor": "Nibble",
       "deadline": "2026-07-27T18:29:59.999Z",
-      "time_left": "cierra en 8 días",
-      "submissions": 10,
+      "time_left": "cierra en 7 días",
+      "submissions": 11,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
     },
@@ -170,7 +170,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 32 días",
-      "submissions": 63,
+      "submissions": 64,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
