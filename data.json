@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-07-22T20:19:45.000Z",
+  "updated_at": "2026-07-22T23:48:09.000Z",
   "counts": {
-    "bounties": 12,
+    "bounties": 11,
     "grants": 43,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Full Stack Solana Developer for Production MVP",
-      "reward": "24000 USDC",
-      "type": "project",
-      "sponsor": "Hedge Your Fun",
-      "deadline": "2026-07-22T20:59:59.999Z",
-      "time_left": "cierra en <1h",
-      "submissions": 418,
-      "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Content about Dipcoin.io on Solana",
@@ -26,7 +14,7 @@
       "sponsor": "Dipcoin Labs",
       "deadline": "2026-07-25T02:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 58,
+      "submissions": 62,
       "url": "https://superteam.fun/earn/listing/x-postthread-about-dipcoinio-on-solana-and-trade-and-earn-campaign",
       "featured": false
     },
@@ -37,8 +25,8 @@
       "type": "project",
       "sponsor": "Coldstar",
       "deadline": "2026-07-26T22:59:59.999Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 36,
+      "time_left": "cierra en 3 días",
+      "submissions": 38,
       "url": "https://superteam.fun/earn/listing/coldstar-mobile-app-dev",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "Mermail",
       "deadline": "2026-07-30T13:59:59.999Z",
       "time_left": "cierra en 7 días",
-      "submissions": 41,
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/write-an-x-post-about-mermailapp",
       "featured": false
     },
@@ -73,7 +61,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
-      "time_left": "cierra en 8 días",
+      "time_left": "cierra en 7 días",
       "submissions": 138,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
@@ -86,7 +74,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 40,
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -97,7 +85,7 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-07-31T21:59:59.000Z",
-      "time_left": "cierra en 9 días",
+      "time_left": "cierra en 8 días",
       "submissions": 5,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
@@ -122,7 +110,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 3,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -145,8 +133,8 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 29 días",
-      "submissions": 72,
+      "time_left": "cierra en 28 días",
+      "submissions": 73,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
