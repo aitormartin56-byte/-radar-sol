@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-07-21T20:40:20.000Z",
+  "updated_at": "2026-07-22T00:09:01.000Z",
   "counts": {
-    "bounties": 14,
+    "bounties": 13,
     "grants": 43,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Write a Twitter thread",
-      "reward": "300 USDC",
-      "type": "bounty",
-      "sponsor": "Promethium ",
-      "deadline": "2026-07-21T20:59:59.999Z",
-      "time_left": "cierra en <1h",
-      "submissions": 237,
-      "url": "https://superteam.fun/earn/listing/promethium",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Create Video Content For Moony Community",
@@ -25,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-07-22T06:59:59.999Z",
-      "time_left": "cierra en 10h",
+      "time_left": "cierra en 6h",
       "submissions": 17,
       "url": "https://superteam.fun/earn/listing/moonyvideobounty",
       "featured": false
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Lavarage",
       "deadline": "2026-07-22T16:59:59.000Z",
-      "time_left": "cierra en 20h",
-      "submissions": 44,
+      "time_left": "cierra en 16h",
+      "submissions": 47,
       "url": "https://superteam.fun/earn/listing/make-a-short-video-on-lavarage-v2-leverage-frontier-assets-on-solana",
       "featured": false
     },
@@ -49,8 +37,8 @@
       "type": "project",
       "sponsor": "Hedge Your Fun",
       "deadline": "2026-07-22T20:59:59.999Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 395,
+      "time_left": "cierra en 20h",
+      "submissions": 397,
       "url": "https://superteam.fun/earn/listing/full-stack-solana-developer-for-production-mvp",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "Dipcoin Labs",
       "deadline": "2026-07-25T02:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 46,
+      "submissions": 48,
       "url": "https://superteam.fun/earn/listing/x-postthread-about-dipcoinio-on-solana-and-trade-and-earn-campaign",
       "featured": false
     },
@@ -73,7 +61,7 @@
       "type": "project",
       "sponsor": "Coldstar",
       "deadline": "2026-07-26T22:59:59.999Z",
-      "time_left": "cierra en 5 días",
+      "time_left": "cierra en 4 días",
       "submissions": 29,
       "url": "https://superteam.fun/earn/listing/coldstar-mobile-app-dev",
       "featured": false
@@ -86,7 +74,7 @@
       "sponsor": "Nibble",
       "deadline": "2026-07-27T18:29:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 28,
+      "submissions": 29,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
     },
@@ -109,8 +97,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 129,
+      "time_left": "cierra en 8 días",
+      "submissions": 130,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -133,7 +121,7 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-07-31T21:59:59.000Z",
-      "time_left": "cierra en 10 días",
+      "time_left": "cierra en 9 días",
       "submissions": 5,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
@@ -169,8 +157,8 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 30 días",
-      "submissions": 70,
+      "time_left": "cierra en 29 días",
+      "submissions": 71,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
