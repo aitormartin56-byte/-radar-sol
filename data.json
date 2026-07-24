@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T15:17:29.000Z",
+  "updated_at": "2026-07-24T20:05:38.000Z",
   "counts": {
     "bounties": 11,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Dipcoin Labs",
       "deadline": "2026-07-25T02:59:59.000Z",
-      "time_left": "cierra en 11h",
-      "submissions": 117,
+      "time_left": "cierra en 6h",
+      "submissions": 125,
       "url": "https://superteam.fun/earn/listing/x-postthread-about-dipcoinio-on-solana-and-trade-and-earn-campaign",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Coldstar",
       "deadline": "2026-07-26T22:59:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 44,
+      "submissions": 46,
       "url": "https://superteam.fun/earn/listing/coldstar-mobile-app-dev",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "Nibble",
       "deadline": "2026-07-27T18:29:59.999Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 52,
+      "time_left": "cierra en 2 días",
+      "submissions": 55,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 167,
+      "submissions": 175,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -73,8 +73,8 @@
       "type": "bounty",
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 49,
+      "time_left": "cierra en 6 días",
+      "submissions": 52,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "FBYT",
       "deadline": "2026-07-31T21:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 7,
+      "submissions": 8,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -97,8 +97,8 @@
       "type": "bounty",
       "sponsor": "Eva.fun",
       "deadline": "2026-08-01T15:59:59.000Z",
-      "time_left": "cierra en 8 días",
-      "submissions": 14,
+      "time_left": "cierra en 7 días",
+      "submissions": 15,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-eva-mainnet",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 11 días",
-      "submissions": 25,
+      "submissions": 28,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
