@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T07:44:28.000Z",
+  "updated_at": "2026-07-25T11:51:31.000Z",
   "counts": {
     "bounties": 10,
     "grants": 43,
@@ -14,7 +14,7 @@
       "sponsor": "Coldstar",
       "deadline": "2026-07-26T22:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 47,
+      "submissions": 48,
       "url": "https://superteam.fun/earn/listing/coldstar-mobile-app-dev",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Nibble",
       "deadline": "2026-07-27T18:29:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 62,
+      "submissions": 65,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-07-30T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 182,
+      "submissions": 185,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 52,
+      "submissions": 53,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
