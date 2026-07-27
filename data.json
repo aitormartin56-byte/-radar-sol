@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T17:20:39.000Z",
+  "updated_at": "2026-07-27T21:43:30.000Z",
   "counts": {
     "bounties": 9,
     "grants": 43,
@@ -12,9 +12,9 @@
       "reward": "500 USDC",
       "type": "bounty",
       "sponsor": "Nibble",
-      "deadline": "2026-07-27T18:29:59.999Z",
-      "time_left": "cierra en 1h",
-      "submissions": 123,
+      "deadline": "2026-07-29T18:29:59.000Z",
+      "time_left": "cierra en 1 día",
+      "submissions": 126,
       "url": "https://superteam.fun/earn/listing/nibble",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Mermail",
       "deadline": "2026-07-30T13:59:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 135,
+      "submissions": 137,
       "url": "https://superteam.fun/earn/listing/write-an-x-post-about-mermailapp",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 59,
+      "submissions": 60,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "FBYT",
       "deadline": "2026-07-31T21:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 10,
+      "submissions": 11,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Eva.fun",
       "deadline": "2026-08-01T15:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 22,
+      "submissions": 23,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-eva-mainnet",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 8 días",
-      "submissions": 56,
+      "submissions": 57,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 209,
+      "submissions": 212,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
