@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-07-29T16:05:07.000Z",
+  "updated_at": "2026-07-29T20:17:43.000Z",
   "counts": {
-    "bounties": 9,
+    "bounties": 8,
     "grants": 43,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Write a Twitter thread",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Nibble",
-      "deadline": "2026-07-29T18:29:59.000Z",
-      "time_left": "cierra en 2h",
-      "submissions": 150,
-      "url": "https://superteam.fun/earn/listing/nibble",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Write an X post about Mermail.app",
@@ -25,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Mermail",
       "deadline": "2026-07-30T13:59:59.999Z",
-      "time_left": "cierra en 21h",
-      "submissions": 174,
+      "time_left": "cierra en 17h",
+      "submissions": 179,
       "url": "https://superteam.fun/earn/listing/write-an-x-post-about-mermailapp",
       "featured": false
     },
@@ -38,7 +26,7 @@
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 73,
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -74,7 +62,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 77,
+      "submissions": 81,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -86,7 +74,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 224,
+      "submissions": 227,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
