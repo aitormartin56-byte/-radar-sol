@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T16:27:00.000Z",
+  "updated_at": "2026-07-30T17:57:22.000Z",
   "counts": {
     "bounties": 7,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
-      "time_left": "cierra en 23h",
-      "submissions": 82,
+      "time_left": "cierra en 22h",
+      "submissions": 83,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 92,
+      "submissions": 94,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 235,
+      "submissions": 236,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 21 días",
-      "submissions": 87,
+      "submissions": 88,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
