@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T19:42:21.000Z",
+  "updated_at": "2026-07-30T21:11:08.000Z",
   "counts": {
     "bounties": 7,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Rosen",
       "deadline": "2026-07-31T15:59:59.000Z",
-      "time_left": "cierra en 20h",
-      "submissions": 83,
+      "time_left": "cierra en 18h",
+      "submissions": 86,
       "url": "https://superteam.fun/earn/listing/become-a-rosen-global-ambassador-cohort-4-earn-create-and-build",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 236,
+      "submissions": 238,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
