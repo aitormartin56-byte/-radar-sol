@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T20:21:02.000Z",
+  "updated_at": "2026-07-31T21:38:35.000Z",
   "counts": {
     "bounties": 6,
     "grants": 43,
@@ -8,24 +8,12 @@
   "bounties": [
     {
       "kind": "bounty",
-      "title": "Create Content for FBYT",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "FBYT",
-      "deadline": "2026-07-31T21:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 43,
-      "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "Write a Twitter Thread on Eva Mainnet",
       "reward": "120 USDC",
       "type": "bounty",
       "sponsor": "Eva.fun",
       "deadline": "2026-08-01T15:59:59.000Z",
-      "time_left": "cierra en 19h",
+      "time_left": "cierra en 18h",
       "submissions": 36,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-eva-mainnet",
       "featured": false
@@ -38,8 +26,20 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 119,
+      "submissions": 122,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Content for FBYT",
+      "reward": "600 USDC",
+      "type": "bounty",
+      "sponsor": "FBYT",
+      "deadline": "2026-08-07T21:59:59.000Z",
+      "time_left": "cierra en 7 días",
+      "submissions": 44,
+      "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
     {
