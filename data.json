@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:38:35.000Z",
+  "updated_at": "2026-07-31T23:01:53.000Z",
   "counts": {
     "bounties": 6,
     "grants": 43,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Eva.fun",
       "deadline": "2026-08-01T15:59:59.000Z",
-      "time_left": "cierra en 18h",
-      "submissions": 36,
+      "time_left": "cierra en 16h",
+      "submissions": 37,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-eva-mainnet",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 122,
+      "submissions": 124,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 44,
+      "time_left": "cierra en 6 días",
+      "submissions": 50,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 245,
+      "time_left": "cierra en 8 días",
+      "submissions": 246,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -73,7 +73,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 20 días",
+      "time_left": "cierra en 19 días",
       "submissions": 90,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
