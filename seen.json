@@ -1423,7 +1423,15 @@
       "news:https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-      "news:https://cryptoslate.com/a-flaw-in-coldcard-seed-generation-lets-attackers-recreate-private-keys-from-the-press-of-a-button/"
+      "news:https://cryptoslate.com/a-flaw-in-coldcard-seed-generation-lets-attackers-recreate-private-keys-from-the-press-of-a-button/",
+      "news:https://cointelegraph.com/markets/citadel-situational-awareness-stock-portfolio-ai-rout-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
+      "news:https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
+      "news:https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
+      "news:https://cryptoslate.com/zcash-fixed-the-flaw-that-nearly-halved-zec-and-926-million-in-leverage-now-tests-the-rebound/",
+      "news:https://cryptoslate.com/as-ethereum-turns-11-years-old-it-hosts-148b-in-stablecoins-but-daily-mainnet-revenue-just-fell-to-330k/"
     ]
   },
   "init": {
