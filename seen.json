@@ -1419,7 +1419,11 @@
       "news:https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/how-a-safety-suppliers-highly-publicized-32m-bitcoin-strategy-quietly-expired-without-purchasing-a-single-coin/",
-      "news:https://cryptoslate.com/bitcoin-etfs-just-broke-a-brutal-500m-losing-streak-but-the-entire-recovery-is-an-illusion-propped-up-by-blackrock/"
+      "news:https://cryptoslate.com/bitcoin-etfs-just-broke-a-brutal-500m-losing-streak-but-the-entire-recovery-is-an-illusion-propped-up-by-blackrock/",
+      "news:https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+      "news:https://cryptoslate.com/a-flaw-in-coldcard-seed-generation-lets-attackers-recreate-private-keys-from-the-press-of-a-button/"
     ]
   },
   "init": {
