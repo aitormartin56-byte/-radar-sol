@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T16:01:50.000Z",
+  "updated_at": "2026-08-02T17:32:10.000Z",
   "counts": {
     "bounties": 5,
     "grants": 43,
@@ -14,7 +14,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 186,
+      "submissions": 188,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 18 días",
-      "submissions": 99,
+      "submissions": 100,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     }
