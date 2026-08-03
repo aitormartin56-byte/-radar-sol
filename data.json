@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:17:02.000Z",
+  "updated_at": "2026-08-03T20:11:46.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -14,7 +14,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 217,
+      "submissions": 220,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -85,8 +85,8 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 22 días",
-      "submissions": 0,
+      "time_left": "cierra en 21 días",
+      "submissions": 2,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     }
