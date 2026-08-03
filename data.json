@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T16:02:42.000Z",
+  "updated_at": "2026-08-03T18:17:02.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -14,7 +14,7 @@
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 213,
+      "submissions": 217,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 273,
+      "submissions": 276,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -56,26 +56,26 @@
     },
     {
       "kind": "bounty",
-      "title": "Create The Best X Thread About My Crypto Casino",
-      "reward": "1500 USDC",
-      "type": "bounty",
-      "sponsor": "My Crypto Casino",
-      "deadline": "2026-08-16T21:59:59.000Z",
-      "time_left": "cierra en 13 días",
-      "submissions": 1,
-      "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "Find Critical Vulnerabilities in Veilo Mainnet Smart Contracts for Fund Loss",
       "reward": "2000 USDC",
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 17 días",
-      "submissions": 107,
+      "submissions": 108,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create The Best X Thread About My Crypto Casino",
+      "reward": "1500 USDC",
+      "type": "bounty",
+      "sponsor": "My Crypto Casino",
+      "deadline": "2026-08-23T21:59:59.000Z",
+      "time_left": "cierra en 20 días",
+      "submissions": 2,
+      "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     },
     {
