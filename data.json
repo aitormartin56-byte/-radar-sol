@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T10:10:32.000Z",
+  "updated_at": "2026-08-04T12:25:45.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
-      "time_left": "cierra en 17h",
-      "submissions": 231,
+      "time_left": "cierra en 15h",
+      "submissions": 234,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 62,
+      "submissions": 64,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
