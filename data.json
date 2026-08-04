@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T00:59:15.000Z",
+  "updated_at": "2026-08-04T04:20:12.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 223,
+      "time_left": "cierra en 23h",
+      "submissions": 224,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 282,
+      "submissions": 283,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "Perena",
       "deadline": "2026-08-11T03:59:59.999Z",
-      "time_left": "cierra en 7 días",
+      "time_left": "cierra en 6 días",
       "submissions": 11,
       "url": "https://superteam.fun/earn/listing/ask-the-suits",
       "featured": false
