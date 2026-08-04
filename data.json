@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T07:13:51.000Z",
+  "updated_at": "2026-08-04T10:10:32.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
-      "time_left": "cierra en 20h",
-      "submissions": 227,
+      "time_left": "cierra en 17h",
+      "submissions": 231,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 60,
+      "submissions": 62,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 283,
+      "submissions": 284,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 16 días",
-      "submissions": 111,
+      "submissions": 112,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-08-23T21:59:59.000Z",
       "time_left": "cierra en 19 días",
-      "submissions": 3,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
       "time_left": "cierra en 21 días",
-      "submissions": 3,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     }
