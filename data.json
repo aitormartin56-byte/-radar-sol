@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T12:25:45.000Z",
+  "updated_at": "2026-08-04T15:02:02.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Melee Markets",
       "deadline": "2026-08-05T03:59:59.999Z",
-      "time_left": "cierra en 15h",
-      "submissions": 234,
+      "time_left": "cierra en 12h",
+      "submissions": 240,
       "url": "https://superteam.fun/earn/listing/write-a-twitter-thread-on-the-pmm-litepaper",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 284,
+      "submissions": 285,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Perena",
       "deadline": "2026-08-11T03:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 11,
+      "submissions": 12,
       "url": "https://superteam.fun/earn/listing/ask-the-suits",
       "featured": false
     },
@@ -68,26 +68,26 @@
     },
     {
       "kind": "bounty",
-      "title": "Create The Best X Thread About My Crypto Casino",
-      "reward": "1500 USDC",
-      "type": "bounty",
-      "sponsor": "My Crypto Casino",
-      "deadline": "2026-08-23T21:59:59.000Z",
-      "time_left": "cierra en 19 días",
-      "submissions": 4,
-      "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "Create the Ultimate HuzzFun AI  Hype Video",
       "reward": "550 USDC",
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
       "time_left": "cierra en 21 días",
-      "submissions": 4,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create The Best X Thread About My Crypto Casino",
+      "reward": "1500 USDC",
+      "type": "bounty",
+      "sponsor": "My Crypto Casino",
+      "deadline": "2026-09-04T21:59:59.000Z",
+      "time_left": "cierra en 31 días",
+      "submissions": 4,
+      "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     }
   ],
