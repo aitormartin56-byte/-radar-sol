@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T19:35:48.000Z",
+  "updated_at": "2026-08-05T21:09:39.000Z",
   "counts": {
     "bounties": 8,
     "grants": 44,
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 300,
+      "submissions": 302,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 9 días",
+      "time_left": "cierra en 8 días",
       "submissions": 11,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
