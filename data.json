@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T05:46:40.000Z",
+  "updated_at": "2026-08-05T08:36:59.000Z",
   "counts": {
     "bounties": 7,
     "grants": 44,
@@ -50,7 +50,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 4,
+      "submissions": 6,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 15 días",
-      "submissions": 115,
+      "submissions": 117,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
       "time_left": "cierra en 30 días",
-      "submissions": 5,
+      "submissions": 6,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     }
