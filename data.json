@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:09:39.000Z",
+  "updated_at": "2026-08-05T22:34:47.000Z",
   "counts": {
     "bounties": 8,
     "grants": 44,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 72,
+      "time_left": "cierra en 1 día",
+      "submissions": 73,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
-      "time_left": "cierra en 23 días",
+      "time_left": "cierra en 22 días",
       "submissions": 4,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
@@ -97,7 +97,7 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 30 días",
+      "time_left": "cierra en 29 días",
       "submissions": 8,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
