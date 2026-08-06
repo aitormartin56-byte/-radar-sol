@@ -31,7 +31,8 @@
       "st:d91eb9a6-241f-4041-aff5-5f1554732741",
       "st:90cba574-26ab-4c5b-8f1b-502fafbcf1e9",
       "st:8e9ada54-767d-4892-8720-8c0eb595b6e0",
-      "st:8d0a7d55-1702-48c9-aade-70d3f98ee62c"
+      "st:8d0a7d55-1702-48c9-aade-70d3f98ee62c",
+      "st:7ec8100f-6e21-46be-8fac-a77b88b2bd10"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -1691,7 +1692,21 @@
       "news:https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
       "news:https://cryptoslate.com/canaan-can-use-crypto-to-buy-back-nearly-20-of-its-market-value-while-its-core-business-burns-cash/",
-      "news:https://cryptoslate.com/spacexs-85-billion-ipo-windfall-went-everywhere-except-bitcoin/"
+      "news:https://cryptoslate.com/spacexs-85-billion-ipo-windfall-went-everywhere-except-bitcoin/",
+      "news:https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "news:https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+      "news:https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+      "news:https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
+      "news:https://cryptoslate.com/stablecoin-payments-fx-local-currency-settlement/",
+      "news:https://cryptoslate.com/hut-8s-7-billion-cash-balance-shrinks-to-233-million-outside-its-ai-projects/",
+      "news:https://cryptoslate.com/bitcoin-miner-sells-1619-bitcoin-at-a-47-7-million-loss-before-its-ai-data-center-paid-rent/"
     ]
   },
   "init": {
