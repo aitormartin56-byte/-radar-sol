@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T06:12:25.000Z",
+  "updated_at": "2026-08-06T09:21:36.000Z",
   "counts": {
     "bounties": 8,
     "grants": 44,
@@ -14,7 +14,7 @@
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 73,
+      "submissions": 76,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 306,
+      "submissions": 307,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Perena",
       "deadline": "2026-08-11T03:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 14,
+      "submissions": 15,
       "url": "https://superteam.fun/earn/listing/ask-the-suits",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 11,
+      "submissions": 13,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 22 días",
-      "submissions": 5,
+      "submissions": 6,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
       "time_left": "cierra en 29 días",
-      "submissions": 9,
+      "submissions": 10,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     }
