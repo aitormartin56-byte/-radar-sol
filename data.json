@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-06T14:11:13.000Z",
+  "updated_at": "2026-08-07T00:24:10.000Z",
   "counts": {
     "bounties": 8,
-    "grants": 44,
+    "grants": 46,
     "news": 0
   },
   "bounties": [
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 78,
+      "time_left": "cierra en 21h",
+      "submissions": 79,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 311,
+      "time_left": "cierra en 2 días",
+      "submissions": 317,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 8 días",
-      "submissions": 13,
+      "time_left": "cierra en 7 días",
+      "submissions": 15,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 14 días",
-      "submissions": 120,
+      "time_left": "cierra en 13 días",
+      "submissions": 122,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -73,7 +73,7 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 19 días",
+      "time_left": "cierra en 18 días",
       "submissions": 12,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
@@ -85,8 +85,8 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
-      "time_left": "cierra en 22 días",
-      "submissions": 7,
+      "time_left": "cierra en 21 días",
+      "submissions": 8,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
@@ -97,13 +97,29 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 29 días",
-      "submissions": 10,
+      "time_left": "cierra en 28 días",
+      "submissions": 11,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     }
   ],
   "grants": [
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Vietnam)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Vietnam",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-vietnam"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Thailand)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Thailand ",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-thailand"
+    },
     {
       "kind": "grant",
       "title": "Agentic Engineering Grants",
@@ -234,11 +250,19 @@
     },
     {
       "kind": "grant",
-      "title": "Solana Foundation Kazakhstan Grants",
+      "title": "Solana Foundation Ireland Grants",
       "reward": "0–10000 USDG",
-      "sponsor": "Superteam Kazakhstan",
+      "sponsor": "Superteam Ireland",
       "applications": 0,
-      "url": "https://superteam.fun/earn/grants/solana-foundation-kazakhstan-grants"
+      "url": "https://superteam.fun/earn/grants/solana-foundation-ireland-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Indonesia)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Indonesia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-indonesia"
     },
     {
       "kind": "grant",
@@ -247,6 +271,14 @@
       "sponsor": "Superteam Georgia",
       "applications": 0,
       "url": "https://superteam.fun/earn/grants/solana-foundation-georgia-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Spain)",
+      "reward": "0–500 USDG",
+      "sponsor": "La Familia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-spain"
     },
     {
       "kind": "grant",
@@ -266,11 +298,27 @@
     },
     {
       "kind": "grant",
+      "title": "Solana Foundation Kazakhstan Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Kazakhstan",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-kazakhstan-grants"
+    },
+    {
+      "kind": "grant",
       "title": "The Touching Grass Fund (Ireland)",
       "reward": "0–500 USDG",
       "sponsor": "Superteam Ireland",
       "applications": 0,
       "url": "https://superteam.fun/earn/grants/touching-grass-ireland"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Canada Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Canada",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-canada-grants"
     },
     {
       "kind": "grant",
@@ -282,11 +330,11 @@
     },
     {
       "kind": "grant",
-      "title": "La Familia Spain Grants",
-      "reward": "0–10000 USDG",
-      "sponsor": "La Familia",
+      "title": "The Touching Grass Fund (Kazakhstan)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Kazakhstan",
       "applications": 0,
-      "url": "https://superteam.fun/earn/grants/spain-grants"
+      "url": "https://superteam.fun/earn/grants/touching-grass-kazakhstan"
     },
     {
       "kind": "grant",
@@ -298,43 +346,11 @@
     },
     {
       "kind": "grant",
-      "title": "The Touching Grass Fund (Spain)",
-      "reward": "0–500 USDG",
+      "title": "La Familia Spain Grants",
+      "reward": "0–10000 USDG",
       "sponsor": "La Familia",
       "applications": 0,
-      "url": "https://superteam.fun/earn/grants/touching-grass-spain"
-    },
-    {
-      "kind": "grant",
-      "title": "The Touching Grass Fund (Kazakhstan)",
-      "reward": "0–500 USDG",
-      "sponsor": "Superteam Kazakhstan",
-      "applications": 0,
-      "url": "https://superteam.fun/earn/grants/touching-grass-kazakhstan"
-    },
-    {
-      "kind": "grant",
-      "title": "The Touching Grass Fund (Indonesia)",
-      "reward": "0–500 USDG",
-      "sponsor": "Superteam Indonesia",
-      "applications": 0,
-      "url": "https://superteam.fun/earn/grants/touching-grass-indonesia"
-    },
-    {
-      "kind": "grant",
-      "title": "Solana Foundation Ireland Grants",
-      "reward": "0–10000 USDG",
-      "sponsor": "Superteam Ireland",
-      "applications": 0,
-      "url": "https://superteam.fun/earn/grants/solana-foundation-ireland-grants"
-    },
-    {
-      "kind": "grant",
-      "title": "Solana Foundation Canada Grants",
-      "reward": "0–10000 USDG",
-      "sponsor": "Superteam Canada",
-      "applications": 0,
-      "url": "https://superteam.fun/earn/grants/solana-foundation-canada-grants"
+      "url": "https://superteam.fun/earn/grants/spain-grants"
     },
     {
       "kind": "grant",
@@ -386,19 +402,11 @@
     },
     {
       "kind": "grant",
-      "title": "Solana Foundation Australia Grants",
+      "title": "Solana Foundation Poland Grants",
       "reward": "0–10000 USDG",
-      "sponsor": "Superteam Australia",
+      "sponsor": "Superteam Poland",
       "applications": 0,
-      "url": "https://superteam.fun/earn/grants/australia-grants"
-    },
-    {
-      "kind": "grant",
-      "title": "The Touching Grass Fund (Australia)",
-      "reward": "0–500 USDG",
-      "sponsor": "Superteam Australia",
-      "applications": 0,
-      "url": "https://superteam.fun/earn/grants/touching-grass-australia"
+      "url": "https://superteam.fun/earn/grants/Poland-grants"
     },
     {
       "kind": "grant",
@@ -410,19 +418,19 @@
     },
     {
       "kind": "grant",
-      "title": "Solana Foundation Poland Grants",
-      "reward": "0–10000 USDG",
-      "sponsor": "Superteam Poland",
+      "title": "The Touching Grass Fund (Australia)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Australia",
       "applications": 0,
-      "url": "https://superteam.fun/earn/grants/Poland-grants"
+      "url": "https://superteam.fun/earn/grants/touching-grass-australia"
     },
     {
       "kind": "grant",
-      "title": "Solana Foundation Turkey Grants",
+      "title": "Solana Foundation Australia Grants",
       "reward": "0–10000 USDG",
-      "sponsor": "Superteam Turkey",
+      "sponsor": "Superteam Australia",
       "applications": 0,
-      "url": "https://superteam.fun/earn/grants/solana-foundation-turkey-grants"
+      "url": "https://superteam.fun/earn/grants/australia-grants"
     },
     {
       "kind": "grant",
@@ -434,11 +442,11 @@
     },
     {
       "kind": "grant",
-      "title": "Solana Foundation Ukraine Grants",
+      "title": "Solana Foundation Turkey Grants",
       "reward": "0–10000 USDG",
-      "sponsor": "Superteam Ukraine",
-      "applications": 41,
-      "url": "https://superteam.fun/earn/grants/solana-foundation-ukraine-grants"
+      "sponsor": "Superteam Turkey",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-turkey-grants"
     },
     {
       "kind": "grant",
@@ -447,6 +455,14 @@
       "sponsor": "Superteam Ukraine",
       "applications": 41,
       "url": "https://superteam.fun/earn/grants/touching-grass-ukraine"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Ukraine Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Ukraine",
+      "applications": 41,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-ukraine-grants"
     },
     {
       "kind": "grant",
