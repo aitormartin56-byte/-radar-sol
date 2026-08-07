@@ -32,7 +32,9 @@
       "st:90cba574-26ab-4c5b-8f1b-502fafbcf1e9",
       "st:8e9ada54-767d-4892-8720-8c0eb595b6e0",
       "st:8d0a7d55-1702-48c9-aade-70d3f98ee62c",
-      "st:7ec8100f-6e21-46be-8fac-a77b88b2bd10"
+      "st:7ec8100f-6e21-46be-8fac-a77b88b2bd10",
+      "st:6c1a670c-db65-4c0d-ae24-1ed87ee1e332",
+      "st:17cfa62d-7581-402a-a32a-8e001f43a702"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -1760,7 +1762,11 @@
       "news:https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
       "news:https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
       "news:https://cryptoslate.com/mara-bitcoin-collateral-long-ridge-financing/",
-      "news:https://cryptoslate.com/a-433-million-bitcoin-accounting-crash-just-exposed-the-high-stakes-gap-in-cleansparks-massive-ai-transition/"
+      "news:https://cryptoslate.com/a-433-million-bitcoin-accounting-crash-just-exposed-the-high-stakes-gap-in-cleansparks-massive-ai-transition/",
+      "news:https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+      "news:https://cryptoslate.com/if-you-use-a-cypher-or-osmosis-card-your-spending-dies-tonight-and-your-unbacked-wallet-could-go-with-it/"
     ]
   },
   "init": {

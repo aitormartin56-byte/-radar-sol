@@ -1,11 +1,120 @@
 {
-  "updated_at": "2026-08-07T13:05:14.000Z",
+  "updated_at": "2026-08-07T14:32:09.000Z",
   "counts": {
-    "bounties": 0,
+    "bounties": 9,
     "grants": 46,
     "news": 0
   },
-  "bounties": [],
+  "bounties": [
+    {
+      "kind": "bounty",
+      "title": "Create Content for FBYT",
+      "reward": "600 USDC",
+      "type": "bounty",
+      "sponsor": "FBYT",
+      "deadline": "2026-08-07T21:59:59.000Z",
+      "time_left": "cierra en 7h",
+      "submissions": 85,
+      "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Panta Market Content Bounty",
+      "reward": "3000 USDG",
+      "type": "bounty",
+      "sponsor": "Panta ",
+      "deadline": "2026-08-09T22:59:59.000Z",
+      "time_left": "cierra en 2 días",
+      "submissions": 325,
+      "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Ask the Suits: TradFi's reaction to RWA",
+      "reward": "1750 USDC",
+      "type": "bounty",
+      "sponsor": "Perena",
+      "deadline": "2026-08-11T03:59:59.999Z",
+      "time_left": "cierra en 3 días",
+      "submissions": 16,
+      "url": "https://superteam.fun/earn/listing/ask-the-suits",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "ERA Security Discussion Bounty (X + Reddit)",
+      "reward": "150 USDC",
+      "type": "bounty",
+      "sponsor": "Era Wallet",
+      "deadline": "2026-08-14T20:59:59.000Z",
+      "time_left": "cierra en 7 días",
+      "submissions": 17,
+      "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Agent ID, claim free tokens, & deploy first RUST contract on the network",
+      "reward": "200 USDC",
+      "type": "bounty",
+      "sponsor": "LOL ventures",
+      "deadline": "2026-08-18T15:59:59.000Z",
+      "time_left": "cierra en 11 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/ai-id",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Find Critical Vulnerabilities in Veilo Mainnet Smart Contracts for Fund Loss",
+      "reward": "2000 USDC",
+      "type": "bounty",
+      "sponsor": "VeiloLayer",
+      "deadline": "2026-08-20T22:59:59.000Z",
+      "time_left": "cierra en 13 días",
+      "submissions": 125,
+      "url": "https://superteam.fun/earn/listing/veilo-bounty",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create the Ultimate HuzzFun AI  Hype Video",
+      "reward": "550 USDC",
+      "type": "bounty",
+      "sponsor": "huzzfun",
+      "deadline": "2026-08-25T18:29:59.000Z",
+      "time_left": "cierra en 18 días",
+      "submissions": 14,
+      "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Twitter Post about NFT Locks on Streamflow",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "Streamflow Finance",
+      "deadline": "2026-08-28T21:59:59.000Z",
+      "time_left": "cierra en 21 días",
+      "submissions": 9,
+      "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create The Best X Thread About My Crypto Casino",
+      "reward": "1500 USDC",
+      "type": "bounty",
+      "sponsor": "My Crypto Casino",
+      "deadline": "2026-09-04T21:59:59.000Z",
+      "time_left": "cierra en 28 días",
+      "submissions": 11,
+      "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
+      "featured": false
+    }
+  ],
   "grants": [
     {
       "kind": "grant",
