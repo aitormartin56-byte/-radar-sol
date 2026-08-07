@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T18:58:18.000Z",
+  "updated_at": "2026-08-07T19:54:46.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 3h",
+      "time_left": "cierra en 2h",
       "submissions": 91,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
