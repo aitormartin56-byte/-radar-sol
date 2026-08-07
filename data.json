@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T06:46:51.000Z",
+  "updated_at": "2026-08-07T08:14:33.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 15h",
+      "time_left": "cierra en 13h",
       "submissions": 81,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 318,
+      "submissions": 320,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 16,
+      "submissions": 17,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 122,
+      "submissions": 123,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
