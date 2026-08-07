@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T10:52:40.000Z",
+  "updated_at": "2026-08-07T11:46:05.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 11h",
-      "submissions": 83,
+      "time_left": "cierra en 10h",
+      "submissions": 84,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 321,
+      "submissions": 322,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
