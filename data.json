@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:32:17.000Z",
+  "updated_at": "2026-08-07T10:52:40.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "FBYT",
       "deadline": "2026-08-07T21:59:59.000Z",
-      "time_left": "cierra en 12h",
+      "time_left": "cierra en 11h",
       "submissions": 83,
       "url": "https://superteam.fun/earn/listing/create-content-for-fbyt",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 320,
+      "submissions": 321,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
       "time_left": "cierra en 18 días",
-      "submissions": 12,
+      "submissions": 13,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     },
