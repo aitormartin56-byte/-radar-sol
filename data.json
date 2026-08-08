@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:29:43.000Z",
+  "updated_at": "2026-08-08T23:00:12.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 355,
+      "time_left": "cierra en 23h",
+      "submissions": 356,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -61,7 +61,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 12 días",
+      "time_left": "cierra en 11 días",
       "submissions": 131,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
