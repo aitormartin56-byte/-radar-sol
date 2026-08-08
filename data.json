@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:50:26.000Z",
+  "updated_at": "2026-08-08T08:41:54.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 127,
+      "submissions": 128,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
       "time_left": "cierra en 27 días",
-      "submissions": 11,
+      "submissions": 12,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     }
