@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T03:26:27.000Z",
+  "updated_at": "2026-08-08T04:35:52.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -25,7 +25,7 @@
       "type": "bounty",
       "sponsor": "Perena",
       "deadline": "2026-08-11T03:59:59.999Z",
-      "time_left": "cierra en 3 días",
+      "time_left": "cierra en 2 días",
       "submissions": 17,
       "url": "https://superteam.fun/earn/listing/ask-the-suits",
       "featured": false
