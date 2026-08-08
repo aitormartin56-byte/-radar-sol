@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T01:41:31.000Z",
+  "updated_at": "2026-08-08T03:26:27.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -50,7 +50,7 @@
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 6,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
