@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:33:26.000Z",
+  "updated_at": "2026-08-09T20:33:23.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
-      "time_left": "cierra en 3h",
-      "submissions": 389,
+      "time_left": "cierra en 2h",
+      "submissions": 397,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 23,
+      "submissions": 25,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 28,
+      "submissions": 29,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 136,
+      "submissions": 137,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 19 días",
-      "submissions": 17,
+      "submissions": 18,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
