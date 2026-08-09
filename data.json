@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T10:35:14.000Z",
+  "updated_at": "2026-08-09T11:30:10.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-08-09T22:59:59.000Z",
-      "time_left": "cierra en 12h",
-      "submissions": 365,
+      "time_left": "cierra en 11h",
+      "submissions": 366,
       "url": "https://superteam.fun/earn/listing/panta-market-content-bounty",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 31,
+      "submissions": 32,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 4,
+      "submissions": 8,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 22,
+      "submissions": 23,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
