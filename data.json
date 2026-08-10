@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T16:00:04.000Z",
+  "updated_at": "2026-08-10T17:02:38.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Perena",
       "deadline": "2026-08-11T03:59:59.999Z",
-      "time_left": "cierra en 12h",
+      "time_left": "cierra en 10h",
       "submissions": 26,
       "url": "https://superteam.fun/earn/listing/ask-the-suits",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 39,
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 49,
+      "submissions": 53,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
-      "time_left": "cierra en 8 días",
+      "time_left": "cierra en 7 días",
       "submissions": 32,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
@@ -74,7 +74,7 @@
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
       "time_left": "cierra en 15 días",
-      "submissions": 18,
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     },
