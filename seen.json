@@ -34,7 +34,8 @@
       "st:8d0a7d55-1702-48c9-aade-70d3f98ee62c",
       "st:7ec8100f-6e21-46be-8fac-a77b88b2bd10",
       "st:6c1a670c-db65-4c0d-ae24-1ed87ee1e332",
-      "st:17cfa62d-7581-402a-a32a-8e001f43a702"
+      "st:17cfa62d-7581-402a-a32a-8e001f43a702",
+      "st:c86637ca-7aeb-4180-a8e1-92160a40563d"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -1896,7 +1897,10 @@
       "news:https://cryptoslate.com/link-could-be-next-in-line-after-standard-chartereds-uni-and-aave-targets-sparked-sharp-repricings/",
       "news:https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-      "news:https://cryptoslate.com/cardano-finally-cleared-the-sec-shortcut-for-a-spot-etf-but-its-last-remaining-sponsor-quit-two-days-too-early/"
+      "news:https://cryptoslate.com/cardano-finally-cleared-the-sec-shortcut-for-a-spot-etf-but-its-last-remaining-sponsor-quit-two-days-too-early/",
+      "news:https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bitcoin-enters-cpi-week-caught-between-a-63000-on-chain-demand-zone-and-69000-holder-resistance/"
     ]
   },
   "init": {
