@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:42:22.000Z",
+  "updated_at": "2026-08-11T23:41:06.000Z",
   "counts": {
     "bounties": 7,
     "grants": 46,
@@ -26,7 +26,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 81,
+      "submissions": 82,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 9 días",
+      "time_left": "cierra en 8 días",
       "submissions": 140,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
@@ -62,7 +62,7 @@
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 21,
+      "submissions": 22,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     },
