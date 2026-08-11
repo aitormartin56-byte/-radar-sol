@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T23:35:26.000Z",
+  "updated_at": "2026-08-11T01:47:50.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Perena",
       "deadline": "2026-08-11T03:59:59.999Z",
-      "time_left": "cierra en 4h",
-      "submissions": 30,
+      "time_left": "cierra en 2h",
+      "submissions": 31,
       "url": "https://superteam.fun/earn/listing/ask-the-suits",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 57,
+      "submissions": 60,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
