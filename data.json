@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-12T05:55:34.000Z",
+  "updated_at": "2026-08-12T07:26:15.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 8,
     "grants": 46,
     "news": 0
   },
@@ -40,6 +40,18 @@
       "time_left": "cierra en 6 días",
       "submissions": 36,
       "url": "https://superteam.fun/earn/listing/ai-id",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write an X Thread Explaining Echoes & Encouraging Story Recordings",
+      "reward": "250 USDC",
+      "type": "bounty",
+      "sponsor": "Echoes Fans",
+      "deadline": "2026-08-19T20:59:59.999Z",
+      "time_left": "cierra en 7 días",
+      "submissions": 1,
+      "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
     {
@@ -86,7 +98,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
       "time_left": "cierra en 23 días",
-      "submissions": 17,
+      "submissions": 18,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     }
