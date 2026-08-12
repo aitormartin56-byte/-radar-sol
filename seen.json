@@ -35,7 +35,8 @@
       "st:7ec8100f-6e21-46be-8fac-a77b88b2bd10",
       "st:6c1a670c-db65-4c0d-ae24-1ed87ee1e332",
       "st:17cfa62d-7581-402a-a32a-8e001f43a702",
-      "st:c86637ca-7aeb-4180-a8e1-92160a40563d"
+      "st:c86637ca-7aeb-4180-a8e1-92160a40563d",
+      "st:cac2bb3d-8743-424c-bfb9-e803ff7300c1"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -1969,7 +1970,13 @@
       "news:https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
       "news:https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-      "news:https://cryptoslate.com/as-retail-crypto-trades-collapse-73-etoro-drops-231-million-to-capture-active-us-stock-traders/"
+      "news:https://cryptoslate.com/as-retail-crypto-trades-collapse-73-etoro-drops-231-million-to-capture-active-us-stock-traders/",
+      "news:https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/375441/xrp-drained-tx-bridge",
+      "news:https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+      "news:https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+      "news:https://cryptoslate.com/after-selling-832-btc-to-clear-debt-this-nasdaq-listed-crypto-firm-is-using-a-1-for-50-reverse-split-to-mask-its-shrinking-treasury/"
     ]
   },
   "init": {
