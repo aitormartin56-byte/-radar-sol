@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:46:06.000Z",
+  "updated_at": "2026-08-13T22:41:54.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 23h",
-      "submissions": 74,
+      "time_left": "cierra en 22h",
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
-      "time_left": "cierra en 15 días",
+      "time_left": "cierra en 14 días",
       "submissions": 31,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
@@ -97,7 +97,7 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 22 días",
+      "time_left": "cierra en 21 días",
       "submissions": 21,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
