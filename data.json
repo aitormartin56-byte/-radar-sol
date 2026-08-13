@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:41:54.000Z",
+  "updated_at": "2026-08-13T23:41:23.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 22h",
+      "time_left": "cierra en 21h",
       "submissions": 75,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
@@ -61,7 +61,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 7 días",
+      "time_left": "cierra en 6 días",
       "submissions": 149,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
