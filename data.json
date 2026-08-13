@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T13:12:28.000Z",
+  "updated_at": "2026-08-13T15:59:06.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 70,
+      "submissions": 71,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 119,
+      "time_left": "cierra en 4 días",
+      "submissions": 121,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-19T20:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 37,
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
