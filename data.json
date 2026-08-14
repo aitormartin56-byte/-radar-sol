@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T23:41:23.000Z",
+  "updated_at": "2026-08-14T02:00:13.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 21h",
-      "submissions": 75,
+      "time_left": "cierra en 18h",
+      "submissions": 77,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 51,
+      "submissions": 52,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-19T20:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 47,
+      "submissions": 49,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 149,
+      "submissions": 150,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
