@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14T07:36:43.000Z",
+  "updated_at": "2026-08-14T09:07:34.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 9,
     "grants": 46,
     "news": 0
   },
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 13h",
-      "submissions": 80,
+      "time_left": "cierra en 11h",
+      "submissions": 81,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 124,
+      "submissions": 126,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 52,
+      "submissions": 53,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-19T20:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 53,
+      "submissions": 55,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 151,
+      "submissions": 152,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -101,6 +101,18 @@
       "submissions": 21,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Solana Summit Serbia Content Bounty: $10,000 for the best summit content",
+      "reward": "10000 USDG",
+      "type": "bounty",
+      "sponsor": "Superteam Balkan",
+      "deadline": "2026-09-10T21:59:59.000Z",
+      "time_left": "cierra en 27 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
+      "featured": true
     }
   ],
   "grants": [
