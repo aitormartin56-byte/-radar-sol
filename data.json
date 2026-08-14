@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T05:56:19.000Z",
+  "updated_at": "2026-08-14T07:36:43.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 15h",
-      "submissions": 78,
+      "time_left": "cierra en 13h",
+      "submissions": 80,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-19T20:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 50,
+      "submissions": 53,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
