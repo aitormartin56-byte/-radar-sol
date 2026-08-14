@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T04:15:57.000Z",
+  "updated_at": "2026-08-14T05:56:19.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 16h",
-      "submissions": 77,
+      "time_left": "cierra en 15h",
+      "submissions": 78,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 123,
+      "submissions": 124,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
