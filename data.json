@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T16:53:53.000Z",
+  "updated_at": "2026-08-14T17:53:01.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-08-14T20:59:59.000Z",
-      "time_left": "cierra en 4h",
-      "submissions": 87,
+      "time_left": "cierra en 3h",
+      "submissions": 88,
       "url": "https://superteam.fun/earn/listing/era-security-discussion-bounty-x-reddit",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 133,
+      "submissions": 136,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-19T20:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 62,
+      "submissions": 64,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 32,
+      "submissions": 33,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
