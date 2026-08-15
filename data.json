@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:45:49.000Z",
+  "updated_at": "2026-08-15T16:25:03.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 164,
+      "submissions": 167,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 72,
+      "time_left": "cierra en 2 días",
+      "submissions": 73,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
