@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:46:10.000Z",
+  "updated_at": "2026-08-15T22:21:49.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -73,7 +73,7 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
-      "time_left": "cierra en 13 días",
+      "time_left": "cierra en 12 días",
       "submissions": 40,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 20 días",
+      "time_left": "cierra en 19 días",
       "submissions": 21,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
@@ -97,7 +97,7 @@
       "type": "bounty",
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
-      "time_left": "cierra en 26 días",
+      "time_left": "cierra en 25 días",
       "submissions": 1,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
