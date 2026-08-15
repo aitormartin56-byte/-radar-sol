@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:48:48.000Z",
+  "updated_at": "2026-08-15T21:21:09.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -37,7 +37,7 @@
       "type": "bounty",
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-19T20:59:59.999Z",
-      "time_left": "cierra en 4 días",
+      "time_left": "cierra en 3 días",
       "submissions": 81,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
