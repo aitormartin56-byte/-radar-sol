@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:20:36.000Z",
+  "updated_at": "2026-08-16T21:45:15.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 207,
+      "submissions": 208,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -26,20 +26,8 @@
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 75,
+      "submissions": 76,
       "url": "https://superteam.fun/earn/listing/ai-id",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Write an X Thread Explaining Echoes & Encouraging Story Recordings",
-      "reward": "250 USDC",
-      "type": "bounty",
-      "sponsor": "Echoes Fans",
-      "deadline": "2026-08-19T20:59:59.999Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 96,
-      "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
     {
@@ -52,6 +40,18 @@
       "time_left": "cierra en 4 días",
       "submissions": 160,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write an X Thread Explaining Echoes & Encouraging Story Recordings",
+      "reward": "250 USDC",
+      "type": "bounty",
+      "sponsor": "Echoes Fans",
+      "deadline": "2026-08-21T20:59:59.000Z",
+      "time_left": "cierra en 4 días",
+      "submissions": 96,
+      "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
     {
