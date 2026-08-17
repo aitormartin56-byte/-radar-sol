@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:39:46.000Z",
+  "updated_at": "2026-08-17T14:28:09.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
-      "time_left": "cierra en 1 día",
+      "time_left": "cierra en 23h",
       "submissions": 227,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
