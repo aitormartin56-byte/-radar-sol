@@ -38,7 +38,8 @@
       "st:c86637ca-7aeb-4180-a8e1-92160a40563d",
       "st:cac2bb3d-8743-424c-bfb9-e803ff7300c1",
       "st:4b22c4d1-ce45-41f1-8b63-df8296b145a2",
-      "st:260ca0d1-de71-40b6-823c-469947c0f6fc"
+      "st:260ca0d1-de71-40b6-823c-469947c0f6fc",
+      "st:56912062-4318-4fd4-98a6-645d5538c68d"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2161,7 +2162,10 @@
       "news:https://cryptoslate.com/bitfinex-gives-users-14-days-to-withdraw-13-delisted-tokens-or-face-fees-and-uncertain-recovery/",
       "news:https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/tron-deflationary-era-jst-sun-btt-win-buybacks/"
+      "news:https://cryptoslate.com/tron-deflationary-era-jst-sun-btt-win-buybacks/",
+      "news:https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
+      "news:https://cryptoslate.com/cardano-has-two-weeks-to-avoid-a-governance-freeze-as-4-committee-seats-expire/"
     ]
   },
   "init": {
