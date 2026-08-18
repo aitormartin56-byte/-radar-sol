@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:47:10.000Z",
+  "updated_at": "2026-08-18T13:42:09.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 265,
+      "time_left": "cierra en <1h",
+      "submissions": 275,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
-      "time_left": "cierra en 3h",
-      "submissions": 84,
+      "time_left": "cierra en 2h",
+      "submissions": 86,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 111,
+      "submissions": 114,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 23 días",
-      "submissions": 2,
+      "submissions": 3,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     }
