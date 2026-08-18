@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:48:45.000Z",
+  "updated_at": "2026-08-18T22:23:50.000Z",
   "counts": {
     "bounties": 7,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 173,
+      "submissions": 174,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 120,
+      "submissions": 121,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
-      "time_left": "cierra en 10 días",
+      "time_left": "cierra en 9 días",
       "submissions": 53,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
@@ -61,7 +61,7 @@
       "type": "bounty",
       "sponsor": "Superteam Germany",
       "deadline": "2026-08-31T21:59:59.000Z",
-      "time_left": "cierra en 13 días",
+      "time_left": "cierra en 12 días",
       "submissions": 0,
       "url": "https://superteam.fun/earn/listing/mato-research-how-do-you-actually-trade-on-solana",
       "featured": false
@@ -73,7 +73,7 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 17 días",
+      "time_left": "cierra en 16 días",
       "submissions": 23,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
-      "time_left": "cierra en 23 días",
+      "time_left": "cierra en 22 días",
       "submissions": 3,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
