@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T11:53:56.000Z",
+  "updated_at": "2026-08-18T12:47:10.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Fair Club",
       "deadline": "2026-08-18T13:59:59.000Z",
-      "time_left": "cierra en 2h",
-      "submissions": 263,
+      "time_left": "cierra en 1h",
+      "submissions": 265,
       "url": "https://superteam.fun/earn/listing/write-an-educational-x-thread-on-fairclub",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "LOL ventures",
       "deadline": "2026-08-18T15:59:59.000Z",
-      "time_left": "cierra en 4h",
-      "submissions": 83,
+      "time_left": "cierra en 3h",
+      "submissions": 84,
       "url": "https://superteam.fun/earn/listing/ai-id",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 50,
+      "submissions": 51,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 23 días",
-      "submissions": 1,
+      "submissions": 2,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     }
