@@ -39,7 +39,8 @@
       "st:cac2bb3d-8743-424c-bfb9-e803ff7300c1",
       "st:4b22c4d1-ce45-41f1-8b63-df8296b145a2",
       "st:260ca0d1-de71-40b6-823c-469947c0f6fc",
-      "st:56912062-4318-4fd4-98a6-645d5538c68d"
+      "st:56912062-4318-4fd4-98a6-645d5538c68d",
+      "st:c424e4cd-29a1-48bd-a252-f60684da19b8"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2224,7 +2225,10 @@
       "news:https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
-      "news:https://cryptoslate.com/permissionless-consensus-paper-removes-recurring-randomness-beacon/"
+      "news:https://cryptoslate.com/permissionless-consensus-paper-removes-recurring-randomness-beacon/",
+      "news:https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+      "news:https://cryptoslate.com/circle-still-tells-users-to-buy-noble-usdc-on-coinbase-after-cutoff-date-passes/"
     ]
   },
   "init": {
