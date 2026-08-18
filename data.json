@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-08-18T15:32:14.000Z",
+  "updated_at": "2026-08-18T16:31:53.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 7,
     "grants": 46,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Create Agent ID, claim free tokens, & deploy first RUST contract on the network",
-      "reward": "200 USDC",
-      "type": "bounty",
-      "sponsor": "LOL ventures",
-      "deadline": "2026-08-18T15:59:59.000Z",
-      "time_left": "cierra en <1h",
-      "submissions": 86,
-      "url": "https://superteam.fun/earn/listing/ai-id",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Find Critical Vulnerabilities in Veilo Mainnet Smart Contracts for Fund Loss",
@@ -38,7 +26,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 115,
+      "submissions": 117,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
