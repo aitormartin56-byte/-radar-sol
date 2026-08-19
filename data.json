@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T20:56:27.000Z",
+  "updated_at": "2026-08-19T21:28:45.000Z",
   "counts": {
     "bounties": 7,
     "grants": 46,
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 152,
+      "time_left": "cierra en 1 día",
+      "submissions": 153,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-08-31T21:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 0,
+      "submissions": 1,
       "url": "https://superteam.fun/earn/listing/mato-research-how-do-you-actually-trade-on-solana",
       "featured": false
     },
