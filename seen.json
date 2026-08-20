@@ -40,7 +40,8 @@
       "st:4b22c4d1-ce45-41f1-8b63-df8296b145a2",
       "st:260ca0d1-de71-40b6-823c-469947c0f6fc",
       "st:56912062-4318-4fd4-98a6-645d5538c68d",
-      "st:c424e4cd-29a1-48bd-a252-f60684da19b8"
+      "st:c424e4cd-29a1-48bd-a252-f60684da19b8",
+      "st:e92e317b-0d0f-49f4-9937-0623d4816df6"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2311,7 +2312,9 @@
       "news:https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply/",
       "news:https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november"
+      "news:https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+      "news:https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/trump-wants-the-us-to-become-a-bitcoin-whale-but-congress-controls-the-wallet/"
     ]
   },
   "init": {

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-20T09:35:15.000Z",
+  "updated_at": "2026-08-20T10:31:00.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 9,
     "grants": 46,
     "news": 0
   },
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 13h",
+      "time_left": "cierra en 12h",
       "submissions": 183,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 163,
+      "submissions": 165,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -56,6 +56,18 @@
     },
     {
       "kind": "bounty",
+      "title": "Create Content About KriptoK League | $750 USDC",
+      "reward": "750 USDC",
+      "type": "bounty",
+      "sponsor": "KriptoK",
+      "deadline": "2026-08-29T20:59:59.000Z",
+      "time_left": "cierra en 9 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
       "title": "Mato research: how do you actually trade on Solana?",
       "reward": "1500 USDG",
       "type": "bounty",
@@ -76,6 +88,18 @@
       "time_left": "cierra en 15 días",
       "submissions": 24,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write an X Thread Explaining Aeonian Trade & Introducing Upcoming Livestreams",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "Aeonian",
+      "deadline": "2026-09-09T15:59:59.999Z",
+      "time_left": "cierra en 20 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
     {
