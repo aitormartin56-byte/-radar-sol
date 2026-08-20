@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:47:08.000Z",
+  "updated_at": "2026-08-20T04:37:07.000Z",
   "counts": {
     "bounties": 7,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 19h",
+      "time_left": "cierra en 18h",
       "submissions": 181,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
