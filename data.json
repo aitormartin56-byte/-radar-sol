@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T11:54:38.000Z",
+  "updated_at": "2026-08-20T12:50:42.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 11h",
-      "submissions": 183,
+      "time_left": "cierra en 10h",
+      "submissions": 185,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 165,
+      "submissions": 166,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -60,9 +60,9 @@
       "reward": "750 USDC",
       "type": "bounty",
       "sponsor": "KriptoK",
-      "deadline": "2026-08-29T20:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 1,
+      "deadline": "2026-08-30T20:59:59.000Z",
+      "time_left": "cierra en 10 días",
+      "submissions": 3,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
