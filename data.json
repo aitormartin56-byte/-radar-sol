@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-08-20T22:56:42.000Z",
+  "updated_at": "2026-08-20T23:29:32.000Z",
   "counts": {
-    "bounties": 9,
+    "bounties": 8,
     "grants": 46,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Find Critical Vulnerabilities in Veilo Mainnet Smart Contracts for Fund Loss",
-      "reward": "2000 USDC",
-      "type": "bounty",
-      "sponsor": "VeiloLayer",
-      "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en <1h",
-      "submissions": 193,
-      "url": "https://superteam.fun/earn/listing/veilo-bounty",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Write an X Thread Explaining Echoes & Encouraging Story Recordings",
@@ -25,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
-      "time_left": "cierra en 22h",
+      "time_left": "cierra en 21h",
       "submissions": 177,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
@@ -74,7 +62,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-08-31T21:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 1,
+      "submissions": 2,
       "url": "https://superteam.fun/earn/listing/mato-research-how-do-you-actually-trade-on-solana",
       "featured": false
     },
