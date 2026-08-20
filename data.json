@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:52:34.000Z",
+  "updated_at": "2026-08-20T19:31:42.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 4h",
+      "time_left": "cierra en 3h",
       "submissions": 188,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 174,
+      "submissions": 175,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 36,
+      "submissions": 37,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     },
