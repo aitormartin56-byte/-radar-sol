@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:29:32.000Z",
+  "updated_at": "2026-08-20T23:53:28.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -62,7 +62,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-08-31T21:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 2,
+      "submissions": 3,
       "url": "https://superteam.fun/earn/listing/mato-research-how-do-you-actually-trade-on-solana",
       "featured": false
     },
