@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:34:21.000Z",
+  "updated_at": "2026-08-20T16:35:25.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "VeiloLayer",
       "deadline": "2026-08-20T22:59:59.000Z",
-      "time_left": "cierra en 7h",
-      "submissions": 186,
+      "time_left": "cierra en 6h",
+      "submissions": 187,
       "url": "https://superteam.fun/earn/listing/veilo-bounty",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 4,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -97,7 +97,7 @@
       "type": "bounty",
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
-      "time_left": "cierra en 20 días",
+      "time_left": "cierra en 19 días",
       "submissions": 1,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
