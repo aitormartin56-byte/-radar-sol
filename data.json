@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T14:35:24.000Z",
+  "updated_at": "2026-08-21T15:33:45.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
-      "time_left": "cierra en 6h",
-      "submissions": 197,
+      "time_left": "cierra en 5h",
+      "submissions": 198,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 15,
+      "submissions": 16,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 20 días",
-      "submissions": 6,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     }
