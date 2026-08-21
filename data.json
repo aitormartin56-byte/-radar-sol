@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T05:33:09.000Z",
+  "updated_at": "2026-08-21T06:48:17.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Echoes Fans",
       "deadline": "2026-08-21T20:59:59.000Z",
-      "time_left": "cierra en 15h",
-      "submissions": 179,
+      "time_left": "cierra en 14h",
+      "submissions": 181,
       "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 57,
+      "submissions": 58,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 19 días",
-      "submissions": 4,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
