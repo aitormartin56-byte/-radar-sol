@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-08-21T20:51:11.000Z",
+  "updated_at": "2026-08-21T21:24:59.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 7,
     "grants": 46,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Write an X Thread Explaining Echoes & Encouraging Story Recordings",
-      "reward": "250 USDC",
-      "type": "bounty",
-      "sponsor": "Echoes Fans",
-      "deadline": "2026-08-21T20:59:59.000Z",
-      "time_left": "cierra en <1h",
-      "submissions": 210,
-      "url": "https://superteam.fun/earn/listing/write-an-x-thread-explaining-echoes-and-encouraging-story-recordings",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Create the Ultimate HuzzFun AI  Hype Video",
@@ -49,8 +37,8 @@
       "type": "bounty",
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 20,
+      "time_left": "cierra en 8 días",
+      "submissions": 21,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
