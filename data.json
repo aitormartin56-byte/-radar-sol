@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T02:35:19.000Z",
+  "updated_at": "2026-08-22T03:42:01.000Z",
   "counts": {
     "bounties": 7,
     "grants": 46,
@@ -86,7 +86,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 19 días",
-      "submissions": 7,
+      "submissions": 8,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     }
