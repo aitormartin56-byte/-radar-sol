@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:26:40.000Z",
+  "updated_at": "2026-08-23T16:53:22.000Z",
   "counts": {
     "bounties": 7,
     "grants": 46,
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 101,
+      "submissions": 103,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
