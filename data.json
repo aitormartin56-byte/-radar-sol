@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:55:36.000Z",
+  "updated_at": "2026-08-24T23:23:45.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 124,
+      "submissions": 126,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -121,7 +121,7 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-14T22:59:59.000Z",
-      "time_left": "cierra en 21 días",
+      "time_left": "cierra en 20 días",
       "submissions": 0,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
