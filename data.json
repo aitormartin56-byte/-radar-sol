@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:29:10.000Z",
+  "updated_at": "2026-08-24T22:55:36.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 20h",
+      "time_left": "cierra en 19h",
       "submissions": 95,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 123,
+      "submissions": 124,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 1,
+      "submissions": 2,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
