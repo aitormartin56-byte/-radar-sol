@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T17:31:30.000Z",
+  "updated_at": "2026-08-24T18:40:35.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 10,
     "grants": 46,
     "news": 0
   },
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 1 día",
+      "time_left": "cierra en 23h",
       "submissions": 95,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 120,
+      "submissions": 121,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -52,6 +52,18 @@
       "time_left": "cierra en 7 días",
       "submissions": 4,
       "url": "https://superteam.fun/earn/listing/mato-research-how-do-you-actually-trade-on-solana",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Compose X Thread Explaining Segmento & On-Chain User Intelligence",
+      "reward": "300 USDC",
+      "type": "bounty",
+      "sponsor": "Segmento",
+      "deadline": "2026-09-02T21:59:59.000Z",
+      "time_left": "cierra en 9 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
     {
@@ -101,6 +113,18 @@
       "submissions": 13,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
+    },
+    {
+      "kind": "bounty",
+      "title": "NectarFi x Dominion Market",
+      "reward": "1000 USDG",
+      "type": "bounty",
+      "sponsor": "NectarFi",
+      "deadline": "2026-09-14T22:59:59.000Z",
+      "time_left": "cierra en 21 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
+      "featured": false
     }
   ],
   "grants": [
