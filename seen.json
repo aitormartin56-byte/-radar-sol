@@ -41,7 +41,8 @@
       "st:260ca0d1-de71-40b6-823c-469947c0f6fc",
       "st:56912062-4318-4fd4-98a6-645d5538c68d",
       "st:c424e4cd-29a1-48bd-a252-f60684da19b8",
-      "st:e92e317b-0d0f-49f4-9937-0623d4816df6"
+      "st:e92e317b-0d0f-49f4-9937-0623d4816df6",
+      "st:7bd4dd40-577d-4cce-98e3-0263274c291e"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2451,7 +2452,11 @@
       "news:https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/400m-ai-crypto-treasury-firm-seeks-second-reverse-split-while-restoring-capacity-for-3-billion-shares/"
+      "news:https://cryptoslate.com/400m-ai-crypto-treasury-firm-seeks-second-reverse-split-while-restoring-capacity-for-3-billion-shares/",
+      "news:https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
+      "news:https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
+      "news:https://cryptoslate.com/xrp-crashes-37-in-one-bitstamp-wick-while-the-wider-market-told-a-different-story/"
     ]
   },
   "init": {
