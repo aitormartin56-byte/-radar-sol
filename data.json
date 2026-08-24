@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T05:38:27.000Z",
+  "updated_at": "2026-08-24T06:59:02.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 8,
     "grants": 46,
     "news": 0
   },
@@ -88,6 +88,18 @@
       "time_left": "cierra en 17 días",
       "submissions": 12,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
+      "featured": true
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Content for Breakpoint 2026",
+      "reward": "8000 USDG",
+      "type": "bounty",
+      "sponsor": "Superteam Germany",
+      "deadline": "2026-09-21T21:59:59.000Z",
+      "time_left": "cierra en 28 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     }
   ],
