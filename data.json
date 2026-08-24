@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T15:39:45.000Z",
+  "updated_at": "2026-08-24T16:38:11.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -74,7 +74,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 14 días",
-      "submissions": 5,
+      "submissions": 6,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
-      "time_left": "cierra en 16 días",
+      "time_left": "cierra en 15 días",
       "submissions": 25,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
