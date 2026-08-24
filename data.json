@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T08:01:16.000Z",
+  "updated_at": "2026-08-24T09:23:15.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -26,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 84,
+      "submissions": 85,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 113,
+      "submissions": 115,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -68,6 +68,18 @@
     },
     {
       "kind": "bounty",
+      "title": "Create Content for Breakpoint 2026",
+      "reward": "8000 USDG",
+      "type": "bounty",
+      "sponsor": "Superteam Germany",
+      "deadline": "2026-09-07T21:59:59.999Z",
+      "time_left": "cierra en 14 días",
+      "submissions": 2,
+      "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
+      "featured": true
+    },
+    {
+      "kind": "bounty",
       "title": "Write an X Thread Explaining Aeonian Trade & Introducing Upcoming Livestreams",
       "reward": "500 USDC",
       "type": "bounty",
@@ -88,18 +100,6 @@
       "time_left": "cierra en 17 días",
       "submissions": 12,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
-      "featured": true
-    },
-    {
-      "kind": "bounty",
-      "title": "Create Content for Breakpoint 2026",
-      "reward": "8000 USDG",
-      "type": "bounty",
-      "sponsor": "Superteam Germany",
-      "deadline": "2026-09-21T21:59:59.000Z",
-      "time_left": "cierra en 28 días",
-      "submissions": 0,
-      "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     }
   ],
