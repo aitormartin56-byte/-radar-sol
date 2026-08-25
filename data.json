@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:17:10.000Z",
+  "updated_at": "2026-08-25T02:39:13.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 17h",
-      "submissions": 95,
+      "time_left": "cierra en 15h",
+      "submissions": 96,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 2,
+      "submissions": 3,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
