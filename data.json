@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T03:49:00.000Z",
+  "updated_at": "2026-08-25T04:39:01.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 14h",
+      "time_left": "cierra en 13h",
       "submissions": 97,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 90,
+      "submissions": 91,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
