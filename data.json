@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T06:49:15.000Z",
+  "updated_at": "2026-08-25T07:43:40.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 11h",
+      "time_left": "cierra en 10h",
       "submissions": 97,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 128,
+      "submissions": 129,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 13,
+      "submissions": 15,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
