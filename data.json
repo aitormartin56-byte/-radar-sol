@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T02:39:13.000Z",
+  "updated_at": "2026-08-25T03:49:00.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "huzzfun",
       "deadline": "2026-08-25T18:29:59.000Z",
-      "time_left": "cierra en 15h",
-      "submissions": 96,
+      "time_left": "cierra en 14h",
+      "submissions": 97,
       "url": "https://superteam.fun/earn/listing/create-the-ultimate-huzzfun-ai-hype-video",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-08-28T21:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 89,
+      "submissions": 90,
       "url": "https://superteam.fun/earn/listing/twitter-post-about-nft-locks-on-streamflow",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 12,
+      "submissions": 13,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -98,7 +98,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 15 días",
-      "submissions": 25,
+      "submissions": 26,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
