@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:53:49.000Z",
+  "updated_at": "2026-08-26T04:40:00.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -86,7 +86,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 14 días",
-      "submissions": 32,
+      "submissions": 33,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
