@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:41:44.000Z",
+  "updated_at": "2026-08-26T10:35:41.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -26,7 +26,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 145,
+      "submissions": 146,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -122,7 +122,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 21 días",
-      "submissions": 3,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     }
