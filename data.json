@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T23:00:44.000Z",
+  "updated_at": "2026-08-30T01:28:46.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
-      "time_left": "cierra en 21h",
-      "submissions": 230,
+      "time_left": "cierra en 19h",
+      "submissions": 231,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 73,
+      "submissions": 74,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 8 días",
-      "submissions": 40,
+      "submissions": 41,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
