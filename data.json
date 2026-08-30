@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:08:48.000Z",
+  "updated_at": "2026-08-30T17:41:06.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "KriptoK",
       "deadline": "2026-08-30T20:59:59.000Z",
-      "time_left": "cierra en 7h",
-      "submissions": 251,
+      "time_left": "cierra en 3h",
+      "submissions": 264,
       "url": "https://superteam.fun/earn/listing/kriptok-league-content-bounty",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-08-31T21:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 16,
+      "submissions": 17,
       "url": "https://superteam.fun/earn/listing/mato-research-how-do-you-actually-trade-on-solana",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 83,
+      "submissions": 85,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 50,
+      "submissions": 51,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 8 días",
-      "submissions": 43,
+      "submissions": 46,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -74,7 +74,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 31,
+      "submissions": 32,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
-      "time_left": "cierra en 10 días",
+      "time_left": "cierra en 9 días",
       "submissions": 46,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
@@ -121,8 +121,8 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 17 días",
-      "submissions": 38,
+      "time_left": "cierra en 16 días",
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     }
