@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T00:43:49.000Z",
+  "updated_at": "2026-09-01T06:03:50.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 128,
+      "submissions": 133,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 53,
+      "submissions": 56,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -50,7 +50,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 51,
+      "submissions": 56,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
