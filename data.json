@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T19:28:43.000Z",
+  "updated_at": "2026-09-01T21:56:52.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 155,
+      "submissions": 162,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Superteam",
       "deadline": "2026-09-08T18:29:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 3,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/write-your-investment-thesis-on-gopro-1",
       "featured": false
     },
@@ -110,7 +110,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 14 días",
-      "submissions": 62,
+      "submissions": 64,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -121,8 +121,8 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 29 días",
-      "submissions": 0,
+      "time_left": "cierra en 28 días",
+      "submissions": 1,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     }
