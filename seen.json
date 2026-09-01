@@ -44,7 +44,8 @@
       "st:e92e317b-0d0f-49f4-9937-0623d4816df6",
       "st:7bd4dd40-577d-4cce-98e3-0263274c291e",
       "st:ad7dfc28-cb9b-4448-a111-426619506fe1",
-      "st:0e5cefd5-9951-464c-b3d8-1256f5bd829c"
+      "st:0e5cefd5-9951-464c-b3d8-1256f5bd829c",
+      "st:9b5747cc-1943-47b4-ba1f-bbc3f55a8cbe"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2807,7 +2808,17 @@
       "news:https://cryptoslate.com/ontology-halts-mainnet-transactions-as-technical-team-investigates-potential-security-issue/",
       "news:https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns/",
       "news:https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
+      "news:https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
+      "news:https://cryptoslate.com/how-short-liquidations-cleared-500b-in-crypto-positions-before-institutional-buyers-took-over/",
+      "news:https://cryptoslate.com/xrp-investors-poured-320m-into-etfs-while-the-funds-sat-on-a-746m-paper-loss/",
+      "news:https://cryptoslate.com/cronos-restart-after-tectonic-exploit-chain-rollback/",
+      "news:https://cryptoslate.com/how-saylors-2-billion-capital-loop-is-quietly-rewriting-the-rules-of-bitcoin-ownership/"
     ]
   },
   "init": {
