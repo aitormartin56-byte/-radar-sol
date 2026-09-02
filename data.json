@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:54:02.000Z",
+  "updated_at": "2026-09-02T03:19:03.000Z",
   "counts": {
     "bounties": 10,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
-      "time_left": "cierra en 22h",
-      "submissions": 162,
+      "time_left": "cierra en 18h",
+      "submissions": 165,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Superteam",
       "deadline": "2026-09-08T18:29:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 7,
+      "submissions": 10,
       "url": "https://superteam.fun/earn/listing/write-your-investment-thesis-on-gopro-1",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 71,
+      "submissions": 74,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
