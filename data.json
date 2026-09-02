@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-02T20:00:16.000Z",
+  "updated_at": "2026-09-02T22:32:14.000Z",
   "counts": {
-    "bounties": 9,
+    "bounties": 8,
     "grants": 46,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Compose X Thread Explaining Segmento & On-Chain User Intelligence",
-      "reward": "300 USDC",
-      "type": "bounty",
-      "sponsor": "Segmento",
-      "deadline": "2026-09-02T21:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 206,
-      "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Create The Best X Thread About My Crypto Casino",
@@ -25,7 +13,7 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 2 días",
+      "time_left": "cierra en 1 día",
       "submissions": 76,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 61,
+      "time_left": "cierra en 4 días",
+      "submissions": 62,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -73,7 +61,7 @@
       "type": "bounty",
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
-      "time_left": "cierra en 8 días",
+      "time_left": "cierra en 7 días",
       "submissions": 43,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
@@ -98,7 +86,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 71,
+      "submissions": 73,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -109,7 +97,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 28 días",
+      "time_left": "cierra en 27 días",
       "submissions": 3,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false

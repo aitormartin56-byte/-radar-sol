@@ -45,7 +45,8 @@
       "st:7bd4dd40-577d-4cce-98e3-0263274c291e",
       "st:ad7dfc28-cb9b-4448-a111-426619506fe1",
       "st:0e5cefd5-9951-464c-b3d8-1256f5bd829c",
-      "st:9b5747cc-1943-47b4-ba1f-bbc3f55a8cbe"
+      "st:9b5747cc-1943-47b4-ba1f-bbc3f55a8cbe",
+      "st:43f663e0-ef0b-40b4-89c9-b4e11375cff5"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2902,7 +2903,15 @@
       "news:https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
       "news:https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
       "news:https://cryptoslate.com/uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far-behind/",
-      "news:https://cryptoslate.com/tac-remains-frozen-for-over-10-days-after-a-massive-exploit-forces-a-1-26-billion-token-bailout/"
+      "news:https://cryptoslate.com/tac-remains-frozen-for-over-10-days-after-a-massive-exploit-forces-a-1-26-billion-token-bailout/",
+      "news:https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+      "news:https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
+      "news:https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
+      "news:https://cryptoslate.com/blackrocks-bitcoin-etf-barely-beat-the-sp-500-after-putting-investors-through-a-53-crash/",
+      "news:https://cryptoslate.com/usdc-may-be-only-as-quantum-safe-as-its-slowest-wallet-bridge-or-blockchain/",
+      "news:https://cryptoslate.com/solana-processed-5-2-billion-transactions-after-revenue-collapsed-87-heres-what-changed/"
     ]
   },
   "init": {
