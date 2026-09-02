@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-02T03:19:03.000Z",
+  "updated_at": "2026-09-02T08:03:53.000Z",
   "counts": {
-    "bounties": 10,
+    "bounties": 9,
     "grants": 46,
     "news": 0
   },
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Segmento",
       "deadline": "2026-09-02T21:59:59.000Z",
-      "time_left": "cierra en 18h",
-      "submissions": 165,
+      "time_left": "cierra en 13h",
+      "submissions": 174,
       "url": "https://superteam.fun/earn/listing/compose-x-thread-explaining-segmento-and-on-chain-user-intelligence",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 67,
+      "submissions": 69,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     },
@@ -44,25 +44,13 @@
     },
     {
       "kind": "bounty",
-      "title": "Write Your Investment Thesis on GoPro",
-      "reward": "1500 USDC",
-      "type": "bounty",
-      "sponsor": "Superteam",
-      "deadline": "2026-09-08T18:29:59.999Z",
-      "time_left": "cierra en 6 días",
-      "submissions": 10,
-      "url": "https://superteam.fun/earn/listing/write-your-investment-thesis-on-gopro-1",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "CastleDAO Content Challenge",
       "reward": "1000 USDG",
       "type": "bounty",
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 74,
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -74,7 +62,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 7 días",
-      "submissions": 67,
+      "submissions": 68,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
@@ -110,7 +98,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 14 días",
-      "submissions": 64,
+      "submissions": 67,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
