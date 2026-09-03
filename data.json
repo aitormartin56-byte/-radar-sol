@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:22:37.000Z",
+  "updated_at": "2026-09-03T21:13:21.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -26,7 +26,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 71,
+      "submissions": 74,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 89,
+      "submissions": 91,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 78,
+      "submissions": 79,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 48,
+      "submissions": 49,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     },
@@ -86,7 +86,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 79,
+      "submissions": 80,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -97,7 +97,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 27 días",
+      "time_left": "cierra en 26 días",
       "submissions": 5,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
