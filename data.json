@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:51:28.000Z",
+  "updated_at": "2026-09-04T21:17:10.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 3h",
-      "submissions": 105,
+      "time_left": "cierra en <1h",
+      "submissions": 110,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 1,
+      "submissions": 2,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "NectarFi",
       "deadline": "2026-09-14T22:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 15,
+      "submissions": 17,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 11 días",
-      "submissions": 84,
+      "submissions": 86,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -109,8 +109,8 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 26 días",
-      "submissions": 13,
+      "time_left": "cierra en 25 días",
+      "submissions": 15,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     }
