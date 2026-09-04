@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:26:02.000Z",
+  "updated_at": "2026-09-04T01:11:26.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 22h",
+      "time_left": "cierra en 20h",
       "submissions": 85,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 74,
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 93,
+      "submissions": 94,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
