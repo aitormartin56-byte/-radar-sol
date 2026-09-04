@@ -46,7 +46,8 @@
       "st:ad7dfc28-cb9b-4448-a111-426619506fe1",
       "st:0e5cefd5-9951-464c-b3d8-1256f5bd829c",
       "st:9b5747cc-1943-47b4-ba1f-bbc3f55a8cbe",
-      "st:43f663e0-ef0b-40b4-89c9-b4e11375cff5"
+      "st:43f663e0-ef0b-40b4-89c9-b4e11375cff5",
+      "st:d777e3ce-3942-4d2f-ab9a-3793327e389f"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -2998,7 +2999,18 @@
       "news:https://cryptoslate.com/zero-knowledge-apps-go-dark-after-chain-upgrade-breaks-their-underlying-verification-keys/",
       "news:https://cryptoslate.com/a-public-company-sold-bitcoin-and-somehow-gave-each-shareholder-more-btc-exposure/",
       "news:https://cryptoslate.com/bitcoins-rally-over-81000-is-finding-real-buyers-but-options-traders-still-arent-pricing-a-clean-breakout/",
-      "news:https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement/"
+      "news:https://cryptoslate.com/australia-gives-crypto-firms-until-sept-30-to-get-licensed-or-risk-enforcement/",
+      "news:https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
+      "news:https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+      "news:https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
+      "news:https://cryptoslate.com/bitcoin-faces-a-two-week-fed-trap-as-inflation-rewrite-threatens-to-upend-rate-cuts/",
+      "news:https://cryptoslate.com/kalshi-faces-500000-daily-fines-as-michigan-forces-sports-event-contracts-offline/",
+      "news:https://cryptoslate.com/japans-4-bond-yield-spike-threatens-the-low-cost-borrowing-strategy-behind-corporate-bitcoin-buying/",
+      "news:https://cryptoslate.com/arthur-hayes-calls-eur-jpy-prices-cryptos-smoke-alarm-but-the-feds-plumbing-still-shows-no-fire/",
+      "news:https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk/"
     ]
   },
   "init": {
