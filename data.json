@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:34:42.000Z",
+  "updated_at": "2026-09-04T15:53:41.000Z",
   "counts": {
     "bounties": 9,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "My Crypto Casino",
       "deadline": "2026-09-04T21:59:59.000Z",
-      "time_left": "cierra en 10h",
-      "submissions": 91,
+      "time_left": "cierra en 6h",
+      "submissions": 100,
       "url": "https://superteam.fun/earn/listing/create-the-best-x-thread-about-my-crypto-casino",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 98,
+      "submissions": 102,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 83,
+      "submissions": 85,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
@@ -73,8 +73,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 0,
+      "time_left": "cierra en 8 días",
+      "submissions": 1,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 83,
+      "submissions": 84,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
