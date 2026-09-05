@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T13:41:31.000Z",
+  "updated_at": "2026-09-05T16:34:34.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 82,
+      "submissions": 85,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -26,7 +26,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 116,
+      "submissions": 118,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 100,
+      "time_left": "cierra en 3 días",
+      "submissions": 104,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 52,
+      "submissions": 53,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     },
@@ -61,7 +61,7 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
-      "time_left": "cierra en 8 días",
+      "time_left": "cierra en 7 días",
       "submissions": 5,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
@@ -85,8 +85,8 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 11 días",
-      "submissions": 87,
+      "time_left": "cierra en 10 días",
+      "submissions": 88,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
