@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:38:46.000Z",
+  "updated_at": "2026-09-06T05:35:02.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Superteam Germany",
       "deadline": "2026-09-07T21:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 88,
+      "submissions": 90,
       "url": "https://superteam.fun/earn/listing/create-content-for-breakpoint-2026",
       "featured": true
     },
@@ -26,7 +26,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 121,
+      "submissions": 122,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 108,
+      "submissions": 109,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
@@ -98,7 +98,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 24 días",
-      "submissions": 28,
+      "submissions": 31,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     }
