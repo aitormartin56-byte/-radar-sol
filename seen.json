@@ -47,7 +47,8 @@
       "st:0e5cefd5-9951-464c-b3d8-1256f5bd829c",
       "st:9b5747cc-1943-47b4-ba1f-bbc3f55a8cbe",
       "st:43f663e0-ef0b-40b4-89c9-b4e11375cff5",
-      "st:d777e3ce-3942-4d2f-ab9a-3793327e389f"
+      "st:d777e3ce-3942-4d2f-ab9a-3793327e389f",
+      "st:50e74faf-c83c-4f00-b122-e73089559228"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -95,12 +96,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/ether-treasury-sharplink-buys-624m-of-eth-in-3-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-sees-analysis-call-2022-bottom-repeat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/features/hodlers-digest-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3094,7 +3089,13 @@
       "news:https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
       "news:https://cryptoslate.com/bitcoin-could-get-the-dollar-drop-bulls-want-this-week-without-getting-the-liquidity-rally-they-need/",
       "news:https://cryptoslate.com/xrp-ai-agents-processed-4-5-million-payments-but-settled-just-5837-tokens/",
-      "news:https://cryptoslate.com/fed-inflation-trap-threatens-bitcoin-below-80k-as-100-oil-blindsides-fridays-cpi-report/"
+      "news:https://cryptoslate.com/fed-inflation-trap-threatens-bitcoin-below-80k-as-100-oil-blindsides-fridays-cpi-report/",
+      "news:https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+      "news:https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+      "news:https://cryptoslate.com/strategys-250-bitcoin-jordans-sold-out-as-saylor-turns-4-of-btc-supply-into-a-consumer-brand/",
+      "news:https://cryptoslate.com/bitcoin-bulls-are-loading-up-on-calls-while-spot-traders-keep-selling/"
     ]
   },
   "init": {

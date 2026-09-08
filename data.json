@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:30:15.000Z",
+  "updated_at": "2026-09-08T21:59:47.000Z",
   "counts": {
     "bounties": 8,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Superteam Ireland",
       "deadline": "2026-09-08T22:59:59.000Z",
-      "time_left": "cierra en 3h",
-      "submissions": 190,
+      "time_left": "cierra en 1h",
+      "submissions": 197,
       "url": "https://superteam.fun/earn/listing/castledao-content-challenge",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Aeonian",
       "deadline": "2026-09-09T15:59:59.999Z",
-      "time_left": "cierra en 20h",
-      "submissions": 158,
+      "time_left": "cierra en 18h",
+      "submissions": 160,
       "url": "https://superteam.fun/earn/listing/aeonianbounty",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 16,
+      "submissions": 17,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -97,7 +97,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 22 días",
+      "time_left": "cierra en 21 días",
       "submissions": 43,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
