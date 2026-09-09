@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:21:12.000Z",
+  "updated_at": "2026-09-09T21:04:42.000Z",
   "counts": {
     "bounties": 6,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 71,
+      "submissions": 72,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     },
@@ -26,7 +26,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 25,
+      "submissions": 27,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 120,
+      "submissions": 122,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -73,8 +73,8 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 21 días",
-      "submissions": 46,
+      "time_left": "cierra en 20 días",
+      "submissions": 47,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     }

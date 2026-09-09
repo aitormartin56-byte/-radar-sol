@@ -97,13 +97,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/clarity-act-chances-of-passage-this-year-falls-to-50-after-trumps-new-demands/",
-      "news:https://cryptoslate.com/institutions-dumped-bitcoin-and-ethereum-etfs-but-still-bought-xrp-and-hype-again/",
-      "news:https://cryptoslate.com/tether-trades-8-5-above-indias-dollar-rate-as-policy-pressure-hits-usdt-access/",
-      "news:https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/michigan-judge-blocks-kalshi-sports-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3096,7 +3089,14 @@
       "news:https://cryptoslate.com/how-tethers-45-million-crackdown-drove-southeast-asian-scam-compounds-into-an-unfreezable-decentralized-stablecoin/",
       "news:https://cryptoslate.com/ethereums-institutional-staking-boom-is-growing-but-lidos-share-is-shrinking/",
       "news:https://cryptoslate.com/bitcoin-miner-manufacturer-canaan-sells-crypto-to-buy-back-shares-after-97-6-million-quarterly-loss/",
-      "news:https://cryptoslate.com/bitcoin-traders-bet-borrowed-money-on-a-rally-as-oil-surges-ahead-of-fridays-inflation-test/"
+      "news:https://cryptoslate.com/bitcoin-traders-bet-borrowed-money-on-a-rally-as-oil-surges-ahead-of-fridays-inflation-test/",
+      "news:https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+      "news:https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+      "news:https://cryptoslate.com/solanas-300ms-speed-boost-to-outrun-trading-bots-might-come-with-a-hidden-cost/",
+      "news:https://cryptoslate.com/looks-like-a-stock-trades-like-a-stock-but-it-isnt-actually-a-stock/",
+      "news:https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars/"
     ]
   },
   "init": {
