@@ -48,7 +48,8 @@
       "st:9b5747cc-1943-47b4-ba1f-bbc3f55a8cbe",
       "st:43f663e0-ef0b-40b4-89c9-b4e11375cff5",
       "st:d777e3ce-3942-4d2f-ab9a-3793327e389f",
-      "st:50e74faf-c83c-4f00-b122-e73089559228"
+      "st:50e74faf-c83c-4f00-b122-e73089559228",
+      "st:ae1041af-2378-4a17-b21f-8d74a4505f96"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -96,22 +97,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
-      "news:https://decrypt.co/372282/strategy-could-sell-up-to-1-25b-of-bitcoin-under-digital-credit-capital-framework",
-      "news:https://decrypt.co/372283/morning-minute-bitcoin-headed-for-rare-back-to-back-quarterly-loss",
-      "news:https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
-      "news:https://decrypt.co/372248/future-cyberpunk-imagined-here",
-      "news:https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
-      "news:https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
-      "news:https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
-      "news:https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
-      "news:https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
-      "news:https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
-      "news:https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
-      "news:https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
-      "news:https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
-      "news:https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
-      "news:https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness",
       "news:https://decrypt.co/372180/bitcoin-tests-59k-as-etfs-shed-692m-options-expiry-looms",
       "news:https://decrypt.co/372166/morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation",
       "news:https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
@@ -3095,7 +3080,23 @@
       "news:https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
       "news:https://cryptoslate.com/bitcoin-just-hit-a-decade-low-sp-500-correlation-but-the-daily-data-tells-a-different-story/",
       "news:https://cryptoslate.com/bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version/",
-      "news:https://cryptoslate.com/strive-adds-12-million-to-its-dividend-tab-after-issuing-nearly-one-million-new-preferred-shares-to-buy-bitcoin/"
+      "news:https://cryptoslate.com/strive-adds-12-million-to-its-dividend-tab-after-issuing-nearly-one-million-new-preferred-shares-to-buy-bitcoin/",
+      "news:https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+      "news:https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+      "news:https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
+      "news:https://cryptoslate.com/you-can-borrow-against-bitcoin-without-selling-it-but-theres-a-catch/",
+      "news:https://cryptoslate.com/nearly-a-fifth-of-all-bitcoin-mining-power-is-sitting-completely-dark-and-turning-it-back-on-could-trigger-a-brutal-margin-trap/",
+      "news:https://cryptoslate.com/bitcoin-holds-near-78500-as-a-surging-japanese-yen-threatens-global-risk-assets/",
+      "news:https://cryptoslate.com/does-becoming-a-federal-bank-protect-crypto-from-washington-or-give-washington-more-control/"
     ]
   },
   "init": {
