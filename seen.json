@@ -97,8 +97,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3096,7 +3094,9 @@
       "news:https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
       "news:https://cryptoslate.com/solanas-300ms-speed-boost-to-outrun-trading-bots-might-come-with-a-hidden-cost/",
       "news:https://cryptoslate.com/looks-like-a-stock-trades-like-a-stock-but-it-isnt-actually-a-stock/",
-      "news:https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars/"
+      "news:https://cryptoslate.com/how-4100-stolen-bitcoin-bankrolled-a-life-of-private-jets-and-supercars/",
+      "news:https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+      "news:https://cryptoslate.com/openai-just-showed-why-one-of-its-former-researchers-thinks-ai-could-kill-everyone/"
     ]
   },
   "init": {
