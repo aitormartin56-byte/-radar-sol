@@ -96,9 +96,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372361/ornith-open-source-coding-model-built-for-agents",
-      "news:https://decrypt.co/372383/strategy-snaps-9-day-losing-streak-bitcoin-giant-robust-capital-framework",
       "news:https://decrypt.co/372345/china-has-own-mythos-now-one-version-free",
       "news:https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto",
       "news:https://decrypt.co/372338/meta-brain2qwerty-ai-brain-activity-text",
@@ -3095,7 +3092,10 @@
       "news:https://cryptoslate.com/strategys-250-bitcoin-jordans-sold-out-as-saylor-turns-4-of-btc-supply-into-a-consumer-brand/",
       "news:https://cryptoslate.com/bitcoin-bulls-are-loading-up-on-calls-while-spot-traders-keep-selling/",
       "news:https://cryptoslate.com/metaplanets-bitcoin-boom-quietly-turned-a-46-million-share-executive-pay-plan-into-a-319-million-share-windfall/",
-      "news:https://cryptoslate.com/why-bitcoin-bulls-shouldnt-mistake-a-shrinking-dollar-reserve-share-for-central-bank-buying/"
+      "news:https://cryptoslate.com/why-bitcoin-bulls-shouldnt-mistake-a-shrinking-dollar-reserve-share-for-central-bank-buying/",
+      "news:https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/crypto-lobbies-launch-a-last-minute-tv-campaign-against-banks-to-pass-the-clarity-act/",
+      "news:https://cryptoslate.com/strategy-doubles-its-stock-buyback-to-2-billion-to-pull-its-strc-shares-back-to-100/"
     ]
   },
   "init": {
