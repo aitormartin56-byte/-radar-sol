@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-09T14:43:54.000Z",
+  "updated_at": "2026-09-09T18:21:12.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 6,
     "grants": 46,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Write an X Thread Explaining Aeonian Trade & Introducing Upcoming Livestreams",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Aeonian",
-      "deadline": "2026-09-09T15:59:59.999Z",
-      "time_left": "cierra en 1h",
-      "submissions": 189,
-      "url": "https://superteam.fun/earn/listing/aeonianbounty",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Solana Summit Serbia Content Bounty: $10,000 for the best summit content",
@@ -26,7 +14,7 @@
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 68,
+      "submissions": 71,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     },
@@ -38,7 +26,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 24,
+      "submissions": 25,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -61,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 118,
+      "time_left": "cierra en 6 días",
+      "submissions": 120,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -73,8 +61,8 @@
       "type": "bounty",
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en 12 días",
-      "submissions": 11,
+      "time_left": "cierra en 11 días",
+      "submissions": 16,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -86,7 +74,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 21 días",
-      "submissions": 44,
+      "submissions": 46,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     }
