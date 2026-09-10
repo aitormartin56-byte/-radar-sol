@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T01:19:31.000Z",
+  "updated_at": "2026-09-10T06:24:28.000Z",
   "counts": {
     "bounties": 6,
     "grants": 46,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
-      "time_left": "cierra en 20h",
+      "time_left": "cierra en 15h",
       "submissions": 73,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
@@ -62,7 +62,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 17,
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
