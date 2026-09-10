@@ -97,16 +97,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-price-slumps-to-near-58k-as-us-dollar-hits-40-year-high-against-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372484/trump-disclosure-filing-crypto-earnings-bitcoin-holdings",
-      "news:https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
-      "news:https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
-      "news:https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
-      "news:https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout",
       "news:https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/",
       "news:https://cointelegraph.com/news/crypto-q3-less-leverage-thinner-liquidity-talos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitcoin-etf-4-5-billion-outflow-june-worst-on-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3096,7 +3086,17 @@
       "news:https://cryptoslate.com/xrp-ledger-crossed-5-billion-transactions-but-92-of-august-activity-came-from-just-767-bots/",
       "news:https://cryptoslate.com/us-hit-on-24-billion-crypto-black-market-sends-rival-money-launderers-running-for-exits/",
       "news:https://cryptoslate.com/sec-gives-bitcoin-heavy-trusts-new-15-percent-window-to-venture-beyond-existing-listing-rules/",
-      "news:https://cryptoslate.com/memecoin-degens-are-providing-the-spark-for-wall-street-to-turn-stock-tokens-into-real-capital/"
+      "news:https://cryptoslate.com/memecoin-degens-are-providing-the-spark-for-wall-street-to-turn-stock-tokens-into-real-capital/",
+      "news:https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+      "news:https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+      "news:https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+      "news:https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+      "news:https://cryptoslate.com/wall-streets-altcoin-etf-rotation-is-not-producing-an-altseason-and-the-old-playbook-may-be-breaking/",
+      "news:https://cryptoslate.com/a-crypto-project-paying-nearly-1-million-people-a-daily-income-just-had-its-reserves-looted/",
+      "news:https://cryptoslate.com/india-moves-to-block-15-crypto-apps-leaving-users-facing-sudden-account-lockout/"
     ]
   },
   "init": {
