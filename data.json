@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:26:09.000Z",
+  "updated_at": "2026-09-10T01:19:31.000Z",
   "counts": {
     "bounties": 6,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Superteam Balkan",
       "deadline": "2026-09-10T21:59:59.000Z",
-      "time_left": "cierra en 22h",
-      "submissions": 72,
+      "time_left": "cierra en 20h",
+      "submissions": 73,
       "url": "https://superteam.fun/earn/listing/solana-summit-serbia-content",
       "featured": true
     },
@@ -26,7 +26,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 28,
+      "submissions": 30,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
