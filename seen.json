@@ -97,20 +97,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
-      "news:https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
-      "news:https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen",
-      "news:https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness",
-      "news:https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
-      "news:https://decrypt.co/372411/morning-minute-a-change-of-strategy",
-      "news:https://cryptoslate.com/crypto-youtubes-subscriber-counts-are-masking-a-weaker-retail-attention-signal/",
-      "news:https://cryptoslate.com/fca-finalizes-uk-crypto-rules-as-firms-face-2027-access-deadline/",
-      "news:https://cryptoslate.com/stablecoin-issuers-get-a-new-kyc-clock-but-defis-harder-fight-is-still-ahead/",
-      "news:https://cryptoslate.com/jpmorgan-warns-rushed-us-crypto-rules-could-create-market-loopholes-as-senate-races-toward-july-clarity-act-vote/",
-      "news:https://cryptoslate.com/ripple-bets-xrpl-lending-can-give-xrp-a-future-beyond-payments-as-price-struggles/",
-      "news:https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3096,7 +3082,21 @@
       "news:https://cryptoslate.com/bitcoin-holds-near-78k-as-markets-confront-the-macro-shocks-they-may-have-underpriced-this-week/",
       "news:https://cryptoslate.com/paolo-ardoino-says-650-million-people-decentralized-us-debt-but-tether-still-controls-the-t-bills/",
       "news:https://cryptoslate.com/osmosis-freezes-22-65-btc-after-nomic-forwarding-bug-compromises-bitcoin-reserves/",
-      "news:https://cryptoslate.com/tether-is-pushing-usdt-into-a-cracking-3-trillion-wall-street-debt-machine-as-defaults-hit-five-year-highs-at-major-funds/"
+      "news:https://cryptoslate.com/tether-is-pushing-usdt-into-a-cracking-3-trillion-wall-street-debt-machine-as-defaults-hit-five-year-highs-at-major-funds/",
+      "news:https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+      "news:https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+      "news:https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
+      "news:https://cryptoslate.com/xrp-ledger-crossed-5-billion-transactions-but-92-of-august-activity-came-from-just-767-bots/",
+      "news:https://cryptoslate.com/us-hit-on-24-billion-crypto-black-market-sends-rival-money-launderers-running-for-exits/",
+      "news:https://cryptoslate.com/sec-gives-bitcoin-heavy-trusts-new-15-percent-window-to-venture-beyond-existing-listing-rules/",
+      "news:https://cryptoslate.com/memecoin-degens-are-providing-the-spark-for-wall-street-to-turn-stock-tokens-into-real-capital/"
     ]
   },
   "init": {
