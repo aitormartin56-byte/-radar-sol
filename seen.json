@@ -98,12 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/xapo-bank-review-premium-bitcoin-banking-for-global-usd-users/",
-      "news:https://cryptoslate.com/is-openusd-the-industry-answer-to-bank-push-back-on-clarity-hints-stablecoin-yield-concessions-will-fail/",
-      "news:https://cryptoslate.com/floridas-crypto-atm-law-makes-scam-refunds-an-operator-problem/",
-      "news:https://cryptoslate.com/taiwans-new-crypto-law-gives-banks-the-first-real-stablecoin-advantage/",
-      "news:https://cryptoslate.com/sec-and-cftc-crypto-plans-face-new-risk-from-supreme-court-ruling/",
-      "news:https://cryptoslate.com/micas-july-1-deadline-is-europes-first-crypto-user-migration-test-okx-interview/",
       "news:https://cryptoslate.com/australias-travel-rule-turns-regulated-exchange-transfers-into-data-checkpoints/",
       "news:https://cryptoslate.com/bitcoins-57k-slide-puts-my-49k-cycle-low-thesis-back-in-play-unless-bulls-reclaim-60k/",
       "news:https://cointelegraph.com/news/taiko-reopens-bridge-1-7m-exploit-users-made-whole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3091,13 @@
       "news:https://cryptoslate.com/circles-noble-shutdown-leaves-cosmos-racing-to-move-92-million-in-usdc/",
       "news:https://cryptoslate.com/treasury-buys-5-2-billion-of-bonds-as-bitcoin-etf-flows-stay-negative/",
       "news:https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
-      "news:https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours/"
+      "news:https://cryptoslate.com/bitcoins-2-24-billion-friday-options-expiry-teased-a-reversal-then-gave-it-back-within-hours/",
+      "news:https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+      "news:https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+      "news:https://cryptoslate.com/why-circle-is-spending-400m-to-fix-the-last-mile-holding-stablecoins-back-from-real-world-payouts/",
+      "news:https://cryptoslate.com/crypto-exchange-recovery-rules-split-nes-holders-into-winners-and-losers-after-286m-exploit-fallout/",
+      "news:https://cryptoslate.com/nasdaq-deepens-kraken-ties-with-proposed-100-million-payward-investment/"
     ]
   },
   "init": {
