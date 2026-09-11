@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:31:27.000Z",
+  "updated_at": "2026-09-11T22:18:07.000Z",
   "counts": {
     "bounties": 5,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 46,
+      "submissions": 48,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 31,
+      "submissions": 32,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -61,7 +61,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 19 días",
+      "time_left": "cierra en 18 días",
       "submissions": 52,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
