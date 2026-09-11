@@ -97,9 +97,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
       "news:https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
       "news:https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
       "news:https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
@@ -3096,7 +3093,10 @@
       "news:https://cryptoslate.com/metamask-and-consensys-split-exposes-the-gap-between-ethereum-adoption-and-eth-demand/",
       "news:https://cryptoslate.com/visas-2-5-billion-onchain-credit-bet-puts-card-settlement-financing-onchain/",
       "news:https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/openais-math-breakthrough-exposes-the-next-weak-link-in-crypto-security/"
+      "news:https://cryptoslate.com/openais-math-breakthrough-exposes-the-next-weak-link-in-crypto-security/",
+      "news:https://cryptoslate.com/bitcoin-tests-critical-76000-support-cluster-during-macro-energy-shock/",
+      "news:https://cryptoslate.com/strategy-erased-nearly-8-billion-of-net-debt-in-11-months-and-put-sps-junk-rating-on-the-clock/",
+      "news:https://cryptoslate.com/this-xrp-project-is-shutting-down-after-wallet-flaw-exposed-4000-accounts-and-drained-450000/"
     ]
   },
   "init": {
