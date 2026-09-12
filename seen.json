@@ -98,8 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/robinhoods-expanding-crypto-bet-meets-a-faster-moving-prediction-market-boom/",
-      "news:https://cryptoslate.com/ethereum-is-splitting-into-three-power-centers-and-eth-treasury-firms-are-paying-for-two/",
       "news:https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3095,9 @@
       "news:https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
       "news:https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85/",
       "news:https://cryptoslate.com/stablecoins-make-sending-money-easy-until-someone-needs-to-spend-it/",
-      "news:https://cryptoslate.com/your-ai-shopping-agent-has-a-wallet-but-needs-a-refund-policy/"
+      "news:https://cryptoslate.com/your-ai-shopping-agent-has-a-wallet-but-needs-a-refund-policy/",
+      "news:https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/",
+      "news:https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem/"
     ]
   },
   "init": {
