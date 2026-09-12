@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:28:10.000Z",
+  "updated_at": "2026-09-12T04:55:28.000Z",
   "counts": {
     "bounties": 5,
     "grants": 46,
@@ -14,7 +14,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 50,
+      "submissions": 51,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "NectarFi",
       "deadline": "2026-09-14T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 24,
+      "submissions": 25,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 146,
+      "submissions": 147,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 32,
+      "submissions": 33,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
