@@ -98,10 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/tether-freezes-isis-k-wallets-proving-that-stablecoins-now-side-inside-a-sanctions-machine/",
-      "news:https://cryptoslate.com/a-mystery-owner-challenges-the-lost-satoshi-bitcoin-claim/",
-      "news:https://cryptoslate.com/wall-street-is-selling-bitcoin-the-old-holders-are-buying-it-back/",
-      "news:https://cryptoslate.com/venices-65m-raise-makes-vvv-holders-ask-how-much-of-venices-growth-reaches-the-token/",
       "news:https://cryptoslate.com/robinhoods-expanding-crypto-bet-meets-a-faster-moving-prediction-market-boom/",
       "news:https://cryptoslate.com/ethereum-is-splitting-into-three-power-centers-and-eth-treasury-firms-are-paying-for-two/",
       "news:https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3093,11 @@
       "news:https://cryptoslate.com/xrps-30-monthly-rebound-meets-a-4-6-million-liquidity-trial-inside-xrpls-1-1-billion-stablecoin-boom/",
       "news:https://cryptoslate.com/revolut-tricked-into-handing-hackers-the-passports-and-bitcoin-histories-of-wealthy-customers/",
       "news:https://cryptoslate.com/xrp-ledger-just-quietly-activated-critical-foundation-for-its-upcoming-new-lending-protocol/",
-      "news:https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls/"
+      "news:https://cryptoslate.com/the-dilution-trap-where-bitcoin-holdings-rise-while-shareholder-value-stalls/",
+      "news:https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+      "news:https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85/",
+      "news:https://cryptoslate.com/stablecoins-make-sending-money-easy-until-someone-needs-to-spend-it/",
+      "news:https://cryptoslate.com/your-ai-shopping-agent-has-a-wallet-but-needs-a-refund-policy/"
     ]
   },
   "init": {
