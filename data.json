@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-12T13:00:47.000Z",
+  "updated_at": "2026-09-12T16:25:42.000Z",
   "counts": {
-    "bounties": 5,
+    "bounties": 6,
     "grants": 46,
     "news": 0
   },
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 56,
+      "time_left": "cierra en 21h",
+      "submissions": 61,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -37,9 +37,21 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 153,
+      "time_left": "cierra en 3 días",
+      "submissions": 155,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Solana Summit Video Challenge",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "Goatfish",
+      "deadline": "2026-09-19T22:59:59.999Z",
+      "time_left": "cierra en 7 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
     {
@@ -50,7 +62,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 34,
+      "submissions": 35,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
