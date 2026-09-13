@@ -98,10 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3093,11 @@
       "news:https://cryptoslate.com/bitcoins-slide-below-77000-sets-up-a-monday-tech-test-as-ai-leaders-sound-warning/",
       "news:https://cryptoslate.com/bitcoins-oil-risk-stretches-into-2027-as-iea-cuts-supply-outlook-again/",
       "news:https://cryptoslate.com/why-90-of-your-defi-trades-are-quietly-being-routed-back-to-wall-street-market-makers/",
-      "news:https://cryptoslate.com/uk-company-sells-entire-bitcoin-reserve-to-return-669-btc-to-shareholders-here-is-who-actually-gets-paid/"
+      "news:https://cryptoslate.com/uk-company-sells-entire-bitcoin-reserve-to-return-669-btc-to-shareholders-here-is-who-actually-gets-paid/",
+      "news:https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
+      "news:https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/",
+      "news:https://cryptoslate.com/cosmos-is-back-online-after-outage-but-ledger-users-still-cant-see-or-send-their-atom/",
+      "news:https://cryptoslate.com/does-ai-face-an-immediately-difficult-choice-nationalize-or-decentralize-ais-2026-slowdown-dilemma/"
     ]
   },
   "init": {
