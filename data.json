@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T01:19:04.000Z",
+  "updated_at": "2026-09-13T06:35:53.000Z",
   "counts": {
     "bounties": 6,
     "grants": 46,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-09-13T13:59:59.000Z",
-      "time_left": "cierra en 12h",
-      "submissions": 69,
+      "time_left": "cierra en 7h",
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 160,
+      "submissions": 162,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
