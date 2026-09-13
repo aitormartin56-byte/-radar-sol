@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-13T12:34:23.000Z",
+  "updated_at": "2026-09-13T16:51:28.000Z",
   "counts": {
-    "bounties": 6,
+    "bounties": 5,
     "grants": 46,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Create a Video About Swap.io",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "swap.io",
-      "deadline": "2026-09-13T13:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 85,
-      "url": "https://superteam.fun/earn/listing/create-a-video-about-swapio",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "NectarFi x Dominion Market",
@@ -26,7 +14,7 @@
       "sponsor": "NectarFi",
       "deadline": "2026-09-14T22:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 27,
+      "submissions": 28,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 163,
+      "time_left": "cierra en 2 días",
+      "submissions": 165,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -50,7 +38,7 @@
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
       "time_left": "cierra en 6 días",
-      "submissions": 4,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 39,
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
