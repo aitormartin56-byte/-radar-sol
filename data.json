@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-14T16:11:46.000Z",
+  "updated_at": "2026-09-14T20:24:30.000Z",
   "counts": {
-    "bounties": 5,
+    "bounties": 6,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "NectarFi x Dominion Market",
-      "reward": "1000 USDG",
-      "type": "bounty",
-      "sponsor": "NectarFi",
-      "deadline": "2026-09-14T22:59:59.000Z",
-      "time_left": "cierra en 6h",
-      "submissions": 32,
-      "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Try out new docs to build a trusted agent with T3N that we can distribute / host",
@@ -38,7 +26,7 @@
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 17,
+      "submissions": 19,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -49,9 +37,21 @@
       "type": "bounty",
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 44,
+      "time_left": "cierra en 6 días",
+      "submissions": 45,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "NectarFi x Dominion Market",
+      "reward": "1000 USDG",
+      "type": "bounty",
+      "sponsor": "NectarFi",
+      "deadline": "2026-09-28T22:59:59.000Z",
+      "time_left": "cierra en 14 días",
+      "submissions": 32,
+      "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
     {
@@ -64,6 +64,18 @@
       "time_left": "cierra en 16 días",
       "submissions": 57,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create X Thread About Moony Tips With Flipcash",
+      "reward": "300 USDC",
+      "type": "bounty",
+      "sponsor": "Moony Foundation Inc.",
+      "deadline": "2026-10-01T06:59:59.000Z",
+      "time_left": "cierra en 16 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
   ],

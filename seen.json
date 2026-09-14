@@ -98,20 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/strategy-bought-time-but-bitcoins-next-cycle-may-need-buyers-beyond-saylor/",
-      "news:https://cryptoslate.com/the-fight-over-the-uks-digital-pound-has-become-a-battle-over-cryptos-political-influence/",
-      "news:https://cryptoslate.com/bitcoin-etfs-see-biggest-inflow-since-may-after-weak-us-jobs-report-sparks-btc-price-rebound/",
-      "news:https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
-      "news:https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
-      "news:https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/crypto-wanted-to-replace-wall-street-instead-wall-street-took-over-crypto/",
-      "news:https://cryptoslate.com/bitcoins-bip-110-fork-fight-gives-exchanges-an-august-deadline-before-miners-signal-support/",
       "news:https://cryptoslate.com/crypto-exchanges-are-selling-stock-options-and-tokenized-stocks-but-users-may-not-own-what-they-think/",
       "news:https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
@@ -3097,7 +3083,21 @@
       "news:https://cryptoslate.com/leveraged-funds-rebuilt-1669-btc-of-bitcoin-futures-shorts-before-fed/",
       "news:https://cryptoslate.com/another-public-company-has-abandoned-its-bitcoin-treasury-after-selling-the-last-764-btc/",
       "news:https://cryptoslate.com/seven-assets-enter-kraken-liquidation-window-after-withdrawals-close-monday/",
-      "news:https://cryptoslate.com/bitcoin-etfs-just-lost-463-million-as-the-fed-puts-btcs-75000-breakout-at-risk/"
+      "news:https://cryptoslate.com/bitcoin-etfs-just-lost-463-million-as-the-fed-puts-btcs-75000-breakout-at-risk/",
+      "news:https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
+      "news:https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
+      "news:https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
+      "news:https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+      "news:https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
+      "news:https://cryptoslate.com/trons-quantum-plan-could-leave-some-wallets-able-to-pay-but-unable-to-replace-their-keys/",
+      "news:https://cryptoslate.com/indias-tokenized-bond-pilot-starts-with-institutions-with-retail-access-planned-next/",
+      "news:https://cryptoslate.com/clarity-acts-final-deal-is-already-breaking-down-before-tomorrows-senate-vote/",
+      "news:https://cryptoslate.com/55-million-aave-stablecoin-pool-sees-just-4-4-million-available-for-withdrawals/",
+      "news:https://cryptoslate.com/bitcoins-quantum-plan-faces-a-1-6-million-btc-custody-test/"
     ]
   },
   "init": {
