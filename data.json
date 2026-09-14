@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T20:24:30.000Z",
+  "updated_at": "2026-09-14T23:19:12.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 173,
+      "submissions": 174,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 19,
+      "time_left": "cierra en 4 días",
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 45,
+      "submissions": 46,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 14 días",
+      "time_left": "cierra en 13 días",
       "submissions": 32,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
@@ -61,7 +61,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 16 días",
+      "time_left": "cierra en 15 días",
       "submissions": 57,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
@@ -74,7 +74,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 16 días",
-      "submissions": 0,
+      "submissions": 1,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }

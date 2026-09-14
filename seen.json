@@ -98,13 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/crypto-exchanges-are-selling-stock-options-and-tokenized-stocks-but-users-may-not-own-what-they-think/",
-      "news:https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
-      "news:https://cryptoslate.com/americans-lost-hundreds-of-billions-on-speculation-why-is-only-some-of-it-considered-gambling/",
-      "news:https://cryptoslate.com/reported-riot-500-btc-custody-transfer-exposes-bitcoin-miners-ai-funding-pressure/",
-      "news:https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
       "news:https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
       "news:https://cryptoslate.com/bitcoins-weekend-rally-faces-a-66000-trap-as-traders-still-hedge-for-another-drop/",
@@ -3097,7 +3090,14 @@
       "news:https://cryptoslate.com/indias-tokenized-bond-pilot-starts-with-institutions-with-retail-access-planned-next/",
       "news:https://cryptoslate.com/clarity-acts-final-deal-is-already-breaking-down-before-tomorrows-senate-vote/",
       "news:https://cryptoslate.com/55-million-aave-stablecoin-pool-sees-just-4-4-million-available-for-withdrawals/",
-      "news:https://cryptoslate.com/bitcoins-quantum-plan-faces-a-1-6-million-btc-custody-test/"
+      "news:https://cryptoslate.com/bitcoins-quantum-plan-faces-a-1-6-million-btc-custody-test/",
+      "news:https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
+      "news:https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
+      "news:https://cryptoslate.com/circles-arc-launch-ties-wall-street-firms-to-the-network-without-making-them-its-safety-net/",
+      "news:https://cryptoslate.com/xrp-holders-could-earn-new-yield-but-getting-out-may-take-up-to-60-days/",
+      "news:https://cryptoslate.com/aave-v4-proposal-would-put-dao-funds-first-in-line-to-absorb-lending-losses/"
     ]
   },
   "init": {
