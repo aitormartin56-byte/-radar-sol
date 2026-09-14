@@ -98,12 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
-      "news:https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
-      "news:https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
-      "news:https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3091,13 @@
       "news:https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/",
       "news:https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
+      "news:https://cryptoslate.com/trump-concession-sends-clarity-act-odds-above-32-before-make-or-break-senate-vote/"
     ]
   },
   "init": {
