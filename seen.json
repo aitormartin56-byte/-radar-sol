@@ -100,18 +100,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/vitaliks-lean-ethereum-plan-turns-eths-wall-street-pitch-into-a-delivery-reckoning/",
-      "news:https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/terawulf-shares-rise-after-19b-anthropic-ai-lease-jv-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
-      "news:https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
-      "news:https://decrypt.co/372854/we-cannot-vibe-code-future-of-humanity-un-chief-warns-ai",
-      "news:https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
-      "news:https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot",
       "news:https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match",
       "news:https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
       "news:https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic",
@@ -3099,7 +3087,19 @@
       "news:https://cryptoslate.com/bitcoins-newest-mobile-privacy-feature-could-make-your-incoming-money-completely-invisible/",
       "news:https://cryptoslate.com/bitcoin-etf-inflows-are-back-but-blackrock-is-carrying-the-market-into-the-fed-meeting/",
       "news:https://cryptoslate.com/clarity-act-chances-sink-below-20-as-senates-path-to-60-votes-narrows/",
-      "news:https://cryptoslate.com/xrps-path-back-to-2-now-hinges-on-whether-the-senate-passes-the-clarity-act/"
+      "news:https://cryptoslate.com/xrps-path-back-to-2-now-hinges-on-whether-the-senate-passes-the-clarity-act/",
+      "news:https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+      "news:https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
+      "news:https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+      "news:https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+      "news:https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
+      "news:https://cryptoslate.com/a-major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across-popular-apps/",
+      "news:https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
+      "news:https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
+      "news:https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin/"
     ]
   },
   "init": {

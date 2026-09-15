@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T17:29:57.000Z",
+  "updated_at": "2026-09-15T20:24:23.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 22h",
-      "submissions": 183,
+      "time_left": "cierra en 19h",
+      "submissions": 186,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 29,
+      "submissions": 30,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 51,
+      "submissions": 52,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Hisa",
       "deadline": "2026-09-25T22:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 2,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/create-a-short-video-explainer-for-hisa-dollar5000-up-for-grabs",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 33,
+      "submissions": 34,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 15 días",
-      "submissions": 9,
+      "submissions": 13,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
