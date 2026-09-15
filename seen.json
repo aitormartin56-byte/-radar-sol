@@ -98,9 +98,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
-      "news:https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
-      "news:https://cryptoslate.com/bitcoins-weekend-rally-faces-a-66000-trap-as-traders-still-hedge-for-another-drop/",
       "news:https://cryptoslate.com/bitcoins-freedom-money-to-set-liquidity-independence-day-benchmark-while-banks-and-wall-street-shut-down/",
       "news:https://cryptoslate.com/openusds-partner-confusion-turns-its-stablecoin-coalition-into-a-credibility-test/",
       "news:https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3094,10 @@
       "news:https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
       "news:https://cryptoslate.com/circles-arc-launch-ties-wall-street-firms-to-the-network-without-making-them-its-safety-net/",
       "news:https://cryptoslate.com/xrp-holders-could-earn-new-yield-but-getting-out-may-take-up-to-60-days/",
-      "news:https://cryptoslate.com/aave-v4-proposal-would-put-dao-funds-first-in-line-to-absorb-lending-losses/"
+      "news:https://cryptoslate.com/aave-v4-proposal-would-put-dao-funds-first-in-line-to-absorb-lending-losses/",
+      "news:https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/ethereum-builders-face-a-choice-between-locking-up-too-much-cash-or-relying-on-trusted-brokers/",
+      "news:https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/"
     ]
   },
   "init": {
