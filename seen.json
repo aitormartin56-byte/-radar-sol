@@ -50,7 +50,9 @@
       "st:d777e3ce-3942-4d2f-ab9a-3793327e389f",
       "st:50e74faf-c83c-4f00-b122-e73089559228",
       "st:ae1041af-2378-4a17-b21f-8d74a4505f96",
-      "st:28be6272-6c81-4aab-b351-4da39390bf3c"
+      "st:28be6272-6c81-4aab-b351-4da39390bf3c",
+      "st:3c12a2d7-88af-40cb-add1-79546e76b8a2",
+      "st:f1250fa6-7e09-4962-8eb1-60969bcf0bbb"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -98,20 +100,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/the-death-of-the-crypto-startup-rip-2017-2026/",
-      "news:https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/crypto-hacks-hit-a-record-count-but-the-biggest-threat-isnt-smart-contracts/",
-      "news:https://cryptoslate.com/the-124-trillion-boomer-wealth-transfer-could-change-crypto-forever/",
-      "news:https://cryptoslate.com/binances-reported-mesh-round-puts-stablecoin-payment-routes-in-play/",
-      "news:https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
-      "news:https://cryptoslate.com/funds-are-buying-crypto-stocks-are-they-getting-less-risk-or-more/",
-      "news:https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3097,7 +3085,21 @@
       "news:https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/strategy-prioritizes-950-million-strc-buyback-over-expanding-its-bitcoin-treasury/",
-      "news:https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s/"
+      "news:https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s/",
+      "news:https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378183/solana-defi-development-corp-chad",
+      "news:https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+      "news:https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down/",
+      "news:https://cryptoslate.com/bitcoin-needs-to-reach-82900-to-outrun-a-looming-miner-margin-squeeze/",
+      "news:https://cryptoslate.com/altcoins-gained-21-and-still-lost-ground-to-bitcoin-what-would-finally-turn-the-tables/",
+      "news:https://cryptoslate.com/us-bitcoin-reserve-faces-crucial-bipartisan-test-wednesday/",
+      "news:https://cryptoslate.com/bitcoin-self-custody-creates-a-massive-cost-basis-blind-spot-on-your-2026-crypto-tax-forms/",
+      "news:https://cryptoslate.com/proposed-stablecoin-rules-might-guarantee-your-dollar-while-making-you-wait-a-week-to-spend-it/"
     ]
   },
   "init": {
