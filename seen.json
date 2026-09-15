@@ -52,7 +52,8 @@
       "st:ae1041af-2378-4a17-b21f-8d74a4505f96",
       "st:28be6272-6c81-4aab-b351-4da39390bf3c",
       "st:3c12a2d7-88af-40cb-add1-79546e76b8a2",
-      "st:f1250fa6-7e09-4962-8eb1-60969bcf0bbb"
+      "st:f1250fa6-7e09-4962-8eb1-60969bcf0bbb",
+      "st:1f63114b-1bf0-4fbe-8db6-282f2bec10c5"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -100,13 +101,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match",
-      "news:https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
-      "news:https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic",
-      "news:https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
-      "news:https://cryptoslate.com/coinbase-false-world-cup-alert-exposes-the-proof-gap-in-prediction-markets/",
-      "news:https://cryptoslate.com/bitcoin-needs-trillions-to-go-parabolic-again-as-etf-demand-fades/",
-      "news:https://cryptoslate.com/bitcoin-miner-bottom-signal-now-depends-on-who-survives-weak-mining-profits/",
       "news:https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3099,7 +3093,14 @@
       "news:https://cryptoslate.com/a-major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across-popular-apps/",
       "news:https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
       "news:https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
-      "news:https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin/"
+      "news:https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin/",
+      "news:https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
+      "news:https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
+      "news:https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case/",
+      "news:https://cryptoslate.com/coinex-quits-after-9-years-as-crypto-trading-activity-concentrates-at-biggest-exchanges/",
+      "news:https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue/"
     ]
   },
   "init": {
