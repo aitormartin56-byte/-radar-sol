@@ -103,14 +103,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
-      "news:https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
-      "news:https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
-      "news:https://decrypt.co/372957/ai-changing-workplace-universities-not-keeping-up-study",
-      "news:https://decrypt.co/372959/big3-nft-buyers-sue-ice-cube-basketball-league-unfulfilled-benefits",
-      "news:https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
-      "news:https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text",
-      "news:https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/",
       "news:https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move/",
       "news:https://cryptoslate.com/bitcoin-rally-now-depends-on-one-fed-document-coming/",
       "news:https://cryptoslate.com/sberbanks-crypto-wallet-plan-could-pull-russian-users-into-a-bank-controlled-on-ramp/",
@@ -3102,7 +3094,15 @@
       "news:https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72/",
       "news:https://cryptoslate.com/uk-opens-a-major-loophole-for-stablecoin-payments-while-clamping-down-on-crypto-lending/",
       "news:https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy/",
-      "news:https://cryptoslate.com/celsius-sues-bitmex-for-495-million-just-11-days-before-exchange-shutdown/"
+      "news:https://cryptoslate.com/celsius-sues-bitmex-for-495-million-just-11-days-before-exchange-shutdown/",
+      "news:https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+      "news:https://decrypt.co/378430/bitcoin-core-software-october-update",
+      "news:https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+      "news:https://cryptoslate.com/solana-triples-transaction-size-as-major-upgrades-meet-record-network-activity/",
+      "news:https://cryptoslate.com/bitcoins-fed-move-could-run-straight-into-a-6-3-billion-ibit-options-wall/",
+      "news:https://cryptoslate.com/robinhood-engineers-face-up-to-30-years-over-50000-alleged-hyperliquid-profits/"
     ]
   },
   "init": {
