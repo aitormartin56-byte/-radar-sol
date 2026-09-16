@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:04:17.000Z",
+  "updated_at": "2026-09-16T01:32:56.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 16h",
+      "time_left": "cierra en 14h",
       "submissions": 187,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false

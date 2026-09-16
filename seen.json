@@ -101,7 +101,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3100,7 +3099,8 @@
       "news:https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
       "news:https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case/",
       "news:https://cryptoslate.com/coinex-quits-after-9-years-as-crypto-trading-activity-concentrates-at-biggest-exchanges/",
-      "news:https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue/"
+      "news:https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue/",
+      "news:https://cryptoslate.com/congress-wants-to-make-crypto-easier-to-use-and-still-collect-500-million-more-in-taxes/"
     ]
   },
   "init": {
