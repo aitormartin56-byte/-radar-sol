@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T07:20:12.000Z",
+  "updated_at": "2026-09-16T12:44:08.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Terminal 3 Network",
       "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 8h",
-      "submissions": 189,
+      "time_left": "cierra en 3h",
+      "submissions": 192,
       "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 33,
+      "submissions": 34,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -52,7 +52,7 @@
       "time_left": "cierra en 9 días",
       "submissions": 4,
       "url": "https://superteam.fun/earn/listing/create-a-short-video-explainer-for-hisa-dollar5000-up-for-grabs",
-      "featured": false
+      "featured": true
     },
     {
       "kind": "bounty",
@@ -74,7 +74,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 59,
+      "submissions": 60,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 15,
+      "submissions": 18,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
