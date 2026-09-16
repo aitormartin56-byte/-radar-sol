@@ -54,7 +54,8 @@
       "st:3c12a2d7-88af-40cb-add1-79546e76b8a2",
       "st:f1250fa6-7e09-4962-8eb1-60969bcf0bbb",
       "st:1f63114b-1bf0-4fbe-8db6-282f2bec10c5",
-      "st:feaa1ed4-3c86-4f9c-b205-faadebc335c6"
+      "st:feaa1ed4-3c86-4f9c-b205-faadebc335c6",
+      "st:e2d649f6-10cc-41e8-9c30-7d1a650f4cc6"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -102,23 +103,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
-      "news:https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
-      "news:https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
-      "news:https://decrypt.co/372909/morning-minute-strategy-turns-net-seller",
-      "news:https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale",
-      "news:https://decrypt.co/372901/chainwire-parent-mediafuse-launches-tech-newswire-optimized-for-ai-search",
-      "news:https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries/",
-      "news:https://cryptoslate.com/ansem-soars-299-and-brings-solanas-memecoin-trenches-back-to-life-but-do-we-need-it-now/",
-      "news:https://cryptoslate.com/bitcoin-dominance-hits-one-month-low-as-altcoin-winners-start-breaking-away/",
-      "news:https://cryptoslate.com/bitcoins-70k-path-now-runs-through-pump-prices-as-iran-shock-fades/",
-      "news:https://cryptoslate.com/bitcoin-63k-rebound-gains-momentum-but-forced-buying-leaves-real-demand-unanswered/",
-      "news:https://cryptoslate.com/summer-fi-exploit-shows-ai-automation-now-sits-above-defi-smart-contract-risk/",
-      "news:https://cointelegraph.com/news/sec-crypto-rule-changes-2026-agenda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/vanguard-seeks-digital-assets-chief-after-years-of-crypto-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/new-hampshire-hearing-bitcoin-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/kraken-wins-22m-arbitration-against-former-auditor-mazars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
       "news:https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
       "news:https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
@@ -3101,7 +3085,24 @@
       "news:https://cryptoslate.com/the-standard-chartered-effect-is-bank-research-becoming-cryptos-new-short-term-catalyst/",
       "news:https://cryptoslate.com/bitcoin-etf-exits-erase-mondays-rebound-as-spot-selling-deepens-before-the-fed/",
       "news:https://cryptoslate.com/bitcoin-drops-below-76000-as-senate-rejects-clarity-act-motion/",
-      "news:https://cryptoslate.com/a-100-million-launch-balance-doesnt-mean-a-crypto-etf-has-real-investors/"
+      "news:https://cryptoslate.com/a-100-million-launch-balance-doesnt-mean-a-crypto-etf-has-real-investors/",
+      "news:https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+      "news:https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
+      "news:https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
+      "news:https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+      "news:https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
+      "news:https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
+      "news:https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
+      "news:https://cryptoslate.com/solana-treasury-giant-defi-development-opens-300m-chad-offering-backed-by-a-massive-13-dividend-catch/",
+      "news:https://cryptoslate.com/xrpl-proved-it-can-handle-over-3000-transactions-but-the-traffic-was-entirely-synthetic/",
+      "news:https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72/",
+      "news:https://cryptoslate.com/uk-opens-a-major-loophole-for-stablecoin-payments-while-clamping-down-on-crypto-lending/",
+      "news:https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy/",
+      "news:https://cryptoslate.com/celsius-sues-bitmex-for-495-million-just-11-days-before-exchange-shutdown/"
     ]
   },
   "init": {

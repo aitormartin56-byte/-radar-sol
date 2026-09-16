@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-16T12:44:08.000Z",
+  "updated_at": "2026-09-16T17:30:16.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 5,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Try out new docs to build a trusted agent with T3N that we can distribute / host",
-      "reward": "290 USDC",
-      "type": "bounty",
-      "sponsor": "Terminal 3 Network",
-      "deadline": "2026-09-16T15:59:59.999Z",
-      "time_left": "cierra en 3h",
-      "submissions": 192,
-      "url": "https://superteam.fun/earn/listing/t3n-agent-build-challenge",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Solana Summit Video Challenge",
@@ -26,7 +14,7 @@
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 34,
+      "submissions": 36,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -37,22 +25,10 @@
       "type": "bounty",
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 52,
+      "time_left": "cierra en 4 días",
+      "submissions": 53,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Create a Short Video Explainer for Hisa: $5000 up for grabs.",
-      "reward": "5002 USDG",
-      "type": "bounty",
-      "sponsor": "Hisa",
-      "deadline": "2026-09-25T22:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 4,
-      "url": "https://superteam.fun/earn/listing/create-a-short-video-explainer-for-hisa-dollar5000-up-for-grabs",
-      "featured": true
     },
     {
       "kind": "bounty",
@@ -86,7 +62,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 18,
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
