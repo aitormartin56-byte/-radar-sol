@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:24:00.000Z",
+  "updated_at": "2026-09-16T23:10:28.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
-      "time_left": "cierra en 3 días",
+      "time_left": "cierra en 2 días",
       "submissions": 37,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 53,
+      "submissions": 56,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 12 días",
-      "submissions": 35,
+      "time_left": "cierra en 11 días",
+      "submissions": 36,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 14 días",
-      "submissions": 60,
+      "time_left": "cierra en 13 días",
+      "submissions": 63,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 22,
+      "submissions": 24,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
