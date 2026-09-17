@@ -103,17 +103,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/binance-backed-network-chases-ai-agent-economy-with-1m-tps-privacy-overhaul-amid-bnbs-price-struggles/",
-      "news:https://cryptoslate.com/bitcoin-mining-pools-in-2026-hashrate-consolidation-is-creating-a-two-tier-market-and-smaller-miners-are-feeling-it/",
-      "news:https://cryptoslate.com/xrp-cleaned-out-leverage-now-etf-demand-has-to-prove-itself/",
-      "news:https://cryptoslate.com/pump-funs-upcoming-127m-insider-token-unlock-is-nearly-twice-pumps-recent-daily-volume/",
-      "news:https://cryptoslate.com/bitcoins-rally-has-four-weeks-to-get-its-washington-clarity-catalyst-before-the-clock-runs-out/",
-      "news:https://cryptoslate.com/bitcoins-etf-comeback-is-relying-on-a-79b-futures-market-betting-the-rebound-holds/",
-      "news:https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/russia-largest-private-bank-alfa-bank-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ai-boom-fuels-inflation-fears-complicating-feds-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3102,7 +3091,18 @@
       "news:https://cryptoslate.com/stani-kulechovs-uber-plan-for-aave-could-turn-everyday-crypto-savers-into-washingtons-worst-political-nightmare/",
       "news:https://cryptoslate.com/cardanos-splash-fix-patches-the-exploit-but-leaves-2-4m-ada-missing-and-holders-trapped/",
       "news:https://cryptoslate.com/lawmakers-pass-bill-to-freeze-federal-bitcoin-holdings-for-two-decades/",
-      "news:https://cryptoslate.com/why-standard-bitcoin-transfer-figures-are-off-by-up-to-six-times-according-to-the-bis/"
+      "news:https://cryptoslate.com/why-standard-bitcoin-transfer-figures-are-off-by-up-to-six-times-according-to-the-bis/",
+      "news:https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378553/why-chipotle-working-with-palantir",
+      "news:https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
+      "news:https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
+      "news:https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+      "news:https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
+      "news:https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
+      "news:https://cryptoslate.com/optimism-just-approved-the-upgrade-its-superchain-needs-before-interoperability-can-go-live/",
+      "news:https://cryptoslate.com/stellar-activates-protocol-28-as-network-hits-record-throughput-and-rwa-value-climbs/",
+      "news:https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments/"
     ]
   },
   "init": {
