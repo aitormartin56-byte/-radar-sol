@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T21:01:06.000Z",
+  "updated_at": "2026-09-17T23:36:56.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 60,
+      "time_left": "cierra en 1 día",
+      "submissions": 61,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -37,7 +37,7 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 11 días",
+      "time_left": "cierra en 10 días",
       "submissions": 36,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
@@ -50,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 63,
+      "submissions": 64,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },

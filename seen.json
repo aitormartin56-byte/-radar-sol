@@ -103,11 +103,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/ai-boom-fuels-inflation-fears-complicating-feds-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
       "news:https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
@@ -3102,7 +3097,12 @@
       "news:https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
       "news:https://cryptoslate.com/optimism-just-approved-the-upgrade-its-superchain-needs-before-interoperability-can-go-live/",
       "news:https://cryptoslate.com/stellar-activates-protocol-28-as-network-hits-record-throughput-and-rwa-value-climbs/",
-      "news:https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments/"
+      "news:https://cryptoslate.com/cryptos-first-big-tax-win-comes-with-a-catch-for-stakers-and-everyday-payments/",
+      "news:https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+      "news:https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
+      "news:https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
+      "news:https://cryptoslate.com/aave-v4s-arc-market-is-swimming-in-76-million-of-usdc-nobody-is-borrowing/",
+      "news:https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization/"
     ]
   },
   "init": {
