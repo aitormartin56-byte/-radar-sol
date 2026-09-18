@@ -104,13 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
-      "news:https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
-      "news:https://decrypt.co/373184/perplexity-fine-tuned-chinese-ai-model-claude-opus-4-8",
-      "news:https://decrypt.co/373181/anthropic-ai-oversight-board-ben-bernanke-2008-federal-crisis-fed",
-      "news:https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
-      "news:https://cryptoslate.com/new-hampshire-rejects-100m-bitcoin-backed-bond/",
       "news:https://cryptoslate.com/kalshis-court-loss-shows-federal-approval-may-still-leave-prediction-markets-fenced-off-by-states/",
       "news:https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3103,7 +3096,14 @@
       "news:https://cryptoslate.com/why-bitcoin-is-up-today-the-rally-began-before-weak-us-data/",
       "news:https://cryptoslate.com/xrpl-tries-to-mathematically-prove-its-new-lending-market-cannot-be-drained/",
       "news:https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90/",
-      "news:https://cryptoslate.com/zcash-holders-vote-to-preserve-halvings-and-defer-recycled-zec-until-2031/"
+      "news:https://cryptoslate.com/zcash-holders-vote-to-preserve-halvings-and-defer-recycled-zec-until-2031/",
+      "news:https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+      "news:https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+      "news:https://cryptoslate.com/why-sbi-just-put-millions-behind-a-singapore-startups-stablecoin-push/",
+      "news:https://cryptoslate.com/fca-draws-the-uk-boundary-for-offshore-crypto-platforms-ahead-of-2027-rules/",
+      "news:https://cryptoslate.com/3-year-old-bug-triggers-1-3-million-drain-and-forces-10-day-blockchain-halt/"
     ]
   },
   "init": {
