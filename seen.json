@@ -55,7 +55,8 @@
       "st:f1250fa6-7e09-4962-8eb1-60969bcf0bbb",
       "st:1f63114b-1bf0-4fbe-8db6-282f2bec10c5",
       "st:feaa1ed4-3c86-4f9c-b205-faadebc335c6",
-      "st:e2d649f6-10cc-41e8-9c30-7d1a650f4cc6"
+      "st:e2d649f6-10cc-41e8-9c30-7d1a650f4cc6",
+      "st:4c3b4256-ea0c-4b52-8433-12618e4f66c9"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -103,17 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
-      "news:https://cryptoslate.com/bitcoin-atms-are-becoming-the-last-stop-in-americas-11b-crypto-scam-pipeline/",
-      "news:https://cryptoslate.com/cardanos-wallet-hack-exposed-the-user-layer-holding-its-on-chain-government-together/",
-      "news:https://cryptoslate.com/clarity-act-misses-july-target-and-runs-into-an-august-7-senate-clock/",
-      "news:https://cryptoslate.com/a-1-billion-hype-treasury-trade-is-hitting-public-markets-before-its-liquidity-has-been-tested/",
-      "news:https://cryptoslate.com/bitcoin-price-shows-resilience-above-60000-amid-renewed-us-iran-hostilities/",
-      "news:https://cryptoslate.com/bitcoins-bottom-needs-long-term-holders-to-stop-losing-280m-a-day/",
-      "news:https://cryptoslate.com/worldcoin-cuts-wld-unlocks-by-43-but-4-9b-tokens-still-need-a-reason-to-rally/",
-      "news:https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
       "news:https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
@@ -3102,7 +3092,18 @@
       "news:https://cryptoslate.com/your-crypto-hardware-wallet-can-stay-secure-while-everything-around-it-fails/",
       "news:https://cryptoslate.com/blockchain-malware-activity-jumps-440-as-ai-lowers-the-barrier-for-hackers/",
       "news:https://cryptoslate.com/clarity-act-needs-3-more-senators-and-a-race-against-the-clock-for-a-2026-revival/",
-      "news:https://cryptoslate.com/why-risk-a-smart-contract-exploit-when-safe-us-treasuries-pay-better-crypto-yields/"
+      "news:https://cryptoslate.com/why-risk-a-smart-contract-exploit-when-safe-us-treasuries-pay-better-crypto-yields/",
+      "news:https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+      "news:https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+      "news:https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
+      "news:https://cryptoslate.com/us-sanctions-iranian-crypto-exchange-and-its-software-developer-over-alleged-irgc-bitcoin-transfers/",
+      "news:https://cryptoslate.com/why-bitcoin-is-up-today-the-rally-began-before-weak-us-data/",
+      "news:https://cryptoslate.com/xrpl-tries-to-mathematically-prove-its-new-lending-market-cannot-be-drained/",
+      "news:https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90/",
+      "news:https://cryptoslate.com/zcash-holders-vote-to-preserve-halvings-and-defer-recycled-zec-until-2031/"
     ]
   },
   "init": {
