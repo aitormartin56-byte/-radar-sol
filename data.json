@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-19T21:37:03.000Z",
+  "updated_at": "2026-09-19T23:56:17.000Z",
   "counts": {
-    "bounties": 5,
+    "bounties": 4,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Solana Summit Video Challenge",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Goatfish",
-      "deadline": "2026-09-19T22:59:59.999Z",
-      "time_left": "cierra en 1h",
-      "submissions": 107,
-      "url": "https://superteam.fun/earn/listing/summitvideos",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Show the world SOLARA — Content + Seeker dApp reviews",
@@ -26,7 +14,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 75,
+      "submissions": 76,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -37,7 +25,7 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 9 días",
+      "time_left": "cierra en 8 días",
       "submissions": 39,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false

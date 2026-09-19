@@ -104,7 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/hong-kong-gives-crypto-platforms-one-year-to-ditch-one-time-passwords-or-cover-user-losses/",
       "news:https://cryptoslate.com/judge-lets-terraform-use-jump-lawsuit-evidence-while-blocking-four-late-creditor-claims/",
       "news:https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/",
       "news:https://cryptoslate.com/sec-could-start-writing-crypto-rules-before-the-senate-votes-on-clarity/",
@@ -3103,7 +3102,8 @@
       "news:https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead/",
       "news:https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
-      "news:https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/"
+      "news:https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
+      "news:https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/"
     ]
   },
   "init": {
