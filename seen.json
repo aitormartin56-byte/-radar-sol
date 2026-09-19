@@ -104,9 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call",
-      "news:https://decrypt.co/373215/morning-minute-robinhood-chain-explodes-onto-the-crypto-scene",
-      "news:https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
       "news:https://cryptoslate.com/hong-kong-gives-crypto-platforms-one-year-to-ditch-one-time-passwords-or-cover-user-losses/",
       "news:https://cryptoslate.com/judge-lets-terraform-use-jump-lawsuit-evidence-while-blocking-four-late-creditor-claims/",
       "news:https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/",
@@ -3103,7 +3100,10 @@
       "news:https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
       "news:https://cryptoslate.com/circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea/",
       "news:https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade/",
-      "news:https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead/"
+      "news:https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead/",
+      "news:https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
+      "news:https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/"
     ]
   },
   "init": {
