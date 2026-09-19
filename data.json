@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T00:30:12.000Z",
+  "updated_at": "2026-09-19T04:57:37.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
-      "time_left": "cierra en 22h",
-      "submissions": 80,
+      "time_left": "cierra en 18h",
+      "submissions": 81,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 70,
+      "submissions": 71,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 66,
+      "submissions": 67,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
