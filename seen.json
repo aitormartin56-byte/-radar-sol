@@ -104,11 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway",
-      "news:https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter",
       "news:https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call",
       "news:https://decrypt.co/373215/morning-minute-robinhood-chain-explodes-onto-the-crypto-scene",
       "news:https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
@@ -3103,7 +3098,12 @@
       "news:https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
       "news:https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
       "news:https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/",
-      "news:https://cryptoslate.com/bitcoin-faces-an-october-18-test-as-trump-prepares-new-russia-tariffs/"
+      "news:https://cryptoslate.com/bitcoin-faces-an-october-18-test-as-trump-prepares-new-russia-tariffs/",
+      "news:https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+      "news:https://cryptoslate.com/circle-wants-you-to-love-usdc-a-little-like-you-love-chelsea/",
+      "news:https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade/",
+      "news:https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead/"
     ]
   },
   "init": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:40:27.000Z",
+  "updated_at": "2026-09-19T19:12:26.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Goatfish",
       "deadline": "2026-09-19T22:59:59.999Z",
-      "time_left": "cierra en 6h",
-      "submissions": 95,
+      "time_left": "cierra en 3h",
+      "submissions": 97,
       "url": "https://superteam.fun/earn/listing/summitvideos",
       "featured": false
     },
@@ -25,7 +25,7 @@
       "type": "bounty",
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en 2 días",
+      "time_left": "cierra en 1 día",
       "submissions": 75,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
