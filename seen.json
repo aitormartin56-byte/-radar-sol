@@ -104,9 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/judge-lets-terraform-use-jump-lawsuit-evidence-while-blocking-four-late-creditor-claims/",
-      "news:https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/",
-      "news:https://cryptoslate.com/sec-could-start-writing-crypto-rules-before-the-senate-votes-on-clarity/",
       "news:https://cryptoslate.com/sec-weighs-more-than-24-etfs-that-would-put-election-bets-in-brokerage-accounts/",
       "news:https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline/",
       "news:https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3103,7 +3100,10 @@
       "news:https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
       "news:https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
-      "news:https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/"
+      "news:https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/",
+      "news:https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/",
+      "news:https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is/"
     ]
   },
   "init": {

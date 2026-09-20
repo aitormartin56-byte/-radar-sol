@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T04:10:12.000Z",
+  "updated_at": "2026-09-20T09:24:04.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 78,
+      "submissions": 81,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
-      "time_left": "cierra en 11 días",
-      "submissions": 41,
+      "time_left": "cierra en 10 días",
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
