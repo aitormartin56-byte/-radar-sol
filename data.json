@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:39:09.000Z",
+  "updated_at": "2026-09-20T17:19:11.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 85,
+      "time_left": "cierra en 23h",
+      "submissions": 86,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },

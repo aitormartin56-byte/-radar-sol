@@ -104,10 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
-      "news:https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million",
-      "news:https://decrypt.co/373277/xbox-ceo-fed-ai-jobs-task-force-days-after-layoffs",
-      "news:https://cryptoslate.com/bitcoins-10-billion-credit-market-keeps-growing-after-its-first-major-selloff/",
       "news:https://cryptoslate.com/ascendex-shuts-down-after-mica-miss-and-warns-some-withdrawals-may-not-be-processed/",
       "news:https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3103,7 +3099,11 @@
       "news:https://cryptoslate.com/bank-of-russia-proposes-1-crypto-capital-cap-while-carving-out-some-client-custody/",
       "news:https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages/",
       "news:https://cryptoslate.com/why-bitcoins-rally-above-80000-isnt-backed-by-institutional-conviction/",
-      "news:https://cryptoslate.com/prediction-markets-are-turning-election-betting-into-a-speed-game/"
+      "news:https://cryptoslate.com/prediction-markets-are-turning-election-betting-into-a-speed-game/",
+      "news:https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+      "news:https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+      "news:https://cryptoslate.com/goodbye-futures-bitcoin-found-better-ways-to-trade/",
+      "news:https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/"
     ]
   },
   "init": {
