@@ -104,7 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/ascendex-shuts-down-after-mica-miss-and-warns-some-withdrawals-may-not-be-processed/",
       "news:https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
@@ -3103,7 +3102,8 @@
       "news:https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
       "news:https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
       "news:https://cryptoslate.com/goodbye-futures-bitcoin-found-better-ways-to-trade/",
-      "news:https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/"
+      "news:https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/",
+      "news:https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test/"
     ]
   },
   "init": {
