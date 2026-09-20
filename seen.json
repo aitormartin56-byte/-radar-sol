@@ -104,12 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/sec-weighs-more-than-24-etfs-that-would-put-election-bets-in-brokerage-accounts/",
-      "news:https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline/",
-      "news:https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
       "news:https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million",
       "news:https://decrypt.co/373277/xbox-ceo-fed-ai-jobs-task-force-days-after-layoffs",
@@ -3103,7 +3097,13 @@
       "news:https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/",
       "news:https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/",
-      "news:https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is/"
+      "news:https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is/",
+      "news:https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bank-of-russia-proposes-1-crypto-capital-cap-while-carving-out-some-client-custody/",
+      "news:https://cryptoslate.com/stablecoin-salaries-can-leave-workers-paying-to-access-their-wages/",
+      "news:https://cryptoslate.com/why-bitcoins-rally-above-80000-isnt-backed-by-institutional-conviction/",
+      "news:https://cryptoslate.com/prediction-markets-are-turning-election-betting-into-a-speed-game/"
     ]
   },
   "init": {
