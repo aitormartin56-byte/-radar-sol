@@ -104,7 +104,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
       "news:https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/bitcoins-64k-rebound-has-three-days-before-its-next-big-challenge-threatens-to-derail-momentum/",
       "news:https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3103,7 +3102,8 @@
       "news:https://cryptoslate.com/staking-is-becoming-too-large-for-europe-to-leave-alone/",
       "news:https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test/",
       "news:https://cryptoslate.com/charles-hoskinson-says-cardano-no-longer-comes-first-its-treasury-vote-explains-why/",
-      "news:https://cryptoslate.com/who-pays-when-bitcoin-disappears-without-anyone-stealing-the-keys/"
+      "news:https://cryptoslate.com/who-pays-when-bitcoin-disappears-without-anyone-stealing-the-keys/",
+      "news:https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     ]
   },
   "init": {
