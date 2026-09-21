@@ -105,11 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks",
-      "news:https://decrypt.co/373395/how-much-your-boyfriend-spending-ai-girlfriends",
-      "news:https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
-      "news:https://decrypt.co/373381/strategy-pads-cash-reserves-3-billion-skipping-bitcoin-buy-third-week",
-      "news:https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown",
       "news:https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
       "news:https://decrypt.co/373374/chinese-prosecutors-float-treating-crypto-mixer-privacy-coin-use-as-sign-of-money-laundering",
       "news:https://cryptoslate.com/robinhood-chain-tokens-reportedly-vanishing-from-wallets-causing-buyers-to-lose-funds/",
@@ -3104,7 +3099,12 @@
       "news:https://decrypt.co/378824/xai-launches-grok-4-7",
       "news:https://cryptoslate.com/why-cutting-power-to-bitcoin-miners-can-actually-burn-more-energy/",
       "news:https://cryptoslate.com/one-wallet-links-1-55-million-fetchai-theft-to-massive-408-5-million-ntx-mint/",
-      "news:https://cryptoslate.com/bitcoin-hits-86000-putting-etf-investors-back-in-profit-after-86-billion-wipeout/"
+      "news:https://cryptoslate.com/bitcoin-hits-86000-putting-etf-investors-back-in-profit-after-86-billion-wipeout/",
+      "news:https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+      "news:https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+      "news:https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+      "news:https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
+      "news:https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/"
     ]
   },
   "init": {
