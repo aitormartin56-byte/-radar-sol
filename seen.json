@@ -56,7 +56,8 @@
       "st:1f63114b-1bf0-4fbe-8db6-282f2bec10c5",
       "st:feaa1ed4-3c86-4f9c-b205-faadebc335c6",
       "st:e2d649f6-10cc-41e8-9c30-7d1a650f4cc6",
-      "st:4c3b4256-ea0c-4b52-8433-12618e4f66c9"
+      "st:4c3b4256-ea0c-4b52-8433-12618e4f66c9",
+      "st:919bf401-8c2e-4f46-9e31-6cf1eb3d964b"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -104,15 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
-      "news:https://cryptoslate.com/coreweaves-20-billion-funding-haul-shows-why-bitcoin-is-losing-the-competition-for-liquidity/",
-      "news:https://cryptoslate.com/circle-can-open-a-us-trust-bank-that-cannot-take-ordinary-deposits-or-make-loans/",
-      "news:https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-      "news:https://cryptoslate.com/trumps-crypto-disclosure-exposes-an-institutional-problem-that-markets-price-in-real-time/",
-      "news:https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins/",
       "news:https://cryptoslate.com/crypto-won-the-etf-fight-but-now-the-sec-is-questioning-if-things-have-gone-too-far/",
       "news:https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3103,7 +3095,16 @@
       "news:https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
+      "news:https://cryptoslate.com/a-bitcoin-lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners/",
+      "news:https://cryptoslate.com/bitcoin-shattered-80000-after-a-148-billion-us-liquidity-shock-failed-to-break-markets/",
+      "news:https://cryptoslate.com/bitcoins-80000-rebound-faces-an-inflation-expectations-test-this-week/"
     ]
   },
   "init": {

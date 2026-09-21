@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:17:31.000Z",
+  "updated_at": "2026-09-21T10:59:11.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Solara Lotto",
       "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en 11h",
-      "submissions": 91,
+      "time_left": "cierra en 6h",
+      "submissions": 94,
       "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 67,
+      "submissions": 68,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
-      "time_left": "cierra en 10 días",
-      "submissions": 46,
+      "time_left": "cierra en 9 días",
+      "submissions": 50,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
