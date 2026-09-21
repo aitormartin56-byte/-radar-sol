@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-21T16:57:57.000Z",
+  "updated_at": "2026-09-21T20:56:50.000Z",
   "counts": {
-    "bounties": 4,
+    "bounties": 3,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Show the world SOLARA — Content + Seeker dApp reviews",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Solara Lotto",
-      "deadline": "2026-09-21T16:59:59.000Z",
-      "time_left": "cierra en <1h",
-      "submissions": 105,
-      "url": "https://superteam.fun/earn/listing/show-the-world-solara-content-seeker-dapp-reviews-1",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "NectarFi x Dominion Market",
@@ -38,7 +26,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 68,
+      "submissions": 69,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
@@ -50,7 +38,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 52,
+      "submissions": 56,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }

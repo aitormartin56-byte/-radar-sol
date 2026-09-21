@@ -105,19 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/binance-says-70-of-eu-withdrawals-went-to-self-custody-wallets-not-mica-compliant-exchanges-after-cutoff/",
-      "news:https://cryptoslate.com/bitcoins-60k-price-floor-is-back-in-play-as-hormuz-oil-shock-returns/",
-      "news:https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
       "news:https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks",
       "news:https://decrypt.co/373395/how-much-your-boyfriend-spending-ai-girlfriends",
       "news:https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
@@ -3104,7 +3091,20 @@
       "news:https://cryptoslate.com/why-truly-decentralized-defi-needs-no-legal-exemption-according-to-sec-commissioner-hester-peirce/",
       "news:https://cryptoslate.com/why-bitcoins-84k-rally-isnt-saving-miners-as-this-difficulty-signal-is-already-flashing-caution/",
       "news:https://cryptoslate.com/this-blockchain-just-voted-to-shut-itself-down-for-a-solana-powered-ai-pivot/",
-      "news:https://cryptoslate.com/bitcoin-just-broke-85000-but-the-rally-is-being-powered-by-traders-forced-to-buy/"
+      "news:https://cryptoslate.com/bitcoin-just-broke-85000-but-the-rally-is-being-powered-by-traders-forced-to-buy/",
+      "news:https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
+      "news:https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+      "news:https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+      "news:https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
+      "news:https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
+      "news:https://decrypt.co/378824/xai-launches-grok-4-7",
+      "news:https://cryptoslate.com/why-cutting-power-to-bitcoin-miners-can-actually-burn-more-energy/",
+      "news:https://cryptoslate.com/one-wallet-links-1-55-million-fetchai-theft-to-massive-408-5-million-ntx-mint/",
+      "news:https://cryptoslate.com/bitcoin-hits-86000-putting-etf-investors-back-in-profit-after-86-billion-wipeout/"
     ]
   },
   "init": {
