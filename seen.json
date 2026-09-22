@@ -105,11 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
-      "news:https://decrypt.co/373374/chinese-prosecutors-float-treating-crypto-mixer-privacy-coin-use-as-sign-of-money-laundering",
-      "news:https://cryptoslate.com/robinhood-chain-tokens-reportedly-vanishing-from-wallets-causing-buyers-to-lose-funds/",
-      "news:https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/",
-      "news:https://cryptoslate.com/doj-moves-to-drop-722m-bitclub-case-before-trial-as-victims-wait-to-learn-what-they-will-recover/",
       "news:https://cryptoslate.com/stablecoins-are-moving-more-money-while-cryptos-cash-pile-gets-smaller/",
       "news:https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
       "news:https://cryptoslate.com/ripple-ceo-says-sec-suit-nearly-pushed-company-to-shut-down/",
@@ -3104,7 +3099,12 @@
       "news:https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
       "news:https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
       "news:https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
-      "news:https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/"
+      "news:https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/",
+      "news:https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/",
+      "news:https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit/"
     ]
   },
   "init": {
