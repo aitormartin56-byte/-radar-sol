@@ -105,15 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/stablecoins-are-moving-more-money-while-cryptos-cash-pile-gets-smaller/",
-      "news:https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
-      "news:https://cryptoslate.com/ripple-ceo-says-sec-suit-nearly-pushed-company-to-shut-down/",
-      "news:https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
-      "news:https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
-      "news:https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks",
-      "news:https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
-      "news:https://cryptoslate.com/crypto-exchanges-are-becoming-the-new-distribution-channel-for-wall-street-assets/",
-      "news:https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3104,7 +3095,16 @@
       "news:https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/",
-      "news:https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit/"
+      "news:https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit/",
+      "news:https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/crypto-firms-put-206-million-behind-the-midterms-heres-who-their-political-machine-is-backing/",
+      "news:https://cryptoslate.com/bitcoins-87000-breakout-puts-90000-in-sight-but-history-comes-with-a-catch/",
+      "news:https://cryptoslate.com/stand-with-cryptos-4-million-registered-advocates-couldnt-get-the-clarity-act-through-the-senate/"
     ]
   },
   "init": {
