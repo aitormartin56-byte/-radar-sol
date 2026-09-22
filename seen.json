@@ -105,19 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373488/bitcoin-ticks-up-to-64k-following-largest-inflation-slowdown-in-six-years",
-      "news:https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
-      "news:https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
-      "news:https://cryptoslate.com/xrps-1-rebound-faces-holders-trapped-above-2/",
-      "news:https://cryptoslate.com/the-next-currency-crisis-could-turn-300-billion-in-stablecoins-into-national-currency/",
-      "news:https://cryptoslate.com/is-a-bitcoin-whale-from-2018-about-to-cash-in-after-awakening-to-transfer-188-million/",
-      "news:https://cryptoslate.com/bitcoin-etfs-lose-over-424m-wiping-out-last-weeks-gains-as-recovery-fails-first-test/",
-      "news:https://cryptoslate.com/bitcoin-faces-a-90-minute-fed-shock-as-cpi-and-warsh-testimony-collide/",
-      "news:https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
       "news:https://cryptoslate.com/bitcoin-pushes-toward-65000-on-us-inflation-relief-that-may-already-be-fading/",
       "news:https://cryptoslate.com/bitcoin-treasury-already-faced-two-collateral-calls-in-2026-and-some-loans-leave-just-12-hours-to-the-liquidation-line/",
       "news:https://cryptoslate.com/airbnbs-9-million-listings-could-unlock-crypto-host-financing-while-the-homes-stay-off-its-balance-sheet/",
@@ -3104,7 +3091,20 @@
       "news:https://cryptoslate.com/why-bitcoins-rally-is-dangerous-according-to-new-fed-data/",
       "news:https://cryptoslate.com/narrowing-price-cushions-leave-bitcoin-loans-vulnerable-to-4-7-price-dips-as-aave-weighs-higher-leverage/",
       "news:https://cryptoslate.com/bitcoin-etfs-just-absorbed-11500-btc-in-their-biggest-buying-day-in-nearly-two-years/",
-      "news:https://cryptoslate.com/coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch/"
+      "news:https://cryptoslate.com/coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch/",
+      "news:https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
+      "news:https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+      "news:https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
+      "news:https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+      "news:https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+      "news:https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
+      "news:https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
+      "news:https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks/",
+      "news:https://cryptoslate.com/bitcoin-may-go-quantum-safe-while-lightning-privacy-stays-exposed/",
+      "news:https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public/"
     ]
   },
   "init": {
