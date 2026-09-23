@@ -105,8 +105,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/bitcoin-pushes-toward-65000-on-us-inflation-relief-that-may-already-be-fading/",
-      "news:https://cryptoslate.com/bitcoin-treasury-already-faced-two-collateral-calls-in-2026-and-some-loans-leave-just-12-hours-to-the-liquidation-line/",
       "news:https://cryptoslate.com/airbnbs-9-million-listings-could-unlock-crypto-host-financing-while-the-homes-stay-off-its-balance-sheet/",
       "news:https://cryptoslate.com/upbit-volume-rose-after-south-koreas-8-stock-crash-but-recent-benchmarks-undercut-the-rotation-case/",
       "news:https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3104,7 +3102,9 @@
       "news:https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
       "news:https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks/",
       "news:https://cryptoslate.com/bitcoin-may-go-quantum-safe-while-lightning-privacy-stays-exposed/",
-      "news:https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public/"
+      "news:https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public/",
+      "news:https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "news:https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt/"
     ]
   },
   "init": {
