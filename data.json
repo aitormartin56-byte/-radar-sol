@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:04:16.000Z",
+  "updated_at": "2026-09-23T05:00:24.000Z",
   "counts": {
     "bounties": 3,
     "grants": 47,
@@ -38,7 +38,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 73,
+      "submissions": 76,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     }
