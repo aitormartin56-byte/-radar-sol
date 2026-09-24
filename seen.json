@@ -58,7 +58,8 @@
       "st:e2d649f6-10cc-41e8-9c30-7d1a650f4cc6",
       "st:4c3b4256-ea0c-4b52-8433-12618e4f66c9",
       "st:919bf401-8c2e-4f46-9e31-6cf1eb3d964b",
-      "st:8e44e067-7d49-4eaa-9d4e-a0b12be1b433"
+      "st:8e44e067-7d49-4eaa-9d4e-a0b12be1b433",
+      "st:a964deec-c1d9-40ff-bc4f-e62c002f2658"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -106,18 +107,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/moonpay-acquires-glide-strengthen-crypto-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
-      "news:https://cryptoslate.com/bitcoin-must-climb-92-to-rescue-last-years-120k-buyers-and-the-first-escape-routes-begin-at-72k/",
-      "news:https://cryptoslate.com/sec-filing-shows-viral-71-million-xrp-etf-claims-are-out-by-1000x/",
-      "news:https://cryptoslate.com/you-may-hate-mica-but-the-truth-is-more-complicated-than-both-sides-admit/",
-      "news:https://cryptoslate.com/robinhood-took-on-coinbase-and-immediately-inherited-bases-biggest-problem/",
-      "news:https://cryptoslate.com/what-happens-if-crypto-companies-keep-winning-while-crypto-assets-keep-losing/",
-      "news:https://cryptoslate.com/a-bitcoin-backed-buyer-wants-a-piece-of-americas-2-9-million-business-succession-wave/",
-      "news:https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
@@ -3105,7 +3094,19 @@
       "news:https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/galaxy-adds-100m-sky-token-and-institutional-adoption-is-tested/",
       "news:https://cryptoslate.com/cardano-proposal-slashes-fees-by-55-but-it-comes-with-a-cost-for-small-pools/",
-      "news:https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/"
+      "news:https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/",
+      "news:https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
+      "news:https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
+      "news:https://cryptoslate.com/zcash-gains-european-etp-access-as-shielded-activity-reaches-a-four-year-high/",
+      "news:https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000/",
+      "news:https://cryptoslate.com/neutron-dao-passes-a-new-proposal-and-9-3m-in-crypto-disappears/",
+      "news:https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/"
     ]
   },
   "init": {
