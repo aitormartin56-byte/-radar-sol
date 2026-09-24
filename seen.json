@@ -59,7 +59,12 @@
       "st:4c3b4256-ea0c-4b52-8433-12618e4f66c9",
       "st:919bf401-8c2e-4f46-9e31-6cf1eb3d964b",
       "st:8e44e067-7d49-4eaa-9d4e-a0b12be1b433",
-      "st:a964deec-c1d9-40ff-bc4f-e62c002f2658"
+      "st:a964deec-c1d9-40ff-bc4f-e62c002f2658",
+      "st:ceb86108-8a66-49ac-9990-76bbbf444bb3",
+      "st:12c00f42-80aa-4ea6-af5c-757826467f38",
+      "st:06c35dc5-10c3-47ca-8d5a-bedfc9053d98",
+      "st:51fa9f5a-57ec-4118-966f-beb247923e25",
+      "st:fca6d203-8df0-4a19-88dd-02171ec12e3d"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -107,22 +112,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-      "news:https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack",
-      "news:https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source",
-      "news:https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd",
-      "news:https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
-      "news:https://cryptoslate.com/japan-passes-the-crypto-law-traders-wanted-but-its-20-tax-could-still-wait-until-2028/",
-      "news:https://cryptoslate.com/how-prices-from-the-future-fooled-a-crypto-oracle-into-paying-out-up-to-24-million/",
-      "news:https://cryptoslate.com/bitcoin-treasury-troubles-reach-london-as-company-weighs-selling-its-entire-btc-stack-and-delisting/",
-      "news:https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
-      "news:https://cryptoslate.com/steak-n-shake-credits-bitcoin-for-company-growth-but-is-the-pr-value-worth-more-than-people-actually-using-btc/",
-      "news:https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3106,7 +3095,23 @@
       "news:https://cryptoslate.com/zcash-gains-european-etp-access-as-shielded-activity-reaches-a-four-year-high/",
       "news:https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000/",
       "news:https://cryptoslate.com/neutron-dao-passes-a-new-proposal-and-9-3m-in-crypto-disappears/",
-      "news:https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/"
+      "news:https://cryptoslate.com/moonpay-targets-8-7b-trading-venue-but-the-features-remain-unrevealed/",
+      "news:https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
+      "news:https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
+      "news:https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
+      "news:https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
+      "news:https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
+      "news:https://cryptoslate.com/coinbases-fixed-rate-bitcoin-loans-can-put-healthy-collateral-at-risk-after-maturity/",
+      "news:https://cryptoslate.com/cftc-staff-presses-exchanges-on-political-speech-prediction-market-bets-asks-how-to-prevent-manipulation/",
+      "news:https://cryptoslate.com/bitmex-opens-fund-recovery-to-customers-it-previously-barred-from-the-platform/",
+      "news:https://cryptoslate.com/alpen-says-ai-diagnosed-liquids-320-million-exploit-in-an-hour-could-a-payout-limit-have-stopped-it/",
+      "news:https://cryptoslate.com/cosmos-restarted-to-seize-2-2-million-in-stolen-atom-but-169000-tokens-still-escaped/"
     ]
   },
   "init": {
