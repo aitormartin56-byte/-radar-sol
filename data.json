@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:05:58.000Z",
+  "updated_at": "2026-09-24T00:44:14.000Z",
   "counts": {
     "bounties": 3,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 5 días",
+      "time_left": "cierra en 4 días",
       "submissions": 39,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false

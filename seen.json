@@ -106,10 +106,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
-      "news:https://cryptoslate.com/bitcoins-old-coins-have-gone-quiet-and-69000-could-reveal-whether-the-new-holders-crack/",
-      "news:https://cryptoslate.com/is-using-an-old-iphone-is-safer-than-a-crypto-hardware-wallet-zachxbt-thinks-so/",
-      "news:https://cryptoslate.com/blackrock-made-82-million-as-crypto-erased-30-billion-from-its-funds-now-it-wants-inside-your-wallet/",
       "news:https://cryptoslate.com/ethereum-is-gaining-on-bitcoin-as-traders-see-a-bigger-breakout-taking-shape/",
       "news:https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3105,7 +3101,11 @@
       "news:https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
       "news:https://cryptoslate.com/circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market/",
       "news:https://cryptoslate.com/blackrock-sees-a-new-5-trillion-ai-trade-emerging-for-stablecoins/",
-      "news:https://cryptoslate.com/treasurys-cash-balance-nears-1-trillion-while-bitcoin-awaits-a-crucial-market-signal/"
+      "news:https://cryptoslate.com/treasurys-cash-balance-nears-1-trillion-while-bitcoin-awaits-a-crucial-market-signal/",
+      "news:https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+      "news:https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+      "news:https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+      "news:https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/"
     ]
   },
   "init": {
