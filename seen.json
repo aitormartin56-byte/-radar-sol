@@ -112,15 +112,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking/",
-      "news:https://cryptoslate.com/metamask-code-was-open-to-a-north-korea-linked-contractor-for-a-month-before-consensys-halted-releases/",
-      "news:https://cryptoslate.com/uk-turns-delayed-wallet-identification-into-a-14-year-criminal-risk-for-crypto-firms/",
-      "news:https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3111,7 +3102,16 @@
       "news:https://cryptoslate.com/xrps-rebound-nears-its-december-median-but-the-forecast-leaves-plenty-of-downside/",
       "news:https://cryptoslate.com/us-crypto-etfs-draw-over-3-billion-this-week-with-nearly-800-million-flowing-beyond-bitcoin/",
       "news:https://cryptoslate.com/bitcoin-faces-a-new-inflation-test-after-diesel-hits-a-nominal-6-53-record/",
-      "news:https://cryptoslate.com/secs-hester-peirce-wants-to-end-cryptos-kyc-honeypots-before-stablecoin-rules-create-more-of-them/"
+      "news:https://cryptoslate.com/secs-hester-peirce-wants-to-end-cryptos-kyc-honeypots-before-stablecoin-rules-create-more-of-them/",
+      "news:https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+      "news:https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+      "news:https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+      "news:https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage/",
+      "news:https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
+      "news:https://cryptoslate.com/magic-eden-nft-approvals-risk-3832-whitehat-rescue/"
     ]
   },
   "init": {
