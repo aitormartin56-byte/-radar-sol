@@ -112,9 +112,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373702/three-men-jailed-for-posing-as-police-in-5-3m-uk-crypto-fraud",
-      "news:https://cryptoslate.com/dutch-crypto-exchange-collapses-exposing-customer-balances-true-value-amid-multi-million-euro-hole/",
       "news:https://cryptoslate.com/bitmine-nears-its-ethereum-buying-limit-now-it-needs-demand-to-make-the-bet-pay-off/",
       "news:https://cryptoslate.com/agentic-payments-could-put-a-price-on-every-step-of-ai-reasoning/",
       "news:https://cryptoslate.com/investors-rejected-crypto-basket-etfs-and-a-1-9-trillion-manager-is-putting-the-reason-to-the-test/",
@@ -3111,7 +3108,10 @@
       "news:https://cryptoslate.com/new-york-sues-polymarket-seeks-triple-gains-and-100000-penalties-over-prediction-markets/",
       "news:https://cryptoslate.com/bitgets-351-6-million-hack-pushes-september-crypto-losses-to-2026-high/",
       "news:https://cryptoslate.com/why-trons-30-trillion-lifetime-volume-could-become-a-trap/",
-      "news:https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/"
+      "news:https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/",
+      "news:https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/lightning-labs-discloses-critical-bug-marking-canceled-invoices-paid-risking-free-product-delivery/"
     ]
   },
   "init": {
