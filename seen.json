@@ -112,13 +112,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-      "news:https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
-      "news:https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
-      "news:https://cryptoslate.com/bitcoin-gets-2-5b-target-for-72000-before-august-as-unknown-trader-bets-big-on-fed-rally/",
-      "news:https://cryptoslate.com/polymarket-blocked-french-transactions-but-578751-users-later-france-blocked-the-entire-site/",
-      "news:https://cryptoslate.com/hyperliquid-challenges-polymarket-with-32-million-gate-for-prediction-market-builders/",
-      "news:https://cryptoslate.com/bitcoin-whale-dumps-122-million-40x-long-before-liquidation-can-strike/",
       "news:https://cryptoslate.com/saylor-joins-bitcoins-bip-110-fight-as-miners-get-one-last-chance-to-avoid-forced-signaling/",
       "news:https://cryptoslate.com/bitcoin-etf-inflows-return-but-2-3-billion-stablecoin-liquidity-drain-leaves-57000-exposed/",
       "news:https://cryptoslate.com/ethereum-bridge-users-have-24-hours-to-exit-before-chain-shutdown-announced-just-five-weeks-ago/",
@@ -3111,7 +3104,14 @@
       "news:https://decrypt.co/379353/google-free-1080p-ai-video-generation",
       "news:https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/",
       "news:https://cryptoslate.com/kalshi-must-lock-out-state-users-after-major-court-loss/",
-      "news:https://cryptoslate.com/why-cash-hoarding-in-the-uk-proves-the-world-still-craves-permissionless-money/"
+      "news:https://cryptoslate.com/why-cash-hoarding-in-the-uk-proves-the-world-still-craves-permissionless-money/",
+      "news:https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+      "news:https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+      "news:https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+      "news:https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/",
+      "news:https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/",
+      "news:https://cryptoslate.com/balancer-forks-6-million-bal-ask-could-cut-holders-redemption-value/",
+      "news:https://cryptoslate.com/fed-stablecoin-proposal-would-make-circulation-a-capital-cost-for-supervised-issuers/"
     ]
   },
   "init": {
