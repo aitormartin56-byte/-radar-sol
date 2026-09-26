@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T18:24:04.000Z",
+  "updated_at": "2026-09-26T21:23:41.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -25,7 +25,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 4 días",
+      "time_left": "cierra en 3 días",
       "submissions": 83,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 126,
+      "submissions": 127,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 5,
+      "time_left": "cierra en 4 días",
+      "submissions": 6,
       "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 17,
+      "time_left": "cierra en 4 días",
+      "submissions": 20,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 13 días",
-      "submissions": 71,
+      "submissions": 81,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
