@@ -112,8 +112,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3111,7 +3109,9 @@
       "news:https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
       "news:https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage/",
       "news:https://cryptoslate.com/bitgets-hack-just-got-36-million-bigger-and-now-theres-a-bounty-on-the-stolen-crypto/",
-      "news:https://cryptoslate.com/magic-eden-nft-approvals-risk-3832-whitehat-rescue/"
+      "news:https://cryptoslate.com/magic-eden-nft-approvals-risk-3832-whitehat-rescue/",
+      "news:https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+      "news:https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered/"
     ]
   },
   "init": {
