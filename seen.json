@@ -113,11 +113,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
-      "news:https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin",
-      "news:https://cryptoslate.com/bitcoin-treasury-discovers-buying-own-stock-adds-24-more-btc-per-share-than-buying-bitcoin/",
-      "news:https://cryptoslate.com/crypto-investor-charged-with-using-8-companies-and-new-investor-cash-to-keep-an-alleged-20m-fraud-alive/",
-      "news:https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3112,7 +3107,12 @@
       "news:https://cryptoslate.com/bitcoins-bip138-draft-shows-why-a-seed-may-not-rescue-a-multisig-wallet/",
       "news:https://cryptoslate.com/visas-stablecoin-reset-cuts-measured-value-while-transfer-counts-barely-move/",
       "news:https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
-      "news:https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/"
+      "news:https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/",
+      "news:https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+      "news:https://cryptoslate.com/pump-fun-is-not-authorized-to-solicit-some-canadian-investors-amf-warns/",
+      "news:https://cryptoslate.com/cosmos-intercepts-1-23-million-stolen-atom-but-refunds-now-wait-on-governance-vote/",
+      "news:https://cryptoslate.com/bitget-freezes-xrp-withdrawals-as-27m-stolen-tokens-move/",
+      "news:https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/"
     ]
   },
   "init": {

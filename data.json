@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:13:57.000Z",
+  "updated_at": "2026-09-27T19:10:10.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 46,
+      "submissions": 47,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 140,
+      "submissions": 141,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 29,
+      "time_left": "cierra en 3 días",
+      "submissions": 31,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
@@ -61,7 +61,7 @@
       "type": "bounty",
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 4 días",
+      "time_left": "cierra en 3 días",
       "submissions": 7,
       "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
       "featured": false
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 98,
+      "submissions": 104,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 3,
+      "submissions": 4,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     }
