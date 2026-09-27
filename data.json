@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:08:15.000Z",
+  "updated_at": "2026-09-27T15:13:57.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 45,
+      "submissions": 46,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -38,20 +38,8 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 132,
+      "submissions": 140,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Hype Video for Breakpoint London",
-      "reward": "5500 USDC",
-      "type": "bounty",
-      "sponsor": "Superteam",
-      "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 6,
-      "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
       "featured": false
     },
     {
@@ -62,8 +50,20 @@
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 26,
+      "submissions": 29,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Hype Video for Breakpoint London",
+      "reward": "5500 USDC",
+      "type": "bounty",
+      "sponsor": "Superteam",
+      "deadline": "2026-10-01T18:29:59.999Z",
+      "time_left": "cierra en 4 días",
+      "submissions": 7,
+      "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
       "featured": false
     },
     {
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 12 días",
-      "submissions": 94,
+      "submissions": 98,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },

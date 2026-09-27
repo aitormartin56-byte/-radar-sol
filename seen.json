@@ -64,7 +64,8 @@
       "st:12c00f42-80aa-4ea6-af5c-757826467f38",
       "st:06c35dc5-10c3-47ca-8d5a-bedfc9053d98",
       "st:51fa9f5a-57ec-4118-966f-beb247923e25",
-      "st:fca6d203-8df0-4a19-88dd-02171ec12e3d"
+      "st:fca6d203-8df0-4a19-88dd-02171ec12e3d",
+      "st:f97f2d43-4f0c-49cc-9d81-9efeace44d87"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -112,13 +113,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
-      "news:https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
-      "news:https://decrypt.co/373850/bitcoin-etfs-green-inflows-why-investors-should-zoom-out",
       "news:https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
       "news:https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin",
       "news:https://cryptoslate.com/bitcoin-treasury-discovers-buying-own-stock-adds-24-more-btc-per-share-than-buying-bitcoin/",
@@ -3111,7 +3105,14 @@
       "news:https://cryptoslate.com/the-nft-party-is-over-and-everybody-now-owes-storage-rent/",
       "news:https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months/"
+      "news:https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months/",
+      "news:https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+      "news:https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+      "news:https://cryptoslate.com/bitcoins-bip138-draft-shows-why-a-seed-may-not-rescue-a-multisig-wallet/",
+      "news:https://cryptoslate.com/visas-stablecoin-reset-cuts-measured-value-while-transfer-counts-barely-move/",
+      "news:https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
+      "news:https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/"
     ]
   },
   "init": {
