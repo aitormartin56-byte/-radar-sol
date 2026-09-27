@@ -112,9 +112,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/ethereum-bridge-users-have-24-hours-to-exit-before-chain-shutdown-announced-just-five-weeks-ago/",
-      "news:https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3111,7 +3108,10 @@
       "news:https://cryptoslate.com/balancer-forks-6-million-bal-ask-could-cut-holders-redemption-value/",
       "news:https://cryptoslate.com/fed-stablecoin-proposal-would-make-circulation-a-capital-cost-for-supervised-issuers/",
       "news:https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million/",
-      "news:https://cryptoslate.com/the-nft-party-is-over-and-everybody-now-owes-storage-rent/"
+      "news:https://cryptoslate.com/the-nft-party-is-over-and-everybody-now-owes-storage-rent/",
+      "news:https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months/"
     ]
   },
   "init": {
