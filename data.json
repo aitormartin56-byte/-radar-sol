@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T07:22:26.000Z",
+  "updated_at": "2026-09-28T15:46:37.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 8,
     "grants": 47,
     "news": 0
   },
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 15h",
-      "submissions": 47,
+      "time_left": "cierra en 7h",
+      "submissions": 52,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 87,
+      "submissions": 88,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
@@ -38,20 +38,8 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 143,
+      "submissions": 157,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Show Tokenization in 2050 via X Post, Thread, or Short Video",
-      "reward": "5500 USDC",
-      "type": "bounty",
-      "sponsor": "Superteam",
-      "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 34,
-      "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
     {
@@ -62,8 +50,32 @@
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 7,
+      "submissions": 9,
       "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Show Tokenization in 2050 via X Post, Thread, or Short Video",
+      "reward": "5500 USDC",
+      "type": "bounty",
+      "sponsor": "Superteam",
+      "deadline": "2026-10-01T18:29:59.999Z",
+      "time_left": "cierra en 3 días",
+      "submissions": 38,
+      "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Video Editing Challenge",
+      "reward": "150 USDC",
+      "type": "bounty",
+      "sponsor": "Era Wallet",
+      "deadline": "2026-10-06T20:59:59.000Z",
+      "time_left": "cierra en 8 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
     },
     {
@@ -74,7 +86,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 11 días",
-      "submissions": 118,
+      "submissions": 126,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
