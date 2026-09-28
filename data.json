@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:05:20.000Z",
+  "updated_at": "2026-09-28T07:22:26.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "NectarFi",
       "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 21h",
+      "time_left": "cierra en 15h",
       "submissions": 47,
       "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
       "featured": false
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 142,
+      "time_left": "cierra en 2 días",
+      "submissions": 143,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 32,
+      "submissions": 34,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 11 días",
-      "submissions": 110,
+      "submissions": 118,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 4,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     }
