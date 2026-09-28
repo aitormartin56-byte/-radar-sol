@@ -113,8 +113,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
-      "news:https://cryptoslate.com/ftx-begins-900m-payout-as-creditors-in-45-jurisdictions-could-lose-their-claims-within-6-months/",
       "news:https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3112,7 +3110,9 @@
       "news:https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/",
       "news:https://cryptoslate.com/aave-stock-token-loans-expose-usdc-lenders-to-weekend-price-gap/",
       "news:https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether/",
-      "news:https://cryptoslate.com/solanas-plan-for-fairer-trades-stalls-as-block-producers-still-choose-which-orders-get-in/"
+      "news:https://cryptoslate.com/solanas-plan-for-fairer-trades-stalls-as-block-producers-still-choose-which-orders-get-in/",
+      "news:https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/core-lightning-revoked-channel-penalty-flaw/"
     ]
   },
   "init": {
