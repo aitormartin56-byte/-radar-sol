@@ -115,16 +115,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case",
-      "news:https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures",
-      "news:https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
-      "news:https://cryptoslate.com/galaxy-puts-5-million-behind-bitcoins-race-to-migrate-before-quantum-risk-arrives/",
-      "news:https://cryptoslate.com/new-clarity-act-update-bans-officials-including-presidents-from-issuing-crypto/",
-      "news:https://cryptoslate.com/mvmt-labs-bankruptcy-lists-only-1-million-in-assets-after-movement-labs-announced-a-38m-raise/",
-      "news:https://cryptoslate.com/us-targets-26-4-million-in-five-crypto-scam-cases-as-doj-says-800-million-recovered/",
-      "news:https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
       "news:https://cointelegraph.com/markets/grayscale-bitcoins-price-bottomed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitmex-crypto-derivatives-exchange-shut-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3114,7 +3104,17 @@
       "news:https://cryptoslate.com/el-salvador-targets-9-billion-in-transfers-but-chooses-stablecoins/",
       "news:https://cryptoslate.com/tether-claims-550-million-in-iran-freezes-but-35-million-slipped-past-senate/",
       "news:https://cryptoslate.com/anthropic-lost-42-billion-warned-ai-could-resist-shutdowns-but-traders-still-price-it-at-2-trillion/",
-      "news:https://cryptoslate.com/a-7-billion-crypto-etf-plumbing-boom-just-ran-into-the-irs/"
+      "news:https://cryptoslate.com/a-7-billion-crypto-etf-plumbing-boom-just-ran-into-the-irs/",
+      "news:https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+      "news:https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+      "news:https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+      "news:https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
+      "news:https://cryptoslate.com/hut-8-locks-in-1b-credit-line-but-faces-40-liquidity-rules/",
+      "news:https://cryptoslate.com/bitcoin-drops-to-82000-on-us-data-and-inflation-fear-is-blamed/",
+      "news:https://cryptoslate.com/fed-guarantees-2-day-stablecoin-payouts-but-76b-remains-blocked/"
     ]
   },
   "init": {
