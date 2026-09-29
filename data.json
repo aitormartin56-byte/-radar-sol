@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-09-28T21:37:04.000Z",
+  "updated_at": "2026-09-29T01:31:28.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 7,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "NectarFi x Dominion Market",
-      "reward": "1000 USDG",
-      "type": "bounty",
-      "sponsor": "NectarFi",
-      "deadline": "2026-09-28T22:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 57,
-      "url": "https://superteam.fun/earn/listing/nectarfi-x-dominion-market",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Trading Content Partner for KriptoK League | 2-Month Project",
@@ -38,7 +26,7 @@
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 164,
+      "submissions": 167,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     },
@@ -50,7 +38,7 @@
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
       "time_left": "cierra en 2 días",
-      "submissions": 41,
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
@@ -85,8 +73,8 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
-      "time_left": "cierra en 11 días",
-      "submissions": 131,
+      "time_left": "cierra en 10 días",
+      "submissions": 135,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -97,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
-      "time_left": "cierra en 13 días",
+      "time_left": "cierra en 12 días",
       "submissions": 6,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false

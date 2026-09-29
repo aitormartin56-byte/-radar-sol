@@ -66,7 +66,8 @@
       "st:51fa9f5a-57ec-4118-966f-beb247923e25",
       "st:fca6d203-8df0-4a19-88dd-02171ec12e3d",
       "st:f97f2d43-4f0c-49cc-9d81-9efeace44d87",
-      "st:f717adef-b408-46bd-a545-89da31f4dd54"
+      "st:f717adef-b408-46bd-a545-89da31f4dd54",
+      "st:a9f07acf-6ea5-4b45-91f4-685fb1cc864a"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -114,11 +115,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/the-1-2-billion-options-wall-came-down-and-this-time-bitcoin-actually-moved/",
-      "news:https://cryptoslate.com/jack-mallers-leaves-twenty-one-as-strike-tie-up-ends-and-bitcoin-treasury-pressure-builds/",
-      "news:https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
       "news:https://cryptoslate.com/senator-lummis-says-with-clarity-your-crypto-stays-yours-but-bankruptcy-shields-have-limits/",
       "news:https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3113,7 +3109,12 @@
       "news:https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
       "news:https://cryptoslate.com/brazils-252-billion-crypto-market-gets-10000-self-custody-reporting-rule/",
       "news:https://cryptoslate.com/usdt-growth-does-not-prove-more-defi-demand-on-ethereum-or-tron-bis-data-show/",
-      "news:https://cryptoslate.com/russia-sets-october-5-crypto-exchange-entry-rules-but-investor-access-still-waits/"
+      "news:https://cryptoslate.com/russia-sets-october-5-crypto-exchange-entry-rules-but-investor-access-still-waits/",
+      "news:https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+      "news:https://cryptoslate.com/robinhood-chains-1-5-billion-boom-is-attracting-memecoin-rug-factories/",
+      "news:https://cryptoslate.com/nearly-5000-btc-leaves-bitget-as-hackers-begin-laundering-387-million-haul/",
+      "news:https://cryptoslate.com/strategy-makes-first-back-to-back-bitcoin-buys-since-june-as-accumulation-picks-up/"
     ]
   },
   "init": {
