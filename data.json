@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-30T08:53:13.000Z",
+  "updated_at": "2026-09-30T15:42:10.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 9,
     "grants": 47,
     "news": 0
   },
@@ -13,8 +13,8 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 12h",
-      "submissions": 97,
+      "time_left": "cierra en 5h",
+      "submissions": 99,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Moony Foundation Inc.",
       "deadline": "2026-10-01T06:59:59.000Z",
-      "time_left": "cierra en 22h",
-      "submissions": 193,
+      "time_left": "cierra en 15h",
+      "submissions": 206,
       "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 47,
+      "submissions": 57,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
       "time_left": "cierra en 1 día",
-      "submissions": 15,
+      "submissions": 17,
       "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-10-06T20:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 1,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 9 días",
-      "submissions": 171,
+      "submissions": 184,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -86,8 +86,20 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 6,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Make a Video: Season Zero, Pump the Pool 3 and Social Quests",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "swap.io",
+      "deadline": "2026-10-14T22:59:59.000Z",
+      "time_left": "cierra en 14 días",
+      "submissions": 1,
+      "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
     {
@@ -98,7 +110,7 @@
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
       "time_left": "cierra en 23 días",
-      "submissions": 0,
+      "submissions": 1,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
     }
