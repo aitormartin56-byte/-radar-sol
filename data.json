@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:29:30.000Z",
+  "updated_at": "2026-09-30T02:19:17.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "project",
       "sponsor": "KriptoK",
       "deadline": "2026-09-30T20:59:59.000Z",
-      "time_left": "cierra en 21h",
+      "time_left": "cierra en 18h",
       "submissions": 94,
       "url": "https://superteam.fun/earn/listing/kriptok-league-trading-content-partner",
       "featured": false
@@ -74,7 +74,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 9 días",
-      "submissions": 166,
+      "submissions": 167,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
