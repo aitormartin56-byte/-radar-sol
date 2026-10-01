@@ -1,35 +1,11 @@
 {
-  "updated_at": "2026-10-01T13:45:14.000Z",
+  "updated_at": "2026-10-01T19:18:25.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 5,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Show Tokenization in 2050 via X Post, Thread, or Short Video",
-      "reward": "5500 USDC",
-      "type": "bounty",
-      "sponsor": "Superteam",
-      "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 4h",
-      "submissions": 75,
-      "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Hype Video for Breakpoint London",
-      "reward": "5500 USDC",
-      "type": "bounty",
-      "sponsor": "Superteam",
-      "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 4h",
-      "submissions": 26,
-      "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Video Editing Challenge",
@@ -38,7 +14,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-10-06T20:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 7,
+      "submissions": 9,
       "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
     },
@@ -50,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 8 días",
-      "submissions": 208,
+      "submissions": 221,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -62,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 11,
+      "submissions": 12,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -74,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 5,
+      "submissions": 6,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
@@ -86,7 +62,7 @@
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
       "time_left": "cierra en 22 días",
-      "submissions": 2,
+      "submissions": 3,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
     }
