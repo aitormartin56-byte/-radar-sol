@@ -115,13 +115,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
-      "news:https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands",
-      "news:https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
-      "news:https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3114,7 +3107,14 @@
       "news:https://cryptoslate.com/aaves-50-million-lending-plan-could-lose-money-without-a-single-default/",
       "news:https://cryptoslate.com/bitcoin-fails-to-sustain-85000-breakout-and-bond-yield-spikes-are-blamed/",
       "news:https://cryptoslate.com/uks-2027-crypto-rules-let-firms-remove-trust-protection-from-bitcoin-lent-for-yield/",
-      "news:https://cryptoslate.com/stablecoin-cards-enter-hyper-growth-mode-as-monthly-spending-hits-record-1-17-billion/"
+      "news:https://cryptoslate.com/stablecoin-cards-enter-hyper-growth-mode-as-monthly-spending-hits-record-1-17-billion/",
+      "news:https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "news:https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+      "news:https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+      "news:https://cryptoslate.com/brazils-largest-energy-giant-tests-cardano-to-fix-carbon-double-counting/",
+      "news:https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/"
     ]
   },
   "init": {
