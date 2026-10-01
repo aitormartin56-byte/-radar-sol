@@ -115,12 +115,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3114,7 +3108,13 @@
       "news:https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
       "news:https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
       "news:https://cryptoslate.com/brazils-largest-energy-giant-tests-cardano-to-fix-carbon-double-counting/",
-      "news:https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/"
+      "news:https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/",
+      "news:https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/",
+      "news:https://cryptoslate.com/bitcoin-enters-its-best-season-after-a-43-surge-with-147000-suddenly-on-the-math/",
+      "news:https://cryptoslate.com/new-bitcoin-upgrade-catches-hidden-key-leaks-hiding-the-exact-fix/"
     ]
   },
   "init": {
