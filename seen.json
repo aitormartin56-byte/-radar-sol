@@ -116,15 +116,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/clarity-act-splits-wall-street-and-crypto-as-goldman-sachs-breaks-with-banks-and-charles-hoskinson-backs-warren/",
-      "news:https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-      "news:https://cryptoslate.com/strategy-now-publishes-the-bitcoin-return-threshold-below-which-it-may-have-to-restructure/",
-      "news:https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/these-10-altcoins-are-still-worth-12-billion-after-a-97-collapse-but-do-users-pay-enough-to-them-keep-running/",
       "news:https://cryptoslate.com/bitcoin-broke-away-from-ai-stocks-but-now-96-oil-could-turn-its-escape-into-a-trap/",
       "news:https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
@@ -3115,7 +3106,16 @@
       "news:https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time/",
       "news:https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers/",
       "news:https://cryptoslate.com/open-usd-bets-stripes-1-9-trillion-network-can-break-usdt-and-usdcs-grip/",
-      "news:https://cryptoslate.com/treasury-will-let-states-file-for-stablecoin-approval-before-finishing-their-rules/"
+      "news:https://cryptoslate.com/treasury-will-let-states-file-for-stablecoin-approval-before-finishing-their-rules/",
+      "news:https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+      "news:https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+      "news:https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
+      "news:https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+      "news:https://cryptoslate.com/us-factory-costs-spike-threatening-bitcoins-rally-above-85000/",
+      "news:https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
+      "news:https://cryptoslate.com/xrp-is-becoming-collateral-for-real-loans-and-the-first-market-is-already-dominated-by-whales/"
     ]
   },
   "init": {
