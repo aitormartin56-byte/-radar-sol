@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-01T06:22:48.000Z",
+  "updated_at": "2026-10-01T13:45:14.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 7,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Create X Thread About Moony Tips With Flipcash",
-      "reward": "300 USDC",
-      "type": "bounty",
-      "sponsor": "Moony Foundation Inc.",
-      "deadline": "2026-10-01T06:59:59.000Z",
-      "time_left": "cierra en <1h",
-      "submissions": 224,
-      "url": "https://superteam.fun/earn/listing/moonyfoundationtipcards",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Show Tokenization in 2050 via X Post, Thread, or Short Video",
@@ -25,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 12h",
-      "submissions": 66,
+      "time_left": "cierra en 4h",
+      "submissions": 75,
       "url": "https://superteam.fun/earn/listing/show-tokenization-in-2050-via-x-post-thread-or-short-video",
       "featured": false
     },
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Superteam",
       "deadline": "2026-10-01T18:29:59.999Z",
-      "time_left": "cierra en 12h",
-      "submissions": 23,
+      "time_left": "cierra en 4h",
+      "submissions": 26,
       "url": "https://superteam.fun/earn/listing/hype-video-for-breakpoint-london",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 8 días",
-      "submissions": 203,
+      "submissions": 208,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -86,7 +74,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 4,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },

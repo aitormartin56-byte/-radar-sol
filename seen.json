@@ -67,7 +67,8 @@
       "st:fca6d203-8df0-4a19-88dd-02171ec12e3d",
       "st:f97f2d43-4f0c-49cc-9d81-9efeace44d87",
       "st:f717adef-b408-46bd-a545-89da31f4dd54",
-      "st:a9f07acf-6ea5-4b45-91f4-685fb1cc864a"
+      "st:a9f07acf-6ea5-4b45-91f4-685fb1cc864a",
+      "st:e2f1620d-14d1-4bbc-8bfd-d814cf5218d2"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -115,25 +116,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/btc-supply-profit-analysis-hints-recovery-roll-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
-      "news:https://decrypt.co/374245/eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk",
-      "news:https://decrypt.co/374222/morning-minute-bitcoins-new-15m-quantum-defense-fund",
-      "news:https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
-      "news:https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft",
-      "news:https://cryptoslate.com/bitcoin-declines-below-65000-as-trump-threatens-iran-after-tanker-attacks-send-oil-above-100/",
-      "news:https://cryptoslate.com/crypto-home-invasions-jump-20x-as-wrench-attack-exposure-hits-124-million/",
-      "news:https://cryptoslate.com/bitcoin-mining-giant-poolin-files-for-bankruptcy-owing-11700-users-164-million/",
       "news:https://cryptoslate.com/defis-next-institutional-hurdle-is-deciding-who-can-be-trusted-to-price-the-collateral/",
       "news:https://cryptoslate.com/bitcoin-has-no-maturity-date-but-its-corporate-holders-do/",
       "news:https://cryptoslate.com/bitmex-shuts-down-without-an-ftx-style-crisis-revealing-where-cryptos-real-danger-has-moved/",
@@ -3114,7 +3096,26 @@
       "news:https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/",
       "news:https://cryptoslate.com/bitcoin-enters-its-best-season-after-a-43-surge-with-147000-suddenly-on-the-math/",
-      "news:https://cryptoslate.com/new-bitcoin-upgrade-catches-hidden-key-leaks-hiding-the-exact-fix/"
+      "news:https://cryptoslate.com/new-bitcoin-upgrade-catches-hidden-key-leaks-hiding-the-exact-fix/",
+      "news:https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+      "news:https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "news:https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "news:https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+      "news:https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+      "news:https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
+      "news:https://cryptoslate.com/senate-tax-bill-frees-stablecoin-spending-while-bitcoin-stays-on-irs-forms/",
+      "news:https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
+      "news:https://cryptoslate.com/ripple-quietly-made-brazil-the-center-of-its-xrpl-tokenization-push/",
+      "news:https://cryptoslate.com/japans-biggest-payment-network-opens-its-doors-for-crypto-via-binance-pay/",
+      "news:https://cryptoslate.com/bases-cobalt-upgrade-adds-another-rule-to-affect-token-balances/",
+      "news:https://cryptoslate.com/us-court-blocks-victims-from-127000-seized-bitcoin-and-petition-rules-are-blamed/"
     ]
   },
   "init": {
