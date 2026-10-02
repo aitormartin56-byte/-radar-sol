@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T08:53:37.000Z",
+  "updated_at": "2026-10-02T15:26:56.000Z",
   "counts": {
-    "bounties": 5,
+    "bounties": 6,
     "grants": 47,
     "news": 0
   },
@@ -14,7 +14,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-10-06T20:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 10,
+      "submissions": 11,
       "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 7 días",
-      "submissions": 232,
+      "submissions": 245,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 14,
+      "submissions": 16,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -56,13 +56,25 @@
     },
     {
       "kind": "bounty",
+      "title": "Write a Post: Dust Sweeper + How Social Quests Earn You XP",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "swap.io",
+      "deadline": "2026-10-14T22:59:59.000Z",
+      "time_left": "cierra en 12 días",
+      "submissions": 1,
+      "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
       "title": "Launch & Trade on Daejin: Write a Twitter Thread and Create a Market",
       "reward": "620 USDC",
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
       "time_left": "cierra en 21 días",
-      "submissions": 4,
+      "submissions": 5,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
     }
