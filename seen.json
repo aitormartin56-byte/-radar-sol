@@ -116,11 +116,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/these-10-altcoins-are-still-worth-12-billion-after-a-97-collapse-but-do-users-pay-enough-to-them-keep-running/",
-      "news:https://cryptoslate.com/bitcoin-broke-away-from-ai-stocks-but-now-96-oil-could-turn-its-escape-into-a-trap/",
-      "news:https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
-      "news:https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
       "news:https://cryptoslate.com/us-senate-has-4-days-to-save-clarity-act-as-passage-odds-fall-to-30-galaxy-digital-says/",
       "news:https://cryptoslate.com/bitcoin-is-now-fighting-the-ecbs-e51-8-billion-bond-wall-for-a-shrinking-pool-of-capital/",
       "news:https://cryptoslate.com/the-most-important-stablecoin-metric-isnt-market-cap-anymore/",
@@ -3115,7 +3110,12 @@
       "news:https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
       "news:https://cryptoslate.com/us-factory-costs-spike-threatening-bitcoins-rally-above-85000/",
       "news:https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
-      "news:https://cryptoslate.com/xrp-is-becoming-collateral-for-real-loans-and-the-first-market-is-already-dominated-by-whales/"
+      "news:https://cryptoslate.com/xrp-is-becoming-collateral-for-real-loans-and-the-first-market-is-already-dominated-by-whales/",
+      "news:https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach/",
+      "news:https://cryptoslate.com/crypto-hackers-have-taken-2-7-billion-in-2026-and-the-losses-are-alarmingly-concentrated/"
     ]
   },
   "init": {
