@@ -116,8 +116,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
       "news:https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
       "news:https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
       "news:https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
@@ -3115,7 +3113,9 @@
       "news:https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
       "news:https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline/",
       "news:https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
-      "news:https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/"
+      "news:https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/",
+      "news:https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/",
+      "news:https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win/"
     ]
   },
   "init": {
