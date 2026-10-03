@@ -116,10 +116,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-      "news:https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
-      "news:https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
-      "news:https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
       "news:https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
       "news:https://cryptoslate.com/lawsuit-claims-bitmex-used-server-freezes-and-internal-trading-to-seize-622-bitcoin-ahead-of-its-september-closure/",
       "news:https://cryptoslate.com/onchain-data-shows-5280-eth-draining-into-single-address-following-quiet-triple-a-wallet-breach/",
@@ -3115,7 +3111,11 @@
       "news:https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
       "news:https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/",
       "news:https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/",
-      "news:https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win/"
+      "news:https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win/",
+      "news:https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
+      "news:https://cryptoslate.com/plunging-gpu-prices-threaten-ai-hosts-and-new-hedges-step-in/"
     ]
   },
   "init": {
