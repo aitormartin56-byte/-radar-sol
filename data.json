@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T18:00:23.000Z",
+  "updated_at": "2026-10-04T21:15:30.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-10-06T20:59:59.000Z",
-      "time_left": "cierra en 2 días",
+      "time_left": "cierra en 1 día",
       "submissions": 23,
       "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 5 días",
-      "submissions": 338,
+      "submissions": 341,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
