@@ -117,8 +117,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
-      "news:https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets",
       "news:https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
       "news:https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
       "news:https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
@@ -3116,7 +3114,9 @@
       "news:https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
       "news:https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
       "news:https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
-      "news:https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/"
+      "news:https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
+      "news:https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive/"
     ]
   },
   "init": {
