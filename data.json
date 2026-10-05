@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-05T06:03:42.000Z",
+  "updated_at": "2026-10-05T15:08:20.000Z",
   "counts": {
-    "bounties": 6,
+    "bounties": 7,
     "grants": 47,
     "news": 0
   },
@@ -14,7 +14,7 @@
       "sponsor": "Era Wallet",
       "deadline": "2026-10-06T20:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 24,
+      "submissions": 28,
       "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 4 días",
-      "submissions": 348,
+      "submissions": 368,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 20,
+      "submissions": 23,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 10,
+      "submissions": 14,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
@@ -62,8 +62,20 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 19,
+      "submissions": 21,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write a Thread or Long Post: Price Comparison",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "swap.io",
+      "deadline": "2026-10-14T22:59:59.000Z",
+      "time_left": "cierra en 9 días",
+      "submissions": 2,
+      "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
     {
