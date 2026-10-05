@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T15:08:20.000Z",
+  "updated_at": "2026-10-05T22:12:49.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Era Wallet",
       "deadline": "2026-10-06T20:59:59.000Z",
-      "time_left": "cierra en 1 día",
+      "time_left": "cierra en 22h",
       "submissions": 28,
       "url": "https://superteam.fun/earn/listing/video-editing-challenge",
       "featured": false
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 368,
+      "time_left": "cierra en 3 días",
+      "submissions": 388,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 23,
+      "submissions": 25,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 21,
+      "submissions": 24,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 2,
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -85,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
-      "time_left": "cierra en 18 días",
+      "time_left": "cierra en 17 días",
       "submissions": 5,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
