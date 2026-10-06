@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-06T16:08:18.000Z",
+  "updated_at": "2026-10-06T21:07:13.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 6,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Video Editing Challenge",
-      "reward": "150 USDC",
-      "type": "bounty",
-      "sponsor": "Era Wallet",
-      "deadline": "2026-10-06T20:59:59.000Z",
-      "time_left": "cierra en 4h",
-      "submissions": 34,
-      "url": "https://superteam.fun/earn/listing/video-editing-challenge",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Create twitter Post about the STREAM burn",
@@ -26,7 +14,7 @@
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
       "time_left": "cierra en 3 días",
-      "submissions": 423,
+      "submissions": 427,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -38,7 +26,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 27,
+      "submissions": 28,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 27,
+      "submissions": 29,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -74,7 +62,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 8 días",
-      "submissions": 16,
+      "submissions": 19,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
