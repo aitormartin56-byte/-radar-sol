@@ -117,10 +117,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/forget-etf-flows-bitcoins-real-threat-is-a-hidden-39900-liquidation-wall/",
-      "news:https://cryptoslate.com/a-secret-11th-hour-clarity-proposal-to-protect-crypto-coders-was-just-ripped-apart-by-both-sides-of-washington/",
-      "news:https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
       "news:https://cryptoslate.com/bnb-treasury-company-dumps-its-crypto-manager-after-nasdaq-suspends-its-stock-leaving-no-one-in-charge-of-its-treasury/",
       "news:https://cryptoslate.com/hyperliquids-token-is-tanking-as-etf-investors-are-fleeing-so-why-does-grayscale-think-it-is-massively-undervalued/",
@@ -3116,7 +3112,11 @@
       "news:https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
       "news:https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
       "news:https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/",
-      "news:https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/"
+      "news:https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/",
+      "news:https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/solana-dvp-settlement-requires-100-upfront-cash-for-every-trade/",
+      "news:https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/"
     ]
   },
   "init": {
