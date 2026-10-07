@@ -117,15 +117,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
-      "news:https://cryptoslate.com/three-fed-officials-just-voted-for-a-rate-hike-as-bitcoin-hangs-by-a-thread-on-a-62000-shelf/",
-      "news:https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374702/morning-minute-robinhood-posts-its-best-quarter-ever",
-      "news:https://decrypt.co/374699/crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
       "news:https://cryptoslate.com/forget-etf-flows-bitcoins-real-threat-is-a-hidden-39900-liquidation-wall/",
       "news:https://cryptoslate.com/a-secret-11th-hour-clarity-proposal-to-protect-crypto-coders-was-just-ripped-apart-by-both-sides-of-washington/",
       "news:https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3116,7 +3107,16 @@
       "news:https://cryptoslate.com/us-services-price-gauge-hits-a-four-year-high-clouding-bitcoins-rate-relief-outlook/",
       "news:https://cryptoslate.com/3-countries-control-66-of-bitcoin-mining-but-1-rival-is-gaining/",
       "news:https://cryptoslate.com/fincen-drops-crypto-mixing-proposal-as-backlash-kills-rule/",
-      "news:https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/"
+      "news:https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+      "news:https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/380257/google-launches-nano-banana-2-1",
+      "news:https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+      "news:https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+      "news:https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/",
+      "news:https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/"
     ]
   },
   "init": {
