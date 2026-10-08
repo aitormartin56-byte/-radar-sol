@@ -117,14 +117,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-      "news:https://cryptoslate.com/a-flaw-in-coldcard-seed-generation-lets-attackers-recreate-private-keys-from-the-press-of-a-button/",
-      "news:https://cointelegraph.com/markets/citadel-situational-awareness-stock-portfolio-ai-rout-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
       "news:https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
       "news:https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
       "news:https://cryptoslate.com/zcash-fixed-the-flaw-that-nearly-halved-zec-and-926-million-in-leverage-now-tests-the-rebound/",
@@ -3116,7 +3108,15 @@
       "news:https://cryptoslate.com/as-japanese-institutions-sell-%c2%a52-6-trillion-in-foreign-debt-heres-what-bitcoin-investors-need-to-watch/",
       "news:https://cryptoslate.com/bitcoin-faces-a-5-3-treasury-hurdle-but-its-post-etf-record-complicates-the-threat/",
       "news:https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut/",
-      "news:https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/"
+      "news:https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
+      "news:https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+      "news:https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+      "news:https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+      "news:https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+      "news:https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+      "news:https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/"
     ]
   },
   "init": {
