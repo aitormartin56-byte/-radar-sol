@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-09T19:37:39.000Z",
+  "updated_at": "2026-10-09T23:50:43.000Z",
   "counts": {
-    "bounties": 6,
+    "bounties": 5,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Create twitter Post about the STREAM burn",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "Streamflow Finance",
-      "deadline": "2026-10-09T21:59:59.999Z",
-      "time_left": "cierra en 2h",
-      "submissions": 579,
-      "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Create X content on Mentioned's Team Trading Competition",
@@ -25,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
-      "time_left": "cierra en 2 días",
+      "time_left": "cierra en 1 día",
       "submissions": 42,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
@@ -37,7 +25,7 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 5 días",
+      "time_left": "cierra en 4 días",
       "submissions": 19,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
@@ -49,8 +37,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 40,
+      "time_left": "cierra en 4 días",
+      "submissions": 41,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -61,8 +49,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 40,
+      "time_left": "cierra en 4 días",
+      "submissions": 41,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -73,7 +61,7 @@
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
-      "time_left": "cierra en 14 días",
+      "time_left": "cierra en 13 días",
       "submissions": 8,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
