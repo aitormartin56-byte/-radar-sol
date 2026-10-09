@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:10:20.000Z",
+  "updated_at": "2026-10-09T06:30:32.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
-      "time_left": "cierra en 21h",
-      "submissions": 535,
+      "time_left": "cierra en 15h",
+      "submissions": 540,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 34,
+      "submissions": 35,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 18,
+      "submissions": 19,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 36,
+      "submissions": 37,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },

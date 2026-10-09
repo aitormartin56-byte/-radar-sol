@@ -117,15 +117,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/old-glory-bank-spac-delays-vote-as-50-million-cash-test-stays-unresolved/",
-      "news:https://cryptoslate.com/how-thin-weekend-liquidity-turns-minor-geopolitical-news-into-massive-monday-price-gaps-for-etf-holders/",
-      "news:https://cryptoslate.com/lite-strategy-retired-13-of-its-shares-but-estimated-litecoin-per-share-rose-just-1-66/",
-      "news:https://cryptoslate.com/bitcoin-etfs-shed-265m-as-blackrocks-staked-ether-fund-takes-15-4m/",
-      "news:https://cryptoslate.com/bitwise-is-liquidating-six-crypto-option-etfs-that-offered-25-payouts-while-returning-investors-own-capital/",
-      "news:https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/why-a-sudden-5500-btc-drop-in-leveraged-short-positions-failed-to-deliver-the-bullish-confirmation-bitcoin-traders-wanted/",
-      "news:https://cryptoslate.com/donald-trumps-new-1-2-million-data-feed-lets-wall-street-front-run-his-market-moving-policy-announcements/",
       "news:https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/wall-streets-ai-margin-calls-are-here-is-bitcoin-the-next-source-of-cash/",
       "news:https://cryptoslate.com/trumps-legal-loophole-around-the-supreme-court-is-keeping-inflation-alive-and-trapping-bitcoin-in-the-feds-crosshairs/",
@@ -3116,7 +3107,16 @@
       "news:https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open/",
       "news:https://cryptoslate.com/pumpfun-is-making-millions-from-a-market-where-81-of-memecoins-crashed-90/",
       "news:https://cryptoslate.com/bitcoin-crashes-through-81000-buy-wall-as-1-billion-crypto-liquidation-bloodbath-unfolds/",
-      "news:https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/"
+      "news:https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
+      "news:https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+      "news:https://cryptoslate.com/bitcoin-miners-escape-months-of-financial-distress-as-daily-revenue-surges-by-78/",
+      "news:https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking/",
+      "news:https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them/",
+      "news:https://cryptoslate.com/xrpls-1-34-billion-stablecoin-base-doesnt-tell-us-how-much-xrp-users-need/"
     ]
   },
   "init": {
