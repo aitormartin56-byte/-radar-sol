@@ -69,7 +69,8 @@
       "st:f717adef-b408-46bd-a545-89da31f4dd54",
       "st:a9f07acf-6ea5-4b45-91f4-685fb1cc864a",
       "st:e2f1620d-14d1-4bbc-8bfd-d814cf5218d2",
-      "st:b8fe03a2-01ac-4879-be1a-e58a5496927f"
+      "st:b8fe03a2-01ac-4879-be1a-e58a5496927f",
+      "st:e3bcf553-958f-4b26-8c1b-799476ceb873"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -117,25 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/wall-streets-ai-margin-calls-are-here-is-bitcoin-the-next-source-of-cash/",
-      "news:https://cryptoslate.com/trumps-legal-loophole-around-the-supreme-court-is-keeping-inflation-alive-and-trapping-bitcoin-in-the-feds-crosshairs/",
-      "news:https://cryptoslate.com/new-york-asks-judge-to-force-kalshi-to-hand-over-the-names-wagers-and-losses-of-its-local-bettors/",
-      "news:https://cryptoslate.com/ethereum-just-outpaced-bitcoin-with-365-million-in-etf-inflows-but-on-chain-data-shows-the-real-bottom-isnt-in-yet/",
-      "news:https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
-      "news:https://cryptoslate.com/how-xrpl-validators-quietly-killed-a-silent-exploit-that-could-have-drained-victim-accounts-through-transaction-fees-alone/",
-      "news:https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
-      "news:https://cryptoslate.com/coldcards-89m-wallet-bug-triggers-the-biggest-bitcoin-movement-since-ftx-and-completely-distorts-market-signals/",
-      "news:https://cryptoslate.com/the-us-just-blacklisted-an-iranian-maritime-scheme-forcing-commercial-ships-to-pay-bitcoin-tolls-for-safe-passage/",
-      "news:https://cryptoslate.com/xrp-extends-the-longest-active-etf-inflow-streak-in-crypto-as-rival-funds-struggle-for-fresh-cash/",
-      "news:https://cryptoslate.com/ctrl-wallet-is-pulling-the-plug-tomorrow-with-no-exact-cutoff-time-leaving-users-racing-a-phantom-clock-to-rescue-their-crypto/",
-      "news:https://cryptoslate.com/cryptos-landmark-clarity-act-just-vanished-from-mondays-senate-schedule-triggering-a-desperate-72-hour-countdown-to-save-it-before-recess/",
-      "news:https://cryptoslate.com/after-a-failed-50m-crypto-gamble-interactive-strength-is-dodging-a-severe-cash-crunch-by-shoving-shareholders-behind-a-brutal-15-liquidation-wall/",
-      "news:https://cryptoslate.com/a-tiny-cluster-of-solana-bots-unlocked-a-3x-trading-advantage-by-routing-through-one-proprietary-protocol/",
-      "news:https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/a-163m-crypto-stash-collapsed-to-just-15m-forcing-zerostack-to-literally-stake-its-survival-on-token-rewards/",
       "news:https://cryptoslate.com/la-rosas-8-1-million-crypto-balance-comes-with-one-unanswered-liquidity-question/",
       "news:https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3116,7 +3098,26 @@
       "news:https://cryptoslate.com/bitcoin-miners-escape-months-of-financial-distress-as-daily-revenue-surges-by-78/",
       "news:https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking/",
       "news:https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them/",
-      "news:https://cryptoslate.com/xrpls-1-34-billion-stablecoin-base-doesnt-tell-us-how-much-xrp-users-need/"
+      "news:https://cryptoslate.com/xrpls-1-34-billion-stablecoin-base-doesnt-tell-us-how-much-xrp-users-need/",
+      "news:https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+      "news:https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+      "news:https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+      "news:https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+      "news:https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+      "news:https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns/",
+      "news:https://cryptoslate.com/backing-polymarkets-primary-favorites-would-have-lost-4-new-audit-finds/",
+      "news:https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis/",
+      "news:https://cryptoslate.com/strategys-150-million-a-day-strc-market-has-a-hidden-dependency-on-its-own-buybacks/",
+      "news:https://cryptoslate.com/coinbase-streams-150000-singapore-trading-cup-and-crowns-its-first-champion/",
+      "news:https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+      "news:https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/"
     ]
   },
   "init": {
