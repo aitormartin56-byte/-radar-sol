@@ -117,17 +117,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/why-a-guaranteed-4-47-yield-on-44-billion-of-us-debt-just-raised-the-hurdle-for-bitcoin/",
-      "news:https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-      "news:https://cryptoslate.com/tether-claims-1-5b-profit-but-hidden-math-reveals-a-4-2b-hit-that-halved-its-safety-cushion-in-90-days/",
-      "news:https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/louisiana-just-armed-crypto-atm-users-with-a-legal-cheat-code-to-demand-full-refunds-from-unlicensed-operators/",
-      "news:https://cryptoslate.com/if-the-fed-trusts-this-single-2-2-metric-bitcoin-could-break-65300-and-ignite-a-path-to-68000/",
-      "news:https://cryptoslate.com/a-major-japanese-bitcoin-mining-pool-just-pulled-the-plug-on-its-bitcoin-service-just-as-3-mega-miners-claimed-60-of-the-network/",
-      "news:https://cryptoslate.com/moonbeam-just-halted-all-user-transactions-leaving-late-glmr-holders-at-the-mercy-of-an-email-helpdesk-to-recover-stranded-funds/",
-      "news:https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/sdevs-2-2m-sky-staking-revenue-is-dwarfed-by-a-50-6m-unrealized-token-loss/",
       "news:https://cryptoslate.com/old-glory-bank-spac-delays-vote-as-50-million-cash-test-stays-unresolved/",
       "news:https://cryptoslate.com/how-thin-weekend-liquidity-turns-minor-geopolitical-news-into-massive-monday-price-gaps-for-etf-holders/",
       "news:https://cryptoslate.com/lite-strategy-retired-13-of-its-shares-but-estimated-litecoin-per-share-rose-just-1-66/",
@@ -3116,7 +3105,18 @@
       "news:https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
       "news:https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/",
       "news:https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
-      "news:https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case/"
+      "news:https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case/",
+      "news:https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+      "news:https://decrypt.co/380545/google-gemini-coworker-own-email-address",
+      "news:https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+      "news:https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify/",
+      "news:https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open/",
+      "news:https://cryptoslate.com/pumpfun-is-making-millions-from-a-market-where-81-of-memecoins-crashed-90/",
+      "news:https://cryptoslate.com/bitcoin-crashes-through-81000-buy-wall-as-1-billion-crypto-liquidation-bloodbath-unfolds/",
+      "news:https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/"
     ]
   },
   "init": {
