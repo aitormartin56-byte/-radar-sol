@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T14:10:32.000Z",
+  "updated_at": "2026-10-09T19:37:39.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Streamflow Finance",
       "deadline": "2026-10-09T21:59:59.999Z",
-      "time_left": "cierra en 7h",
-      "submissions": 565,
+      "time_left": "cierra en 2h",
+      "submissions": 579,
       "url": "https://superteam.fun/earn/listing/create-twitter-post-about-the-stream-burn",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 39,
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 39,
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 6,
+      "submissions": 8,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
     }
