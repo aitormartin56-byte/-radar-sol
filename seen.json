@@ -118,15 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-      "news:https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
-      "news:https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
-      "news:https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
-      "news:https://cryptoslate.com/researchers-just-uncovered-4200-malicious-smart-contracts-that-successfully-tricked-5700-victims-into-signing-away-their-crypto/",
-      "news:https://cryptoslate.com/where-did-trump-medias-5278-btc-go-trackers-spot-165-million-bitcoin-transfer-leaving-just-3-43-btc/",
-      "news:https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
       "news:https://cryptoslate.com/intesa-sanpaolos-ibit-call-row-plunged-99-as-its-staked-ethereum-shares-tripled/",
       "news:https://cryptoslate.com/over-400-million-locked-xrp-face-a-quiet-october-deadline-as-the-evernorth-spac-takes-a-135000-lifeline/",
@@ -3117,7 +3108,16 @@
       "news:https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
       "news:https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/what-would-actually-stop-the-fed-from-raising-rates-again/"
+      "news:https://cryptoslate.com/what-would-actually-stop-the-fed-from-raising-rates-again/",
+      "news:https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "news:https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "news:https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "news:https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+      "news:https://cryptoslate.com/bitcoins-reported-6-13-mining-yield-still-carries-miner-credit-risk/",
+      "news:https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
+      "news:https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move/",
+      "news:https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/"
     ]
   },
   "init": {

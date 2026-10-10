@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-10T10:59:13.000Z",
+  "updated_at": "2026-10-10T16:11:24.000Z",
   "counts": {
-    "bounties": 5,
+    "bounties": 6,
     "grants": 47,
     "news": 0
   },
@@ -14,7 +14,7 @@
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 46,
+      "submissions": 48,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 20,
+      "submissions": 22,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 43,
+      "submissions": 45,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 45,
+      "submissions": 49,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -64,6 +64,18 @@
       "time_left": "cierra en 13 días",
       "submissions": 8,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Content on Premier League Predictions with worm 🪱⚽",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "worm ",
+      "deadline": "2026-11-24T02:59:59.000Z",
+      "time_left": "cierra en 44 días",
+      "submissions": 1,
+      "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
   ],
