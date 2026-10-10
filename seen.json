@@ -118,10 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-      "news:https://cryptoslate.com/intesa-sanpaolos-ibit-call-row-plunged-99-as-its-staked-ethereum-shares-tripled/",
-      "news:https://cryptoslate.com/over-400-million-locked-xrp-face-a-quiet-october-deadline-as-the-evernorth-spac-takes-a-135000-lifeline/",
-      "news:https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
       "news:https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
       "news:https://cryptoslate.com/facing-a-severe-cash-crunch-bitcoin-miner-sphere-3d-quietly-prepares-to-dilute-its-shareholders-by-a-staggering-50/",
@@ -3117,7 +3113,11 @@
       "news:https://cryptoslate.com/bitcoins-reported-6-13-mining-yield-still-carries-miner-credit-risk/",
       "news:https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
       "news:https://cryptoslate.com/bitcoin-faces-weekend-test-as-80400-level-determines-next-move/",
-      "news:https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/"
+      "news:https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/",
+      "news:https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "news:https://cryptoslate.com/btcpays-docker-servers-must-opt-into-tor-to-keep-onion-access/",
+      "news:https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
+      "news:https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/"
     ]
   },
   "init": {
