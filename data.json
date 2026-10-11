@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T23:43:11.000Z",
+  "updated_at": "2026-10-11T04:29:44.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
-      "time_left": "cierra en 23h",
-      "submissions": 49,
+      "time_left": "cierra en 18h",
+      "submissions": 52,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 56,
+      "submissions": 58,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -73,8 +73,8 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
-      "time_left": "cierra en 44 días",
-      "submissions": 5,
+      "time_left": "cierra en 43 días",
+      "submissions": 7,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
