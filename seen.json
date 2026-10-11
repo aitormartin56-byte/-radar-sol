@@ -118,11 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
-      "news:https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-      "news:https://cryptoslate.com/facing-a-severe-cash-crunch-bitcoin-miner-sphere-3d-quietly-prepares-to-dilute-its-shareholders-by-a-staggering-50/",
-      "news:https://cryptoslate.com/corporate-crypto-accounts-on-htx-face-a-complete-dead-end-with-zero-legal-exit-routes-when-eu-sanctions-strike-on-august-23/",
-      "news:https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
       "news:https://cryptoslate.com/strategy-sells-395-million-in-bitcoin-and-mstr-stock-to-buyback-81-million-in-strc-and-build-cash-reserve-to-4-billion/",
       "news:https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3112,12 @@
       "news:https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
       "news:https://cryptoslate.com/btcpays-docker-servers-must-opt-into-tor-to-keep-onion-access/",
       "news:https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
-      "news:https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/"
+      "news:https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/",
+      "news:https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+      "news:https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/"
     ]
   },
   "init": {

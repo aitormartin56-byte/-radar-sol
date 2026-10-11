@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T04:29:44.000Z",
+  "updated_at": "2026-10-11T10:58:57.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Superteam Ireland",
       "deadline": "2026-10-11T22:59:59.000Z",
-      "time_left": "cierra en 18h",
-      "submissions": 52,
+      "time_left": "cierra en 12h",
+      "submissions": 54,
       "url": "https://superteam.fun/earn/listing/create-x-content-on-mentioneds-team-trading-competition",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 22,
+      "submissions": 23,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 47,
+      "submissions": 48,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 58,
+      "submissions": 61,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 8,
+      "submissions": 9,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
     },
