@@ -118,9 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
-      "news:https://cryptoslate.com/coldcard-crisis-hits-130-million-proving-not-your-keys-is-meaningless-if-you-trust-a-single-device-to-generate-them/",
-      "news:https://cryptoslate.com/bitcoin-must-clear-65000-before-friday-or-jobs-data-could-turn-62000-into-a-trapdoor-to-60000/",
       "news:https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3114,10 @@
       "news:https://cryptoslate.com/aaves-yield-collateral-markets-reveal-a-thin-cushion-before-liquidation/",
       "news:https://cryptoslate.com/xrps-next-wall-street-expansion-comes-with-an-unexpected-complication-from-ripple/",
       "news:https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
-      "news:https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/"
+      "news:https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+      "news:https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+      "news:https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven/"
     ]
   },
   "init": {
