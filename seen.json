@@ -118,19 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
-      "news:https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross",
-      "news:https://cryptoslate.com/a-massive-100-million-prove-tokens-unlock-today-but-razor-thin-exchange-liquidity-reveals-a-market-completely-unprepared-for-a-51-supply-shock/",
-      "news:https://cryptoslate.com/usdc-redemptions-just-outpaced-mints-by-4-billion-but-a-massive-new-token-presale-is-quietly-doubling-circles-revenue-outlook/",
-      "news:https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
-      "news:https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-      "news:https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
-      "news:https://cryptoslate.com/all-six-us-solana-etfs-have-suffered-five-consecutive-days-of-absolute-zero-net-flows/",
-      "news:https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
-      "news:https://cryptoslate.com/bitmart-gives-us-users-just-days-to-pull-crypto-before-aggressive-new-compliance-checks-risk-freezing-their-assets/",
-      "news:https://cryptoslate.com/terawulfs-bitcoin-mining-revenue-fell-73-as-hpc-leases-reached-71-of-sales/",
-      "news:https://cryptoslate.com/investors-poured-millions-back-into-grayscales-bleeding-xrp-fund-but-a-16-8-million-market-hit-instantly-wiped-out-the-comeback/",
       "news:https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3104,20 @@
       "news:https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
       "news:https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/",
       "news:https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test/",
-      "news:https://cryptoslate.com/strategys-bitcoin-buying-hits-lowest-level-since-december-as-strc-buybacks-reach-record-192-million/"
+      "news:https://cryptoslate.com/strategys-bitcoin-buying-hits-lowest-level-since-december-as-strc-buybacks-reach-record-192-million/",
+      "news:https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+      "news:https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+      "news:https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "news:https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "news:https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+      "news:https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review/",
+      "news:https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread/",
+      "news:https://cryptoslate.com/bitcoin-defies-800-million-crypto-wipeout-as-south-koreas-ai-stock-market-crashes/",
+      "news:https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/"
     ]
   },
   "init": {
