@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:56:18.000Z",
+  "updated_at": "2026-10-14T21:23:49.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 5h",
-      "submissions": 46,
+      "time_left": "cierra en 1h",
+      "submissions": 47,
       "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 5h",
-      "submissions": 72,
+      "time_left": "cierra en 1h",
+      "submissions": 74,
       "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 5h",
-      "submissions": 107,
+      "time_left": "cierra en 1h",
+      "submissions": 108,
       "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-10-31T18:29:59.000Z",
-      "time_left": "cierra en 17 días",
-      "submissions": 104,
+      "time_left": "cierra en 16 días",
+      "submissions": 110,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
