@@ -118,12 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/how-a-crypto-startup-quietly-siphoned-470000-binance-users-to-build-a-4-billion-card-empire/",
-      "news:https://cryptoslate.com/bny-blackrock-funnel-billions-infrastructure-exposing-crypto-diversification/",
-      "news:https://cryptoslate.com/how-institutional-dark-pools-quietly-ate-15-of-crypto-volume-and-killed-the-retail-whale-watching-edge/",
-      "news:https://cryptoslate.com/bitdeer-lands-4-7-billion-ai-lease-tied-to-anthropic-but-must-deliver-by-dec-31/",
-      "news:https://cryptoslate.com/irens-625-million-ai-bet-creates-a-476-million-stock-overhang/",
-      "news:https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/avax-one-holds-88-million-in-avalanche-tokens-but-its-lender-only-wants-cash-or-bitcoin/",
       "news:https://cryptoslate.com/why-powercompute-can-hand-over-307-bitcoin-and-clear-18-million-in-debt-if-price-drops-below-58860/",
@@ -3117,7 +3111,13 @@
       "news:https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading/",
       "news:https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals/",
       "news:https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
-      "news:https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/"
+      "news:https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/",
+      "news:https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+      "news:https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+      "news:https://cryptoslate.com/solana-sets-october-21-for-massive-alpenglow-upgrade-that-could-make-transactions-99-faster-to-finalize/"
     ]
   },
   "init": {
