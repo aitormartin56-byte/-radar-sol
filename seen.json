@@ -118,8 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/galaxy-digital-lost-85m-on-crypto-as-its-projected-80m-in-ai-revenue-must-offset-3-5b-ai-investment/",
-      "news:https://cryptoslate.com/hyperscale-sells-bitcoin-for-ai-business-set-to-deliver-less-than-20-of-2027-revenue/",
       "news:https://cryptoslate.com/how-a-crypto-startup-quietly-siphoned-470000-binance-users-to-build-a-4-billion-card-empire/",
       "news:https://cryptoslate.com/bny-blackrock-funnel-billions-infrastructure-exposing-crypto-diversification/",
       "news:https://cryptoslate.com/how-institutional-dark-pools-quietly-ate-15-of-crypto-volume-and-killed-the-retail-whale-watching-edge/",
@@ -3117,7 +3115,9 @@
       "news:https://decrypt.co/380974/solana-alpenglow-upgrade-date",
       "news:https://cryptoslate.com/surging-dollar-forces-bitcoin-sell-off-as-rate-hike-odds-double/",
       "news:https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading/",
-      "news:https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals/"
+      "news:https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals/",
+      "news:https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "news:https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/"
     ]
   },
   "init": {

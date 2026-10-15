@@ -1,47 +1,11 @@
 {
-  "updated_at": "2026-10-14T21:23:49.000Z",
+  "updated_at": "2026-10-15T00:01:08.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 4,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Make a Video: Season Zero, Pump the Pool 3 and Social Quests",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "swap.io",
-      "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 47,
-      "url": "https://superteam.fun/earn/listing/make-a-video-season-zero-pump-the-pool-3-and-social-quests",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Write a Post: Dust Sweeper + How Social Quests Earn You XP",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "swap.io",
-      "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 74,
-      "url": "https://superteam.fun/earn/listing/write-a-post-dust-sweeper-how-social-quests-earn-you-xp",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Write a Thread or Long Post: Price Comparison",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "swap.io",
-      "deadline": "2026-10-14T22:59:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 108,
-      "url": "https://superteam.fun/earn/listing/write-a-thread-or-long-post-price-comparison",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Launch & Trade on Daejin: Write a Twitter Thread and Create a Market",
@@ -49,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
-      "time_left": "cierra en 9 días",
+      "time_left": "cierra en 8 días",
       "submissions": 12,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
@@ -62,7 +26,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-10-31T18:29:59.000Z",
       "time_left": "cierra en 16 días",
-      "submissions": 110,
+      "submissions": 112,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -73,7 +37,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 29 días",
+      "time_left": "cierra en 28 días",
       "submissions": 2,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
@@ -86,7 +50,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 40 días",
-      "submissions": 34,
+      "submissions": 35,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
