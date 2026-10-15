@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T14:42:27.000Z",
+  "updated_at": "2026-10-15T18:54:16.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -20,18 +20,6 @@
     },
     {
       "kind": "bounty",
-      "title": "Write a thread on $CHIMP Launching on Metaplex - Part 1",
-      "reward": "2000 USDC",
-      "type": "bounty",
-      "sponsor": "ChimpX",
-      "deadline": "2026-10-31T18:29:59.000Z",
-      "time_left": "cierra en 16 días",
-      "submissions": 135,
-      "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "Panta x NectarFi Trading Competition Bounty",
       "reward": "500 USDG",
       "type": "bounty",
@@ -44,13 +32,25 @@
     },
     {
       "kind": "bounty",
+      "title": "Write a thread on $CHIMP Fair Launch - Part 1",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "ChimpX",
+      "deadline": "2026-11-14T18:29:59.000Z",
+      "time_left": "cierra en 29 días",
+      "submissions": 144,
+      "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
       "title": "Create Content on Premier League Predictions with worm 🪱⚽",
       "reward": "500 USDC",
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 39 días",
-      "submissions": 39,
+      "submissions": 40,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
