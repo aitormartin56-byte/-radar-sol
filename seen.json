@@ -118,13 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-      "news:https://cryptoslate.com/senate-abandons-august-clarity-act-vote-leaving-14-work-days-until-midterm-election-season-kills-it/",
-      "news:https://cryptoslate.com/bitgo-investors-face-flood-of-aug-7-class-action-deadline-warnings/",
-      "news:https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
-      "news:https://cryptoslate.com/bitcoin-has-185-blocks-left-before-bip-110-rules-begin-rejecting-blocks/",
-      "news:https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
       "news:https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
       "news:https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
@@ -3117,7 +3110,14 @@
       "news:https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss/",
       "news:https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000/",
       "news:https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties/",
-      "news:https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens/"
+      "news:https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens/",
+      "news:https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+      "news:https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "news:https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+      "news:https://cryptoslate.com/two-firms-control-corporate-bitcoin-buys-even-as-business-adoption-broadens/",
+      "news:https://cryptoslate.com/xrp-exchange-wallets-added-84-million-tokens-in-three-days-as-price-slipped-toward-1-30/",
+      "news:https://cryptoslate.com/south-korea-names-two-crypto-firms-in-breach-wave-that-also-hit-major-banks/"
     ]
   },
   "init": {
