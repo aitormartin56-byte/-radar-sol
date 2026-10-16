@@ -118,19 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/never-sell-treasury-model-cracks-again-as-1635-btc-is-offloaded-shrinking-empery-reserves-by-76-in-weeks/",
-      "news:https://cryptoslate.com/wall-street-put-7b-into-tokenized-funds-but-under-1-is-actually-being-used-in-defi/",
-      "news:https://cryptoslate.com/michael-saylor-reveals-how-ai-helped-strategy-unlock-15-billion-for-its-bitcoin-machine/",
-      "news:https://cryptoslate.com/white-house-warns-clarity-act-will-die-sept-15-unless-7-democrats-vote-yes/",
-      "news:https://cryptoslate.com/investors-poured-267-million-into-bitwises-solana-etf-but-market-losses-erased-every-cent/",
-      "news:https://cryptoslate.com/a-major-bitcoin-miner-burned-through-357-btc-on-secret-compute-deals-while-its-output-plummeted/",
-      "news:https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
-      "news:https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
-      "news:https://cryptoslate.com/crypto-holders-face-an-aug-27-deadline-to-save-21-tokens-before-kraken-liquidates-them-into-thin-order-books/",
-      "news:https://cryptoslate.com/with-0-in-revenue-and-35-idle-machines-in-storage-an-inactive-bitcoin-miner-printed-1-65-billion-shares-to-stay-alive/",
-      "news:https://cryptoslate.com/a-pre-revenue-ai-crypto-startup-funneled-12-million-into-ev-as-bad-crypto-trades-erased-97-of-cash-in-six-months/",
-      "news:https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/investors-poured-82-million-into-canarys-xrp-etf-but-falling-prices-erased-double-what-they-put-in/",
       "news:https://cryptoslate.com/in-just-190-seconds-grayscale-quietly-pulled-the-plug-on-three-major-altcoin-etfs/",
       "news:https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3104,20 @@
       "news:https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto/",
       "news:https://cryptoslate.com/bitcoins-inflation-relief-case-faces-a-113-million-barrel-onshore-oil-draw/",
       "news:https://cryptoslate.com/ripple-opens-wall-streets-door-to-hyperliquids-59-billion-trading-market/",
-      "news:https://cryptoslate.com/bitcoin-faces-an-8000-trading-trap-as-us-midterms-approach/"
+      "news:https://cryptoslate.com/bitcoin-faces-an-8000-trading-trap-as-us-midterms-approach/",
+      "news:https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+      "news:https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
+      "news:https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+      "news:https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
+      "news:https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
+      "news:https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings/",
+      "news:https://cryptoslate.com/strategys-mstr-69-decline-exposes-a-bigger-danger-behind-mscis-2-8-billion-selling-threat/",
+      "news:https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/"
     ]
   },
   "init": {
