@@ -118,12 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/investors-poured-82-million-into-canarys-xrp-etf-but-falling-prices-erased-double-what-they-put-in/",
-      "news:https://cryptoslate.com/in-just-190-seconds-grayscale-quietly-pulled-the-plug-on-three-major-altcoin-etfs/",
-      "news:https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/swapping-a-23m-business-for-1m-cash-while-banking-on-locked-wlfi-tokens-shows-how-dire-crypto-balance-sheets-have-become/",
       "news:https://cryptoslate.com/yields-are-spiking-toward-5-2-but-history-shows-bitcoin-might-completely-ignore-wall-streets-125-billion-stress-test/",
       "news:https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
@@ -3117,7 +3111,13 @@
       "news:https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
       "news:https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings/",
       "news:https://cryptoslate.com/strategys-mstr-69-decline-exposes-a-bigger-danger-behind-mscis-2-8-billion-selling-threat/",
-      "news:https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/"
+      "news:https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/",
+      "news:https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+      "news:https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+      "news:https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+      "news:https://cryptoslate.com/cardano-has-42-6-million-ada-left-under-its-current-treasury-spending-limit/",
+      "news:https://cryptoslate.com/usdc-processed-36-trillion-in-h1-transactions-but-circle-kept-just-7-cents-of-every-revenue-dollar/",
+      "news:https://cryptoslate.com/openai-research-model-questioned-wallet-permission-then-spent-testnet-eth-anyway-in-june-2026/"
     ]
   },
   "init": {
