@@ -118,11 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/investors-are-about-to-drain-a-217-million-trust-fund-while-voting-to-keep-a-bitcoin-spac-alive/",
-      "news:https://cryptoslate.com/european-crypto-holders-face-an-august-23-deadline-to-figure-out-who-controls-htx-or-risk-violating-eu-sanctions/",
-      "news:https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/us-sanctions-exposed-a-6-3-billion-crypto-pipeline-linking-iran-and-russia/",
       "news:https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
       "news:https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b",
@@ -3117,7 +3112,12 @@
       "news:https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/bitcoins-inflation-hedge-has-a-hidden-cost-and-leverage-makes-it-worse/",
-      "news:https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/"
+      "news:https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/",
+      "news:https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+      "news:https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/",
+      "news:https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/"
     ]
   },
   "init": {
