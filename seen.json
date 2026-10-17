@@ -118,11 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-      "news:https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b",
-      "news:https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-      "news:https://cryptoslate.com/bakkt-promised-a-44-trillion-payment-revolution-but-its-key-acquisition-made-just-e5315/",
       "news:https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
       "news:https://cryptoslate.com/bitcoins-bip-110-fork-is-back-but-its-backers-want-to-replace-the-miners/",
@@ -3117,7 +3112,12 @@
       "news:https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
       "news:https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/",
-      "news:https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/"
+      "news:https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/",
+      "news:https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "news:https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+      "news:https://cryptoslate.com/stablecoin-cards-are-booming-but-who-makes-money-when-you-swipe/",
+      "news:https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move/"
     ]
   },
   "init": {
