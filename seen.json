@@ -118,9 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-      "news:https://cryptoslate.com/bitcoins-bip-110-fork-is-back-but-its-backers-want-to-replace-the-miners/",
       "news:https://cryptoslate.com/traders-holding-39-5-million-in-bitmex-bitcoin-perps-have-16-days-to-exit-before-forced-closures-begin/",
       "news:https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
       "news:https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
@@ -3117,7 +3114,10 @@
       "news:https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
       "news:https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
       "news:https://cryptoslate.com/stablecoin-cards-are-booming-but-who-makes-money-when-you-swipe/",
-      "news:https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move/"
+      "news:https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move/",
+      "news:https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+      "news:https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
+      "news:https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/"
     ]
   },
   "init": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:35:12.000Z",
+  "updated_at": "2026-10-17T19:03:43.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 28 días",
-      "submissions": 181,
+      "time_left": "cierra en 27 días",
+      "submissions": 183,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
