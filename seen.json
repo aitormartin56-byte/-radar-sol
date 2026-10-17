@@ -118,7 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/traders-holding-39-5-million-in-bitmex-bitcoin-perps-have-16-days-to-exit-before-forced-closures-begin/",
       "news:https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
       "news:https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
       "news:https://cryptoslate.com/bitwise-pitched-a-diversified-10-crypto-fund-then-lost-500-million-as-bitcoin-swallowed-78-of-the-portfolio/",
@@ -3117,7 +3116,8 @@
       "news:https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move/",
       "news:https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
       "news:https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
-      "news:https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/"
+      "news:https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
+      "news:https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/"
     ]
   },
   "init": {
