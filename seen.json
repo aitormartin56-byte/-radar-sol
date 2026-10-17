@@ -118,10 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
-      "news:https://cryptoslate.com/over-2-million-doge-sit-trapped-in-limbo-as-dogechain-keeps-printing-blocks-past-its-final-deadline/",
-      "news:https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
       "news:https://cryptoslate.com/investors-are-about-to-drain-a-217-million-trust-fund-while-voting-to-keep-a-bitcoin-spac-alive/",
       "news:https://cryptoslate.com/european-crypto-holders-face-an-august-23-deadline-to-figure-out-who-controls-htx-or-risk-violating-eu-sanctions/",
       "news:https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3113,11 @@
       "news:https://cryptoslate.com/usdc-processed-36-trillion-in-h1-transactions-but-circle-kept-just-7-cents-of-every-revenue-dollar/",
       "news:https://cryptoslate.com/openai-research-model-questioned-wallet-permission-then-spent-testnet-eth-anyway-in-june-2026/",
       "news:https://cryptoslate.com/cross-river-bank-links-2-4b-rlusd-to-core-banking-system/",
-      "news:https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries/"
+      "news:https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries/",
+      "news:https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bitcoins-inflation-hedge-has-a-hidden-cost-and-leverage-makes-it-worse/",
+      "news:https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/"
     ]
   },
   "init": {
