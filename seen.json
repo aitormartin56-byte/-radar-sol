@@ -118,8 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-      "news:https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
       "news:https://cryptoslate.com/bitwise-pitched-a-diversified-10-crypto-fund-then-lost-500-million-as-bitcoin-swallowed-78-of-the-portfolio/",
       "news:https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3115,9 @@
       "news:https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
       "news:https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
       "news:https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
-      "news:https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/"
+      "news:https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/",
+      "news:https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/"
     ]
   },
   "init": {
