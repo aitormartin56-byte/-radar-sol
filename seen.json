@@ -118,7 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
       "news:https://cryptoslate.com/one-of-worldcoins-largest-corporate-holders-sits-on-a-207-million-paper-loss-after-losing-its-primary-source-of-cash/",
       "news:https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3116,8 @@
       "news:https://cryptoslate.com/trump-waives-new-russia-tariffs-as-october-18-oil-deadline-arrives/",
       "news:https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
       "news:https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms/",
-      "news:https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/"
+      "news:https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
+      "news:https://cryptoslate.com/zcashs-planned-sprout-freeze-would-leave-private-keys-unable-to-move-funds/"
     ]
   },
   "init": {
