@@ -118,11 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
-      "news:https://cryptoslate.com/strategy-has-785-million-left-to-close-strcs-final-5-gap-after-selling-213-million-in-bitcoin/",
-      "news:https://cryptoslate.com/nasdaq-puts-675-million-avalanche-treasury-on-the-clock-over-two-listing-failures/",
-      "news:https://cryptoslate.com/kraken-holds-the-instant-liquidation-switch-on-a-crypto-firms-479-bitcoin-if-price-drops-to-45094/",
       "news:https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
       "news:https://cryptoslate.com/south-korea-puts-crypto-exchanges-on-a-seven-day-clock-under-new-seizure-rules/",
       "news:https://cryptoslate.com/athena-bitcoin-agreed-to-a-4-5-million-settlement-but-claimants-may-have-less-than-3-million-to-split/",
@@ -3117,7 +3112,12 @@
       "news:https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
       "news:https://cryptoslate.com/zcashs-planned-sprout-freeze-would-leave-private-keys-unable-to-move-funds/",
       "news:https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/mt-gox-creditors-face-another-year-of-waiting-as-repayment-deadline-slips-to-2027/"
     ]
   },
   "init": {
