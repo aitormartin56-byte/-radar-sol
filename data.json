@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T05:42:29.000Z",
+  "updated_at": "2026-10-20T11:01:46.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 25 días",
-      "submissions": 224,
+      "submissions": 228,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 34 días",
-      "submissions": 85,
+      "submissions": 86,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
