@@ -118,10 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
-      "news:https://cryptoslate.com/coinbase-strategy-and-blockstream-back-ai-access-push-after-vetted-bitcoin-researcher-gets-blocked/",
-      "news:https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
       "news:https://cryptoslate.com/the-uk-just-ranked-third-in-global-bitcoin-adoption-but-court-rules-mean-the-government-cant-keep-its-60000-btc-as-a-reserve/",
       "news:https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3113,11 @@
       "news:https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
       "news:https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses/",
       "news:https://cryptoslate.com/strategys-discretionary-cash-falls-72-as-buyback-authorization-rises-to-3-billion/",
-      "news:https://cryptoslate.com/wall-streets-bitcoin-bears-quietly-retreated-despite-recent-plunge-toward-80000/"
+      "news:https://cryptoslate.com/wall-streets-bitcoin-bears-quietly-retreated-despite-recent-plunge-toward-80000/",
+      "news:https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+      "news:https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures/",
+      "news:https://cryptoslate.com/crypto-hacks-surge-55-to-1-2b-but-key-theft-drops-by-30/",
+      "news:https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap/"
     ]
   },
   "init": {
