@@ -118,17 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/after-selling-832-btc-to-clear-debt-this-nasdaq-listed-crypto-firm-is-using-a-1-for-50-reverse-split-to-mask-its-shrinking-treasury/",
-      "news:https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
-      "news:https://cryptoslate.com/tron-inc-put-over-90-of-assets-behind-an-uninsured-justlend-dependency-as-its-trx-treasury-kept-growing/",
-      "news:https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
-      "news:https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-      "news:https://cryptoslate.com/a-36-billion-lawsuit-just-turned-kalshis-40-billion-valuation-race-into-a-federal-market-emergency/",
-      "news:https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
       "news:https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
       "news:https://cryptoslate.com/21shares-xrp-etf-loses-54-of-assets-as-redemptions-lock-in-13-4-million-loss/",
       "news:https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3117,7 +3106,18 @@
       "news:https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo",
       "news:https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
       "news:https://cryptoslate.com/elon-musk-and-anthropic-unveil-ai-wealth-sharing-plans-that-could-reach-over-110-billion/",
-      "news:https://cryptoslate.com/bitcoins-next-selloff-could-be-amplified-by-the-traders-still-betting-on-its-recovery/"
+      "news:https://cryptoslate.com/bitcoins-next-selloff-could-be-amplified-by-the-traders-still-betting-on-its-recovery/",
+      "news:https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+      "news:https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+      "news:https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "news:https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "news:https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+      "news:https://cryptoslate.com/bnb-chain-burns-1-2b-in-october-tokens-leaving-real-supply-impact-hidden/",
+      "news:https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo/",
+      "news:https://cryptoslate.com/jpmorgan-models-bitcoin-reaching-385000-in-10-year-bull-case-despite-ceo-jamie-dimons-criticism/"
     ]
   },
   "init": {
