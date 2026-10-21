@@ -118,8 +118,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
-      "news:https://cryptoslate.com/21shares-xrp-etf-loses-54-of-assets-as-redemptions-lock-in-13-4-million-loss/",
       "news:https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
       "news:https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
@@ -3117,7 +3115,9 @@
       "news:https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
       "news:https://cryptoslate.com/bnb-chain-burns-1-2b-in-october-tokens-leaving-real-supply-impact-hidden/",
       "news:https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo/",
-      "news:https://cryptoslate.com/jpmorgan-models-bitcoin-reaching-385000-in-10-year-bull-case-despite-ceo-jamie-dimons-criticism/"
+      "news:https://cryptoslate.com/jpmorgan-models-bitcoin-reaching-385000-in-10-year-bull-case-despite-ceo-jamie-dimons-criticism/",
+      "news:https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/krakens-80-stablecoin-fee-gap-exposes-hidden-costs/"
     ]
   },
   "init": {
