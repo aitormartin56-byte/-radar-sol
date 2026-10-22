@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:20:32.000Z",
+  "updated_at": "2026-10-22T00:06:52.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 29,
+      "time_left": "cierra en 1 día",
+      "submissions": 30,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
     },
@@ -25,7 +25,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 22 días",
+      "time_left": "cierra en 21 días",
       "submissions": 13,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 23 días",
-      "submissions": 250,
+      "submissions": 251,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
