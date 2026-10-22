@@ -119,14 +119,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "news:https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-      "news:https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-      "news:https://cryptoslate.com/coinbase-and-14-other-x402-facilitators-failed-security-tests-built-for-the-coming-ai-agent-economy/",
-      "news:https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago/",
-      "news:https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/morgan-stanleys-bitcoin-etf-drew-371-million-of-share-contributions-while-bitcoin-erased-66-8-million/",
       "news:https://cryptoslate.com/bit-digital-pledged-74-of-its-staked-ethereum-position-to-a-loan-that-can-trigger-a-24-hour-collateral-call/",
       "news:https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/soluna-has-6-3-gw-of-data-center-projects-on-paper-only-192-mw-are-operating/",
@@ -3118,7 +3110,15 @@
       "news:https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
       "news:https://cryptoslate.com/xaman-xrp-yield-fees/",
       "news:https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice/"
+      "news:https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice/",
+      "news:https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+      "news:https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight/",
+      "news:https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+      "news:https://cryptoslate.com/sideswap-reopens-bitcoin-swaps-while-liquid-reserves-stay-locked/"
     ]
   },
   "init": {
