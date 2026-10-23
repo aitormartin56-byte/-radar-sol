@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:26:55.000Z",
+  "updated_at": "2026-10-23T06:20:09.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
-      "time_left": "cierra en 20h",
+      "time_left": "cierra en 15h",
       "submissions": 40,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
       "time_left": "cierra en 20 días",
-      "submissions": 13,
+      "submissions": 14,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 22 días",
-      "submissions": 265,
+      "submissions": 266,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
-      "time_left": "cierra en 32 días",
-      "submissions": 113,
+      "time_left": "cierra en 31 días",
+      "submissions": 115,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
