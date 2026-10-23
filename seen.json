@@ -120,11 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-      "news:https://cryptoslate.com/another-public-company-abandons-bitcoin-playbook-after-treasury-volatility-wiped-out-profits-and-triggered-a-22-million-loss/",
-      "news:https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
       "news:https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
       "news:https://cryptoslate.com/bitcoins-etf-rebound-just-lost-38-of-its-gains-in-four-sessions-as-btc-fell-below-63000/",
       "news:https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3114,12 @@
       "news:https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
       "news:https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
       "news:https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays/",
-      "news:https://cryptoslate.com/railway-credential-resets-crypto-theft-allegation/"
+      "news:https://cryptoslate.com/railway-credential-resets-crypto-theft-allegation/",
+      "news:https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+      "news:https://cryptoslate.com/xrpl-recovers-from-network-slowdown-as-critical-security-upgrade-faces-two-week-delay/"
     ]
   },
   "init": {
