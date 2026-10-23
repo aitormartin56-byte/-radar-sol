@@ -120,13 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/t20-and-t42-suranceplus-raise-oxbridge/",
-      "news:https://cryptoslate.com/bitcoin-market-cap-16-trillion-2030-model-etf-reality-check-us/",
-      "news:https://cryptoslate.com/how-a-public-firms-70-million-altcoin-bet-crashed-77-and-left-it-facing-nasdaq-delisting/",
-      "news:https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/this-public-company-quit-solar-for-a-5-million-bitcoin-bet-now-it-has-just-166000-in-cash/",
-      "news:https://cryptoslate.com/how-a-bitcoin-treasury-company-sold-600-btc-to-cut-debt-but-still-ended-up-with-60-million-due-in-december/",
-      "news:https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
@@ -3119,7 +3112,14 @@
       "news:https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
       "news:https://cryptoslate.com/spacex-perpetual-futures-traded-about-6-billion-after-earnings/",
       "news:https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis/",
-      "news:https://cryptoslate.com/coinbase-to-drop-this-japanese-yen-stablecoin-years-after-its-price-crash-sparked-investor-lawsuits/"
+      "news:https://cryptoslate.com/coinbase-to-drop-this-japanese-yen-stablecoin-years-after-its-price-crash-sparked-investor-lawsuits/",
+      "news:https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "news:https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "news:https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts/",
+      "news:https://cryptoslate.com/aave-changes-usdt-borrowing-rules-and-loan-costs-suddenly-jump/",
+      "news:https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/"
     ]
   },
   "init": {
