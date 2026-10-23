@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-23T11:56:51.000Z",
+  "updated_at": "2026-10-23T16:48:19.000Z",
   "counts": {
-    "bounties": 4,
+    "bounties": 5,
     "grants": 47,
     "news": 0
   },
@@ -13,9 +13,21 @@
       "type": "bounty",
       "sponsor": "Daejin",
       "deadline": "2026-10-23T21:59:59.000Z",
-      "time_left": "cierra en 10h",
-      "submissions": 46,
+      "time_left": "cierra en 5h",
+      "submissions": 49,
       "url": "https://superteam.fun/earn/listing/launch-and-trade-on-daejin-write-a-twitter-thread-and-create-a-market",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Motion Graphics Designer - Kimia Product Launch Film for X",
+      "reward": "250–300 USDC",
+      "type": "project",
+      "sponsor": "Kimia",
+      "deadline": "2026-10-25T18:29:59.000Z",
+      "time_left": "cierra en 2 días",
+      "submissions": 3,
+      "url": "https://superteam.fun/earn/listing/motion-graphics-designer-kimia-product-launch-film-for-x",
       "featured": false
     },
     {
@@ -38,7 +50,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 22 días",
-      "submissions": 268,
+      "submissions": 271,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +62,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 31 días",
-      "submissions": 117,
+      "submissions": 119,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
