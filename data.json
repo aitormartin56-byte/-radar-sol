@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T18:37:09.000Z",
+  "updated_at": "2026-10-24T21:25:26.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "project",
       "sponsor": "Kimia",
       "deadline": "2026-10-25T18:29:59.000Z",
-      "time_left": "cierra en 23h",
-      "submissions": 38,
+      "time_left": "cierra en 21h",
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/motion-graphics-designer-kimia-product-launch-film-for-x",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 20 días",
-      "submissions": 295,
+      "submissions": 296,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
