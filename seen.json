@@ -120,11 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/tron-deflationary-era-jst-sun-btt-win-buybacks/",
-      "news:https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
-      "news:https://cryptoslate.com/cardano-has-two-weeks-to-avoid-a-governance-freeze-as-4-committee-seats-expire/",
-      "news:https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
       "news:https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
       "news:https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
@@ -3119,7 +3114,12 @@
       "news:https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
       "news:https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
       "news:https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
-      "news:https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/"
+      "news:https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/",
+      "news:https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+      "news:https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "news:https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
+      "news:https://cryptoslate.com/nyses-owner-is-backing-24-7-stock-tokens-without-wall-streets-usual-price-rules/",
+      "news:https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue/"
     ]
   },
   "init": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T15:30:54.000Z",
+  "updated_at": "2026-10-24T18:37:09.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "project",
       "sponsor": "Kimia",
       "deadline": "2026-10-25T18:29:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 32,
+      "time_left": "cierra en 23h",
+      "submissions": 38,
       "url": "https://superteam.fun/earn/listing/motion-graphics-designer-kimia-product-launch-film-for-x",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 21 días",
-      "submissions": 293,
+      "time_left": "cierra en 20 días",
+      "submissions": 295,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 30 días",
-      "submissions": 128,
+      "submissions": 129,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     }
