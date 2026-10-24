@@ -120,9 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
       "news:https://cryptoslate.com/safepal-breach-exposes-40000-customers-as-hardware-wallet-attacks-escalate-from-data-leaks-to-100-million-theft/",
       "news:https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
       "news:https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
@@ -3119,7 +3116,10 @@
       "news:https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
       "news:https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts/",
       "news:https://cryptoslate.com/aave-changes-usdt-borrowing-rules-and-loan-costs-suddenly-jump/",
-      "news:https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/"
+      "news:https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/",
+      "news:https://cryptoslate.com/jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-justs-ecosystem-trio-solidifies-jst-token-value/",
+      "news:https://cryptoslate.com/new-york-demands-1-3b-from-novatech-and-11000-victims-face-delay/",
+      "news:https://cryptoslate.com/3-3m-users-gain-hsbc-redcoin-yet-1-strict-rule-blocks-them/"
     ]
   },
   "init": {
