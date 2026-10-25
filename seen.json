@@ -120,7 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/nasdaq-healthcare-company-promised-bitcoin-would-safeguard-its-future-then-sold-every-coin-to-stay-afloat/",
       "news:https://cryptoslate.com/why-accepting-crypto-payments-over-e1000-on-bitstamp-can-freeze-your-assets-starting-tomorrow/",
       "news:https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
       "news:https://cryptoslate.com/ethereums-next-major-upgrade-just-slipped-to-late-2026-forcing-a-two-week-scramble-to-save-its-2027-roadmap/",
@@ -3119,7 +3118,8 @@
       "news:https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue/",
       "news:https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/",
       "news:https://cryptoslate.com/circles-new-usdc-auctions-let-institutions-collect-the-fees-others-pay-to-cash-out/",
-      "news:https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/"
+      "news:https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/",
+      "news:https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/"
     ]
   },
   "init": {
