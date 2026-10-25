@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-10-25T17:27:00.000Z",
+  "updated_at": "2026-10-25T19:53:40.000Z",
   "counts": {
-    "bounties": 4,
+    "bounties": 3,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Motion Graphics Designer - Kimia Product Launch Film for X",
-      "reward": "250–300 USDC",
-      "type": "project",
-      "sponsor": "Kimia",
-      "deadline": "2026-10-25T18:29:59.000Z",
-      "time_left": "cierra en 1h",
-      "submissions": 56,
-      "url": "https://superteam.fun/earn/listing/motion-graphics-designer-kimia-product-launch-film-for-x",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Panta x NectarFi Trading Competition Bounty",
@@ -26,7 +14,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
       "time_left": "cierra en 18 días",
-      "submissions": 17,
+      "submissions": 18,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
     },
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 20 días",
-      "submissions": 319,
+      "time_left": "cierra en 19 días",
+      "submissions": 322,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
