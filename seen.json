@@ -120,7 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
       "news:https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
       "news:https://cryptoslate.com/bitcoin-purchases-halted-after-data-breach-puts-250000-crypto-users-at-risk/",
       "news:https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3118,8 @@
       "news:https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap/",
       "news:https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
       "news:https://cryptoslate.com/initia-hack-drove-its-usdc-bridge-reserve-down-to-63-as-withdrawals-failed/",
-      "news:https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/"
+      "news:https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/",
+      "news:https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/"
     ]
   },
   "init": {
