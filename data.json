@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T22:20:41.000Z",
+  "updated_at": "2026-10-26T00:34:35.000Z",
   "counts": {
     "bounties": 3,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 18 días",
+      "time_left": "cierra en 17 días",
       "submissions": 18,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 19 días",
-      "submissions": 323,
+      "submissions": 325,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
