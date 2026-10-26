@@ -120,12 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-      "news:https://cryptoslate.com/agave-4-2-activation-target-unconfirmed/",
-      "news:https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-      "news:https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-      "news:https://cryptoslate.com/forced-liquidations-begin-in-30-days-for-business-crypto-accounts-missing-new-verification-rules-on-bybit/",
-      "news:https://decrypt.co/375821/prediction-fed-rate-change-september",
       "news:https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/crypto-miner-warns-of-potential-bankruptcy-as-unclosed-financing-leaves-33-million-in-maturing-debt-exposed/",
       "news:https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
@@ -3119,7 +3113,13 @@
       "news:https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
       "news:https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/canada-proposes-direct-stablecoin-cash-outs-for-small-holders-with-a-1-fee-cap/",
+      "news:https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/"
     ]
   },
   "init": {
