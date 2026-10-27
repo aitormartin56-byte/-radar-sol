@@ -120,16 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-      "news:https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
-      "news:https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-      "news:https://cryptoslate.com/how-crypto-turned-a-68-point-deficit-into-a-market-lead-as-bitcoin-and-top-altcoins-outrun-the-nasdaq/",
-      "news:https://cryptoslate.com/bitcoin-price-hits-69500-as-over-400m-of-shorts-liquidated-because-us-doubles-treasury-debt-buybacks-to-crush-long-term-yields/",
-      "news:https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
-      "news:https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/circles-renewed-coinbase-deal-creates-two-ways-to-challenge-coinbases-usdc-payouts-but-neither-works-quickly/",
       "news:https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
       "news:https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/375987/kalshi-copper-perpetual-futures",
@@ -3119,7 +3109,17 @@
       "news:https://cryptoslate.com/iran-linked-bitcoin-activity-fell-about-80-then-rebounded-during-the-blackout/",
       "news:https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
       "news:https://cryptoslate.com/japans-services-inflation-split-complicates-the-boj-outlook-before-fridays-decision/",
-      "news:https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/"
+      "news:https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
+      "news:https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
+      "news:https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
+      "news:https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
+      "news:https://cryptoslate.com/zcashs-125-million-funding-fight-widens-as-tyler-winklevoss-calls-to-end-its-usaid/",
+      "news:https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/",
+      "news:https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/"
     ]
   },
   "init": {

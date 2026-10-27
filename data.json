@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:51:54.000Z",
+  "updated_at": "2026-10-27T23:34:09.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-02T03:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 89,
+      "submissions": 99,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -25,7 +25,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 16 días",
+      "time_left": "cierra en 15 días",
       "submissions": 22,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 17 días",
-      "submissions": 361,
+      "submissions": 368,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 27 días",
-      "submissions": 163,
+      "submissions": 166,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -61,7 +61,7 @@
       "type": "bounty",
       "sponsor": "Sempai HQ",
       "deadline": "2026-12-04T22:59:59.000Z",
-      "time_left": "cierra en 38 días",
+      "time_left": "cierra en 37 días",
       "submissions": 1,
       "url": "https://superteam.fun/earn/listing/write-an-original-science-fiction-novel-on-sempai-hq",
       "featured": false
