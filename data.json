@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27T08:14:11.000Z",
+  "updated_at": "2026-10-27T14:49:06.000Z",
   "counts": {
-    "bounties": 4,
+    "bounties": 5,
     "grants": 47,
     "news": 0
   },
@@ -14,7 +14,7 @@
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-02T03:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 70,
+      "submissions": 81,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 18 días",
-      "submissions": 350,
+      "submissions": 354,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,8 +50,20 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 27 días",
-      "submissions": 159,
+      "submissions": 162,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write an original science fiction novel on Sempai HQ.",
+      "reward": "10 USDC",
+      "type": "bounty",
+      "sponsor": "Sempai HQ",
+      "deadline": "2026-12-04T22:59:59.000Z",
+      "time_left": "cierra en 38 días",
+      "submissions": 0,
+      "url": "https://superteam.fun/earn/listing/write-an-original-science-fiction-novel-on-sempai-hq",
       "featured": false
     }
   ],
