@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T23:34:09.000Z",
+  "updated_at": "2026-10-28T04:28:01.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-02T03:59:59.000Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 99,
+      "time_left": "cierra en 4 días",
+      "submissions": 107,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
       "time_left": "cierra en 15 días",
-      "submissions": 22,
+      "submissions": 23,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 17 días",
-      "submissions": 368,
+      "submissions": 370,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -49,7 +49,7 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
-      "time_left": "cierra en 27 días",
+      "time_left": "cierra en 26 días",
       "submissions": 166,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false

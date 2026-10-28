@@ -120,12 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-      "news:https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/375987/kalshi-copper-perpetual-futures",
-      "news:https://cryptoslate.com/hashdex-liquidates-14-7-million-bitcoin-etf-as-ibit-draws-143-6-million/",
-      "news:https://cryptoslate.com/bitcoin-holders-face-potential-exchange-freezes-as-new-chain-rollout-tests-replay-safety-and-market-stability/",
-      "news:https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
       "news:https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
       "news:https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3113,13 @@
       "news:https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
       "news:https://cryptoslate.com/zcashs-125-million-funding-fight-widens-as-tyler-winklevoss-calls-to-end-its-usaid/",
       "news:https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/",
-      "news:https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/"
+      "news:https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+      "news:https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
+      "news:https://cryptoslate.com/x100-governance-flaws-trigger-6m-loss-due-to-a-flash-loan/",
+      "news:https://cryptoslate.com/polymarket-reforms-bitcoin-contracts-and-binance-trading-spikes-immediately-drop/"
     ]
   },
   "init": {
