@@ -120,13 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
-      "news:https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
-      "news:https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network/",
-      "news:https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-      "news:https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
-      "news:https://cryptoslate.com/bitcoins-69000-breakout-now-hinges-on-yields-after-fed-warns-more-tightening-may-be-needed/",
       "news:https://cryptoslate.com/down-50-on-crypto-and-burning-8-million-in-cash-one-nasdaq-firm-pivots-to-event-robots-to-survive/",
       "news:https://cryptoslate.com/can-tokenized-assets-continue-to-scale-faster-than-the-revenue-models-behind-them/",
       "news:https://cryptoslate.com/bitcoin-treasury-hyperscale-sells-686-btc-to-clear-loans-but-says-cash-wont-cover-next-12-months/",
@@ -3119,7 +3112,14 @@
       "news:https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
       "news:https://cryptoslate.com/x100-governance-flaws-trigger-6m-loss-due-to-a-flash-loan/",
-      "news:https://cryptoslate.com/polymarket-reforms-bitcoin-contracts-and-binance-trading-spikes-immediately-drop/"
+      "news:https://cryptoslate.com/polymarket-reforms-bitcoin-contracts-and-binance-trading-spikes-immediately-drop/",
+      "news:https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+      "news:https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
+      "news:https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/",
+      "news:https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed/"
     ]
   },
   "init": {
