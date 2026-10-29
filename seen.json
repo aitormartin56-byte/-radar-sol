@@ -120,9 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
-      "news:https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/solanas-50000-sol-security-contest-did-not-cover-a-clock-attack-disclosed-months-earlier/",
       "news:https://cryptoslate.com/this-bitcoin-miner-just-signed-a-350-million-ai-deal-but-it-needs-185-million-to-make-it-work/",
@@ -3119,7 +3116,10 @@
       "news:https://cryptoslate.com/coinbase-says-it-wasnt-breached-but-hackers-dont-need-to-steal-crypto-to-hurt-users/",
       "news:https://cryptoslate.com/polymarket-built-a-14-billion-us-trading-business-almost-entirely-on-sports-bets/",
       "news:https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss/",
-      "news:https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access/"
+      "news:https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access/",
+      "news:https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
+      "news:https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses/"
     ]
   },
   "init": {
