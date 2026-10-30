@@ -120,17 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/illuvium-says-six-months-of-cuts-bought-it-another-year-as-mmo-becomes-its-main-remaining-bet/",
-      "news:https://cryptoslate.com/adam-backs-bitcoin-treasury-deal-died-but-its-15m-obligation-did-not/",
-      "news:https://cryptoslate.com/treasury-just-put-a-deadline-on-offshore-stablecoins-access-to-us-customers/",
-      "news:https://cryptoslate.com/bitcoin-hits-80000s-doorstep-just-as-the-etf-bid-disappears-for-the-weekend/",
-      "news:https://cryptoslate.com/bitcoin-crash-forced-riot-to-pledge-1825-btc-but-this-huge-rally-may-now-free-1500-btc/",
-      "news:https://cryptoslate.com/just-1-of-wallets-control-133m-in-midterm-odds-on-polymarket-creating-a-dangerous-illusion-of-mass-public-consensus/",
-      "news:https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-      "news:https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract/",
-      "news:https://cryptoslate.com/binance-left-russia-years-ago-but-moscow-still-got-customer-records-used-in-a-terrorism-case/",
-      "news:https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
       "news:https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error/",
       "news:https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback/",
       "news:https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
@@ -3119,7 +3108,18 @@
       "news:https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash/",
       "news:https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/",
       "news:https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom/",
-      "news:https://cryptoslate.com/circle-wants-sec-to-erase-a-costly-wall-street-rule-holding-stablecoins-back/"
+      "news:https://cryptoslate.com/circle-wants-sec-to-erase-a-costly-wall-street-rule-holding-stablecoins-back/",
+      "news:https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+      "news:https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "news:https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+      "news:https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/",
+      "news:https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck/",
+      "news:https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/",
+      "news:https://cryptoslate.com/kalshis-senate-contracts-can-settle-on-different-answers-to-the-same-election/",
+      "news:https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window/"
     ]
   },
   "init": {
