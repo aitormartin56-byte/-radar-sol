@@ -120,16 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error/",
-      "news:https://cryptoslate.com/clarity-gets-a-september-senate-floor-date-as-cftc-signals-a-limited-regulatory-fallback/",
-      "news:https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "news:https://cryptoslate.com/inside-transfer-wipes-out-1m-executive-debt-as-crypto-firm-offloads-payments-business-without-independent-valuation/",
-      "news:https://cryptoslate.com/a-1-billion-meme-coin-acquisition-puts-a-massive-167-share-dilution-down-to-a-single-vote-for-zerostack/",
-      "news:https://cryptoslate.com/reaching-instant-27ms-validation-on-bitcoin-will-take-17-gpu-years-of-compute-power/",
-      "news:https://cryptoslate.com/everyday-crypto-users-face-monthly-tax-bills-on-total-asset-value-if-covered-brokers-fail-to-collect-under-new-illinois-rules/",
-      "news:https://cryptoslate.com/grayscales-zcash-etf-filing-proposes-a-2-5-fee-and-a-potential-34-dcg-stake/",
-      "news:https://cryptoslate.com/coldcard-now-requires-65-key-presses-after-seed-exploit-while-exposed-funds-still-must-move/",
-      "news:https://cryptoslate.com/seamless-access-to-global-crypto-platforms-could-evaporate-for-locals-under-nigerias-proposed-%e2%82%a62-billion-capital-floor/",
       "news:https://cryptoslate.com/america-is-creating-a-new-class-of-crypto-banks-but-they-arent-really-banks/",
       "news:https://cryptoslate.com/ripple-relies-on-locked-xrp-reserves-to-back-a-275-million-institutional-credit-line/",
       "news:https://cryptoslate.com/as-foreign-investors-dump-29-billion-in-treasury-bills-washington-pivots-to-stablecoin-issuers-to-back-us-debt/",
@@ -3119,7 +3109,17 @@
       "news:https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck/",
       "news:https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/",
       "news:https://cryptoslate.com/kalshis-senate-contracts-can-settle-on-different-answers-to-the-same-election/",
-      "news:https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window/"
+      "news:https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window/",
+      "news:https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+      "news:https://cryptoslate.com/circle-starts-cutting-legacy-usdc-app-transfer-limits-on-october-31/",
+      "news:https://cryptoslate.com/hackers-drain-9400-sol-from-bot-wallets-and-a-copied-key-is-blamed/",
+      "news:https://cryptoslate.com/allium-restores-18-major-chains-but-only-specific-platforms-are-safe/",
+      "news:https://cryptoslate.com/20-institutions-join-dtcc-token-service-but-only-34-securities-qualify/",
+      "news:https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/"
     ]
   },
   "init": {
