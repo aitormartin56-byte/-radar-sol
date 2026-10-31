@@ -120,12 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
-      "news:https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-      "news:https://cryptoslate.com/users-warned-to-pull-funds-immediately-as-eu-sanctions-force-crypto-platform-into-withdrawal-only-mode/",
-      "news:https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
       "news:https://cryptoslate.com/fidelity-grants-etfs-power-to-stake-100-of-crypto-while-outlining-exit-delay-risks/",
       "news:https://cryptoslate.com/ai-scammers-no-longer-need-to-hack-your-wallet-if-they-can-convince-you-to-use-it-for-them/",
       "news:https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3113,13 @@
       "news:https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
       "news:https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
       "news:https://cryptoslate.com/prediction-markets-robinhood-crypto-revenue/",
-      "news:https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/"
+      "news:https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
+      "news:https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds/",
+      "news:https://cryptoslate.com/banks-are-owed-349b-by-private-credit-funds-that-may-not-be-collecting-cash-from-borrowers/",
+      "news:https://cryptoslate.com/chainalysis-breach-customer-names-emails-roles/",
+      "news:https://cryptoslate.com/saylor-calls-new-bitcoin-bull-market-but-strategys-own-numbers-reveal-a-costly-problem/"
     ]
   },
   "init": {

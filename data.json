@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:07:27.000Z",
+  "updated_at": "2026-10-31T19:27:51.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-02T03:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 224,
+      "submissions": 230,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 14 días",
-      "submissions": 446,
+      "time_left": "cierra en 13 días",
+      "submissions": 450,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-18T20:59:59.999Z",
       "time_left": "cierra en 18 días",
-      "submissions": 51,
+      "submissions": 54,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
