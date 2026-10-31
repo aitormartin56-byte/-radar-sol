@@ -120,15 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
-      "news:https://cryptoslate.com/zilliqa-points-to-hardware-wallet-flaw-discarding-entropy-to-expose-crypto-keys-enabling-683m-zil-theft/",
-      "news:https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/ascendex-pushes-for-insolvency-and-rescue-deals-as-claim-portal-to-launch-september-5/",
-      "news:https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-      "news:https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
-      "news:https://cryptoslate.com/solana-stakers-face-yield-cuts-as-a-treasury-firm-fights-to-protect-99-4-of-its-revenue/",
       "news:https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
       "news:https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
@@ -3119,7 +3110,16 @@
       "news:https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
       "news:https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup/",
       "news:https://cryptoslate.com/westpac-limits-crypto-exchange-deposits-driven-by-fraud-rules/",
-      "news:https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/"
+      "news:https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/",
+      "news:https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+      "news:https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+      "news:https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
+      "news:https://cryptoslate.com/prediction-markets-robinhood-crypto-revenue/",
+      "news:https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/"
     ]
   },
   "init": {
