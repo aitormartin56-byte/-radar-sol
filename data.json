@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:48:49.000Z",
+  "updated_at": "2026-10-31T02:03:55.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -14,7 +14,7 @@
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-02T03:59:59.000Z",
       "time_left": "cierra en 2 días",
-      "submissions": 200,
+      "submissions": 204,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -25,7 +25,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 13 días",
+      "time_left": "cierra en 12 días",
       "submissions": 34,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 438,
+      "submissions": 439,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-18T20:59:59.999Z",
       "time_left": "cierra en 18 días",
-      "submissions": 41,
+      "submissions": 42,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 24 días",
-      "submissions": 189,
+      "submissions": 190,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -73,7 +73,7 @@
       "type": "bounty",
       "sponsor": "Sempai HQ",
       "deadline": "2026-12-04T22:59:59.000Z",
-      "time_left": "cierra en 35 días",
+      "time_left": "cierra en 34 días",
       "submissions": 8,
       "url": "https://superteam.fun/earn/listing/write-an-original-science-fiction-novel-on-sempai-hq",
       "featured": false
