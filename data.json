@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:03:55.000Z",
+  "updated_at": "2026-10-31T08:41:22.000Z",
   "counts": {
     "bounties": 6,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-02T03:59:59.000Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 204,
+      "time_left": "cierra en 1 día",
+      "submissions": 220,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 34,
+      "submissions": 35,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 14 días",
-      "submissions": 439,
+      "submissions": 442,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-18T20:59:59.999Z",
       "time_left": "cierra en 18 días",
-      "submissions": 42,
+      "submissions": 47,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
-      "time_left": "cierra en 24 días",
-      "submissions": 190,
+      "time_left": "cierra en 23 días",
+      "submissions": 192,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "Sempai HQ",
       "deadline": "2026-12-04T22:59:59.000Z",
       "time_left": "cierra en 34 días",
-      "submissions": 8,
+      "submissions": 9,
       "url": "https://superteam.fun/earn/listing/write-an-original-science-fiction-novel-on-sempai-hq",
       "featured": false
     }
