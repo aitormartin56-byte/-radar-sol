@@ -120,11 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/tethers-120-million-uruguay-mining-failure-now-shadows-its-next-bitcoin-bet-in-brazil/",
-      "news:https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
-      "news:https://cryptoslate.com/bitcoin-tops-80000-as-treasury-weighs-950-billion-cash-pile-for-bond-buybacks/",
       "news:https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
@@ -3119,7 +3114,12 @@
       "news:https://cryptoslate.com/ethereum-validators-pocket-30-million-windfall-as-binance-hackers-lose-119-million-in-rushed-trades/",
       "news:https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
       "news:https://cryptoslate.com/fbi-blames-north-korea-for-6-billion-binance-hack-urges-thorchain-to-block-stolen-funds/",
-      "news:https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid/"
+      "news:https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid/",
+      "news:https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+      "news:https://cryptoslate.com/crypto-scammers-used-secs-website-to-lure-investors-into-alleged-130-million-fraud/",
+      "news:https://cryptoslate.com/cursor-urges-credential-resets-after-malicious-claude-code-marketplace-update/",
+      "news:https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/",
+      "news:https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/"
     ]
   },
   "init": {
