@@ -120,7 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/fidelity-grants-etfs-power-to-stake-100-of-crypto-while-outlining-exit-delay-risks/",
       "news:https://cryptoslate.com/ai-scammers-no-longer-need-to-hack-your-wallet-if-they-can-convince-you-to-use-it-for-them/",
       "news:https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules/",
@@ -3119,7 +3118,8 @@
       "news:https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds/",
       "news:https://cryptoslate.com/banks-are-owed-349b-by-private-credit-funds-that-may-not-be-collecting-cash-from-borrowers/",
       "news:https://cryptoslate.com/chainalysis-breach-customer-names-emails-roles/",
-      "news:https://cryptoslate.com/saylor-calls-new-bitcoin-bull-market-but-strategys-own-numbers-reveal-a-costly-problem/"
+      "news:https://cryptoslate.com/saylor-calls-new-bitcoin-bull-market-but-strategys-own-numbers-reveal-a-costly-problem/",
+      "news:https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/"
     ]
   },
   "init": {
