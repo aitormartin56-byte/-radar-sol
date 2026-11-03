@@ -120,17 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/a-zero-balance-bug-let-empty-wallets-seize-control-of-82-provenance-assets/",
-      "news:https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/bitcoin-traders-hedged-60k-and-loaded-up-above-78k-leaving-the-low-70k-exposed/",
-      "news:https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/profit-connect-owner-convicted-over-24m-ai-crypto-fraud-scheme/",
-      "news:https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
-      "news:https://cryptoslate.com/bitcoins-80000-rally-just-flipped-from-short-squeeze-to-long-squeeze/",
-      "news:https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
       "news:https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
@@ -3119,7 +3108,18 @@
       "news:https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
       "news:https://cryptoslate.com/core-lightning-nodes-can-keep-crashing-after-an-upgrade-because-the-trigger-stays-on-disk/",
       "news:https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
-      "news:https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/"
+      "news:https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/",
+      "news:https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+      "news:https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/",
+      "news:https://cryptoslate.com/binance-can-cut-a-winning-bitcoin-hedge-even-when-customer-assets-are-backed/",
+      "news:https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+      "news:https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/",
+      "news:https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+      "news:https://cryptoslate.com/strategys-deployable-cash-falls-45-as-buybacks-outpace-bitcoin-purchases/"
     ]
   },
   "init": {
