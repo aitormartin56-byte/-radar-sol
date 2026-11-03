@@ -1,11 +1,461 @@
 {
-  "updated_at": "2026-11-03T03:37:27.000Z",
+  "updated_at": "2026-11-03T11:40:46.000Z",
   "counts": {
-    "bounties": 0,
-    "grants": 0,
+    "bounties": 6,
+    "grants": 47,
     "news": 0
   },
-  "bounties": [],
-  "grants": [],
+  "bounties": [
+    {
+      "kind": "bounty",
+      "title": "RaptorX Research Challenge: Ask Better Questions. Find Better Alpha.",
+      "reward": "125 USDC",
+      "type": "bounty",
+      "sponsor": "RaptorX Labs",
+      "deadline": "2026-11-08T02:59:59.000Z",
+      "time_left": "cierra en 4 días",
+      "submissions": 330,
+      "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Panta x NectarFi Trading Competition Bounty",
+      "reward": "500 USDG",
+      "type": "bounty",
+      "sponsor": "Panta ",
+      "deadline": "2026-11-12T22:59:59.000Z",
+      "time_left": "cierra en 9 días",
+      "submissions": 46,
+      "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write a thread on $CHIMP Fair Launch - Part 1",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "ChimpX",
+      "deadline": "2026-11-14T18:29:59.000Z",
+      "time_left": "cierra en 11 días",
+      "submissions": 499,
+      "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Content About KriptoK · 200 USDC Creator Challenge",
+      "reward": "200 USDC",
+      "type": "bounty",
+      "sponsor": "KriptoK",
+      "deadline": "2026-11-18T20:59:59.999Z",
+      "time_left": "cierra en 15 días",
+      "submissions": 93,
+      "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Content on Premier League Predictions with worm 🪱⚽",
+      "reward": "500 USDC",
+      "type": "bounty",
+      "sponsor": "worm ",
+      "deadline": "2026-11-24T02:59:59.000Z",
+      "time_left": "cierra en 20 días",
+      "submissions": 222,
+      "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Write an original science fiction novel on Sempai HQ.",
+      "reward": "10 USDC",
+      "type": "bounty",
+      "sponsor": "Sempai HQ",
+      "deadline": "2026-12-04T22:59:59.000Z",
+      "time_left": "cierra en 31 días",
+      "submissions": 10,
+      "url": "https://superteam.fun/earn/listing/write-an-original-science-fiction-novel-on-sempai-hq",
+      "featured": false
+    }
+  ],
+  "grants": [
+    {
+      "kind": "grant",
+      "title": "Build for Breakpoint: Agentic Grants",
+      "reward": "200 USDG",
+      "sponsor": "Superteam UK",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/build-for-breakpoint"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Vietnam)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Vietnam",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-vietnam"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Thailand)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Thailand ",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-thailand"
+    },
+    {
+      "kind": "grant",
+      "title": "Agentic Engineering Grants",
+      "reward": "200 USDG",
+      "sponsor": "Superteam",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/agentic-engineering"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (USA)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam USA",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-usa"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation USA Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam USA",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-usa-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Singapore)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Singapore",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-singapore"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Balkan)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Balkan",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-balkan"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Malaysia)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Malaysia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-malaysia"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Nigeria)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Nigeria",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-nigeria"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Germany)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Germany",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-germany"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (UK)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam UK",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-uk"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (India)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam India",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-india"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Canada)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Canada",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-canada"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation India Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam India",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-india-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Korea)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Korea",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-korea"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Korea Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Korea",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/korea-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation UK Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam UK",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-uk-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Nigeria Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Nigeria",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-nigeria-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Ireland Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Ireland",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-ireland-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Indonesia)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Indonesia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-indonesia"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Georgia Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Georgia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-georgia-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Netherlands Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Netherlands",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-netherlands-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Spain)",
+      "reward": "0–500 USDG",
+      "sponsor": "La Familia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-spain"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Singapore Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Singapore",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-sg-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Kazakhstan Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Kazakhstan",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-kazakhstan-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Ireland)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Ireland",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-ireland"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Canada Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Canada",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-canada-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Germany Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Germany",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-germany-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Kazakhstan)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Kazakhstan",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-kazakhstan"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Netherlands)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Netherlands",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-netherlands"
+    },
+    {
+      "kind": "grant",
+      "title": "La Familia Spain Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "La Familia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/spain-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation UAE Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam UAE",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-UAE-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (UAE)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam UAE",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-uae"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Brazil Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Brasil",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-brazil-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Brazil)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Brasil",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-brazil"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Malaysia Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Malaysia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-malaysia-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Balkan Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Balkan",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-balkan-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Poland Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Poland",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/Poland-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Poland)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Poland",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-poland"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Australia)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Australia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-australia"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Australia Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Australia",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/australia-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Turkey)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Turkey",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/touching-grass-turkey"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Turkey Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Turkey",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-turkey-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "The Touching Grass Fund (Ukraine)",
+      "reward": "0–500 USDG",
+      "sponsor": "Superteam Ukraine",
+      "applications": 41,
+      "url": "https://superteam.fun/earn/grants/touching-grass-ukraine"
+    },
+    {
+      "kind": "grant",
+      "title": "Solana Foundation Ukraine Grants",
+      "reward": "0–10000 USDG",
+      "sponsor": "Superteam Ukraine",
+      "applications": 41,
+      "url": "https://superteam.fun/earn/grants/solana-foundation-ukraine-grants"
+    },
+    {
+      "kind": "grant",
+      "title": "Startup Accelerator Grant",
+      "reward": "0–10000 USDC",
+      "sponsor": "DD.xyz by Webacy",
+      "applications": 0,
+      "url": "https://superteam.fun/earn/grants/startup-accelerator-grant"
+    }
+  ],
   "news": []
 }
