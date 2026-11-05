@@ -120,15 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-      "news:https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
-      "news:https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
-      "news:https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-      "news:https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
-      "news:https://decrypt.co/376797/uk-police-seize-1-4m-in-bitcoin-traced-to-shuttered-darknet-markets",
-      "news:https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
-      "news:https://decrypt.co/376781/judge-rules-trump-administration-illegally-retaliated-against-anthropic-over-ai-red-lines",
-      "news:https://cryptoslate.com/blackrocks-bitcoin-etf-regains-key-weekly-options-expiries-after-rule-overhaul/",
       "news:https://cryptoslate.com/usdc-gets-promoted-to-the-premier-league-with-chelsea-main-shirt-sponsor-deal/",
       "news:https://cryptoslate.com/blackrock-just-pulled-in-115-of-all-bitcoin-etf-inflows-in-a-single-day-as-rival-funds-bleed-cash/",
       "news:https://cryptoslate.com/jpmorgans-21-million-ibit-bitcoin-etf-bet-just-missed-its-escape-hatch-the-next-wave-adds-a-6-cost/",
@@ -3119,7 +3110,16 @@
       "news:https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
       "news:https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
       "news:https://cryptoslate.com/weekend-stock-tokens-predict-monday-open-but-guessing-up-scores-55/",
-      "news:https://cryptoslate.com/nvidia-stock-tokens-show-price-spreads-but-slippage-crushes-the-arbitrage/"
+      "news:https://cryptoslate.com/nvidia-stock-tokens-show-price-spreads-but-slippage-crushes-the-arbitrage/",
+      "news:https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut/",
+      "news:https://cryptoslate.com/altcoin-profit-share-sinks-to-12-as-short-term-traders-take-losses/",
+      "news:https://cryptoslate.com/hong-kong-forces-crypto-providers-to-track-customer-trades/",
+      "news:https://cryptoslate.com/french-bank-resumes-transfers-after-133-million-attack-but-leaves-crypto-loss-unconfirmed/"
     ]
   },
   "init": {
