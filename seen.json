@@ -120,18 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/",
-      "news:https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/376992/strive-adds-143-million-bitcoin",
-      "news:https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
-      "news:https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
-      "news:https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-      "news:https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
-      "news:https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
-      "news:https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
-      "news:https://cryptoslate.com/ai-data-centers-are-learning-the-power-trick-bitcoin-miners-mastered-first/",
       "news:https://cryptoslate.com/bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september/",
       "news:https://cryptoslate.com/why-bitcoins-2b-corporate-treasuries-are-a-ticking-time-bomb-of-hidden-conditional-supply/",
       "news:https://cryptoslate.com/massive-bitcoin-derivatives-gap-between-cme-and-coinbase-threatens-violent-position-shakeout/",
@@ -3119,7 +3107,19 @@
       "news:https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/",
       "news:https://cryptoslate.com/bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year/",
       "news:https://cryptoslate.com/cheap-online-services-routed-web-traffic-through-a-white-house-linked-network-researchers-say/",
-      "news:https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/"
+      "news:https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/",
+      "news:https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "news:https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "news:https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "news:https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+      "news:https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
+      "news:https://cryptoslate.com/ardoinos-24-7-asset-plan-depends-on-buyers-willing-to-wait-for-cash/",
+      "news:https://cryptoslate.com/metr-says-anthropics-model-progress-is-roughly-twice-as-fast-but-key-evidence-remains-redacted/",
+      "news:https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/"
     ]
   },
   "init": {
