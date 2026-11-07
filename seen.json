@@ -120,12 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/strategy-splits-603-million-share-sale-between-bitcoin-purchases-and-strc-support/",
-      "news:https://cryptoslate.com/ontology-halts-mainnet-transactions-as-technical-team-investigates-potential-security-issue/",
-      "news:https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns/",
-      "news:https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3113,13 @@
       "news:https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
       "news:https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
       "news:https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
-      "news:https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/"
+      "news:https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/",
+      "news:https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/morpho-loan-stress-exposes-cbxrp-but-spares-native-xrp/",
+      "news:https://cryptoslate.com/millions-watched-kalshis-election-odds-without-betting-a-dollar/",
+      "news:https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/"
     ]
   },
   "init": {

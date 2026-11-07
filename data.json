@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:58:17.000Z",
+  "updated_at": "2026-11-07T11:37:51.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "RaptorX Labs",
       "deadline": "2026-11-08T02:59:59.000Z",
-      "time_left": "cierra en 22h",
-      "submissions": 389,
+      "time_left": "cierra en 15h",
+      "submissions": 395,
       "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 558,
+      "submissions": 561,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -50,7 +50,7 @@
       "sponsor": "swap.io",
       "deadline": "2026-11-14T23:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 9,
+      "submissions": 16,
       "url": "https://superteam.fun/earn/listing/make-a-video-about-our-x402-feature",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-18T20:59:59.999Z",
       "time_left": "cierra en 11 días",
-      "submissions": 141,
+      "submissions": 143,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 16 días",
-      "submissions": 236,
+      "submissions": 238,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
