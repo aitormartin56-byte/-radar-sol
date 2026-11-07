@@ -120,10 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september/",
-      "news:https://cryptoslate.com/why-bitcoins-2b-corporate-treasuries-are-a-ticking-time-bomb-of-hidden-conditional-supply/",
-      "news:https://cryptoslate.com/massive-bitcoin-derivatives-gap-between-cme-and-coinbase-threatens-violent-position-shakeout/",
-      "news:https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
       "news:https://cryptoslate.com/strategy-splits-603-million-share-sale-between-bitcoin-purchases-and-strc-support/",
       "news:https://cryptoslate.com/ontology-halts-mainnet-transactions-as-technical-team-investigates-potential-security-issue/",
       "news:https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns/",
@@ -3119,7 +3115,11 @@
       "news:https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
       "news:https://cryptoslate.com/ardoinos-24-7-asset-plan-depends-on-buyers-willing-to-wait-for-cash/",
       "news:https://cryptoslate.com/metr-says-anthropics-model-progress-is-roughly-twice-as-fast-but-key-evidence-remains-redacted/",
-      "news:https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/"
+      "news:https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/",
+      "news:https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+      "news:https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+      "news:https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
+      "news:https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/"
     ]
   },
   "init": {
