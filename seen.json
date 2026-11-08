@@ -120,11 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-      "news:https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
-      "news:https://decrypt.co/377015/south-korea-arrests-four-over-crypto-payments-to-syrian-terror-group",
       "news:https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat/",
       "news:https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute/",
       "news:https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks/",
@@ -3119,7 +3114,12 @@
       "news:https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
       "news:https://cryptoslate.com/zcashs-new-security-fund-is-99-7-old-money/",
       "news:https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/",
-      "news:https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare/"
+      "news:https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare/",
+      "news:https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "news:https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/"
     ]
   },
   "init": {
