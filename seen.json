@@ -120,7 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
@@ -3119,7 +3118,8 @@
       "news:https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
       "news:https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
       "news:https://cryptoslate.com/zcashs-new-security-fund-is-99-7-old-money/",
-      "news:https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/"
+      "news:https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/",
+      "news:https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare/"
     ]
   },
   "init": {
