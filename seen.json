@@ -120,10 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/strategy-turns-mscis-own-sec-words-against-its-24-billion-mstr-threat/",
-      "news:https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute/",
-      "news:https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks/",
-      "news:https://cryptoslate.com/uk-is-hunting-the-86-billion-russia-linked-crypto-pipeline-as-it-moves-to-double-sanctions-fines/",
       "news:https://cryptoslate.com/russia-just-switched-on-a-crypto-market-that-doesnt-fully-exist-yet/",
       "news:https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3115,11 @@
       "news:https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-      "news:https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/"
+      "news:https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
+      "news:https://cryptoslate.com/the-diesel-problem-that-could-spoil-bitcoins-hopes-for-cheaper-money/",
+      "news:https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
+      "news:https://cryptoslate.com/nvidias-ceo-an-alleged-romance-and-a-suspected-chinese-spy-congress-wants-answers/",
+      "news:https://cryptoslate.com/the-ai-boom-has-a-new-inflation-problem-consumers-are-paying-before-it-pays-off/"
     ]
   },
   "init": {
