@@ -120,14 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
-      "news:https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-      "news:https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-      "news:https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
-      "news:https://cryptoslate.com/optimism-is-pushing-network-speeds-to-200-milliseconds-but-standard-data-feeds-are-quietly-dropping-key-information/",
-      "news:https://cryptoslate.com/how-a-hacker-reused-the-same-authorization-message-1490-times-to-trigger-massive-crypto-payout-loops/",
-      "news:https://cryptoslate.com/russia-opens-central-bank-digital-currency-to-millions-as-12-major-banks-and-top-retailers-face-rollout-rules/",
       "news:https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3119,7 +3111,15 @@
       "news:https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/",
       "news:https://cryptoslate.com/who-gets-to-block-your-kalshi-bets-washington-just-escalated-the-fight/",
       "news:https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key/",
-      "news:https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "news:https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
+      "news:https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/",
+      "news:https://cryptoslate.com/polygon-wants-to-move-70-million-pol-without-the-wallet-holders-signatures/"
     ]
   },
   "init": {
