@@ -120,7 +120,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
       "news:https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
@@ -3119,7 +3118,8 @@
       "news:https://cryptoslate.com/the-ai-boom-has-a-new-inflation-problem-consumers-are-paying-before-it-pays-off/",
       "news:https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/",
       "news:https://cryptoslate.com/who-gets-to-block-your-kalshi-bets-washington-just-escalated-the-fight/",
-      "news:https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key/"
+      "news:https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key/",
+      "news:https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     ]
   },
   "init": {
