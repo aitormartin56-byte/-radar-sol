@@ -121,19 +121,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
-      "news:https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
-      "news:https://cryptoslate.com/bitcoin-keeps-whipsawing-around-77000-and-etf-investors-are-doing-the-same/",
-      "news:https://cryptoslate.com/how-fbi-turned-hamas-crypto-fundraising-pipeline-into-a-law-enforcement-trap/",
-      "news:https://cryptoslate.com/bitcoins-next-80000-breakout-has-47-billion-more-profitable-supply-to-absorb/",
-      "news:https://cryptoslate.com/trueusds-456m-stablecoin-court-case-gives-defendant-days-to-reveal-who-funded-their-legal-defense-or-face-court-sanctions/",
-      "news:https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
       "news:https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
       "news:https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
@@ -3120,7 +3107,20 @@
       "news:https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-buybacks-as-bitcoin-last-week/",
       "news:https://cryptoslate.com/any-bitcoin-recovery-faces-a-cash-problem-as-binances-stablecoins-fall-to-32-billion/",
       "news:https://cryptoslate.com/analysts-project-bitcoin-to-move-just-2-5-on-todays-cpi-data/",
-      "news:https://cryptoslate.com/core-inflation-excludes-oil-bitcoin-investors-still-cannot-ignore-it/"
+      "news:https://cryptoslate.com/core-inflation-excludes-oil-bitcoin-investors-still-cannot-ignore-it/",
+      "news:https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+      "news:https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+      "news:https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+      "news:https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+      "news:https://cryptoslate.com/bitcoin-devs-merge-3-new-bips-and-transaction-fees-could-plummet/",
+      "news:https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
+      "news:https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/"
     ]
   },
   "init": {

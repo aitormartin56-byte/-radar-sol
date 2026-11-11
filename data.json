@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:55:01.000Z",
+  "updated_at": "2026-11-11T00:26:22.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,7 +13,7 @@
       "type": "bounty",
       "sponsor": "Panta ",
       "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 2 días",
+      "time_left": "cierra en 1 día",
       "submissions": 60,
       "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
       "featured": false
@@ -26,7 +26,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 3 días",
-      "submissions": 638,
+      "submissions": 643,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-11-14T23:59:59.000Z",
-      "time_left": "cierra en 4 días",
-      "submissions": 106,
+      "time_left": "cierra en 3 días",
+      "submissions": 111,
       "url": "https://superteam.fun/earn/listing/make-a-video-about-our-x402-feature",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "KriptoK",
       "deadline": "2026-11-18T20:59:59.999Z",
-      "time_left": "cierra en 8 días",
-      "submissions": 181,
+      "time_left": "cierra en 7 días",
+      "submissions": 183,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -61,8 +61,8 @@
       "type": "bounty",
       "sponsor": "Anna",
       "deadline": "2026-11-19T22:59:59.000Z",
-      "time_left": "cierra en 9 días",
-      "submissions": 46,
+      "time_left": "cierra en 8 días",
+      "submissions": 54,
       "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
@@ -74,7 +74,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 13 días",
-      "submissions": 248,
+      "submissions": 250,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -85,8 +85,8 @@
       "type": "bounty",
       "sponsor": "Sempai HQ",
       "deadline": "2026-12-04T22:59:59.000Z",
-      "time_left": "cierra en 24 días",
-      "submissions": 20,
+      "time_left": "cierra en 23 días",
+      "submissions": 21,
       "url": "https://superteam.fun/earn/listing/write-an-original-science-fiction-novel-on-sempai-hq",
       "featured": false
     }
