@@ -73,7 +73,8 @@
       "st:e3bcf553-958f-4b26-8c1b-799476ceb873",
       "st:6506004c-0442-4233-8af1-cf5e26919d71",
       "st:7bfff250-2974-45a2-ac97-659d749f29ed",
-      "st:591423c3-bb3e-4f91-8ff0-69f163038ede"
+      "st:591423c3-bb3e-4f91-8ff0-69f163038ede",
+      "st:8f98caa5-3aa6-4fe1-a39e-d0b646dc1b6e"
     ],
     "grants": [
       "grant:agentic-engineering",
@@ -121,14 +122,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-      "news:https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
-      "news:https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
-      "news:https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
-      "news:https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
-      "news:https://cryptoslate.com/hyperliquid-treasury-company-increases-token-buying-strategy-to-2-5-billion-as-shares-run-out/",
-      "news:https://cryptoslate.com/bitcoin-may-be-leaving-its-4-year-cycle-behind-for-a-6-to-8-year-wall-street-rhythm/",
-      "news:https://cryptoslate.com/revolut-hit-by-washingtons-crypto-boom-illusion-exposing-a-massive-two-tier-banking-system/",
       "news:https://cryptoslate.com/kalshis-new-oil-contract-promises-non-stop-exposure-but-a-hidden-flaw-could-expose-traders-to-massive-weekend-shocks/",
       "news:https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3120,7 +3113,15 @@
       "news:https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
       "news:https://cryptoslate.com/bitcoin-devs-merge-3-new-bips-and-transaction-fees-could-plummet/",
       "news:https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
-      "news:https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/"
+      "news:https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/",
+      "news:https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain/",
+      "news:https://cryptoslate.com/maternal-ai-chatbot-shows-zero-postpartum-mental-health-gain/",
+      "news:https://cryptoslate.com/strategys-strc-hit-100-but-common-stock-still-funded-last-weeks-bitcoin-purchases/",
+      "news:https://cryptoslate.com/solana-perp-volume-explodes-65-amid-shrinking-spot-activity/"
     ]
   },
   "init": {
