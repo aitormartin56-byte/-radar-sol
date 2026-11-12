@@ -122,19 +122,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/arthur-hayes-calls-eur-jpy-prices-cryptos-smoke-alarm-but-the-feds-plumbing-still-shows-no-fire/",
-      "news:https://cryptoslate.com/bitcoin-falls-below-80000-as-hot-us-payrolls-revive-fed-hike-risk/",
-      "news:https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
-      "news:https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-      "news:https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-      "news:https://cryptoslate.com/bitwise-14-yield-gap-in-xrp-futures-shows-how-institutions-are-quietly-extracting-cash-from-traders/",
-      "news:https://cryptoslate.com/privacy-coin-flaw-risks-endless-token-creation-leaving-node-operators-with-a-deadline-in-hours-to-fix-it/",
-      "news:https://decrypt.co/377489/tiktok-bytedance-loan-ai",
-      "news:https://cryptoslate.com/hidden-solana-upgrade-bug-can-freeze-network-readers-and-silently-disable-fee-limits/",
-      "news:https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth/",
       "news:https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them/",
       "news:https://cryptoslate.com/bitcoins-80000-rally-just-lost-the-feds-labor-market-escape-hatch/",
       "news:https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3121,7 +3108,20 @@
       "news:https://cryptoslate.com/novig-loses-court-shield-and-new-york-gambling-laws-strike-back/",
       "news:https://cryptoslate.com/bitcoin-whales-stack-coins-while-etf-investors-dump-millions-daily/",
       "news:https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
-      "news:https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/"
+      "news:https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/",
+      "news:https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+      "news:https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+      "news:https://cryptoslate.com/bitcoin-faces-a-25b-treasury-test-after-demand-for-us-debt-weakens/",
+      "news:https://cryptoslate.com/aave-will-freeze-279m-in-oseth-unless-stakewise-wins-this-vote/",
+      "news:https://cryptoslate.com/ai-agents-steal-shared-math-using-hidden-workspace-storage/",
+      "news:https://cryptoslate.com/bases-usdc-transfer-footprint-does-not-prove-merchant-reach-data-shows/",
+      "news:https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins/",
+      "news:https://cryptoslate.com/bitmine-posts-2-8b-quarterly-profit-but-yearly-net-loss-surpasses-6b/"
     ]
   },
   "init": {
