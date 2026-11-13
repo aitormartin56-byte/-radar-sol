@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-11-12T19:37:52.000Z",
+  "updated_at": "2026-11-13T00:55:13.000Z",
   "counts": {
-    "bounties": 8,
+    "bounties": 7,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Panta x NectarFi Trading Competition Bounty",
-      "reward": "500 USDG",
-      "type": "bounty",
-      "sponsor": "Panta ",
-      "deadline": "2026-11-12T22:59:59.000Z",
-      "time_left": "cierra en 3h",
-      "submissions": 65,
-      "url": "https://superteam.fun/earn/listing/panta-x-nectarfi-trading-competition-bounty",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Write a thread on $CHIMP Fair Launch - Part 1",
@@ -26,7 +14,7 @@
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 681,
+      "submissions": 684,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -37,8 +25,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-11-14T23:59:59.000Z",
-      "time_left": "cierra en 2 días",
-      "submissions": 166,
+      "time_left": "cierra en 1 día",
+      "submissions": 169,
       "url": "https://superteam.fun/earn/listing/make-a-video-about-our-x402-feature",
       "featured": false
     },
@@ -49,7 +37,7 @@
       "type": "bounty",
       "sponsor": "KriptoK",
       "deadline": "2026-11-18T20:59:59.999Z",
-      "time_left": "cierra en 6 días",
+      "time_left": "cierra en 5 días",
       "submissions": 197,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
@@ -61,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Anna",
       "deadline": "2026-11-19T22:59:59.000Z",
-      "time_left": "cierra en 7 días",
-      "submissions": 115,
+      "time_left": "cierra en 6 días",
+      "submissions": 119,
       "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
@@ -74,7 +62,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 255,
+      "submissions": 256,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -85,8 +73,8 @@
       "type": "bounty",
       "sponsor": "Nosana_AI",
       "deadline": "2026-11-25T22:59:59.000Z",
-      "time_left": "cierra en 13 días",
-      "submissions": 8,
+      "time_left": "cierra en 12 días",
+      "submissions": 12,
       "url": "https://superteam.fun/earn/listing/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
       "featured": false
     },
@@ -97,7 +85,7 @@
       "type": "bounty",
       "sponsor": "Raenest",
       "deadline": "2026-12-13T22:59:59.000Z",
-      "time_left": "cierra en 31 días",
+      "time_left": "cierra en 30 días",
       "submissions": 1,
       "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
       "featured": true
