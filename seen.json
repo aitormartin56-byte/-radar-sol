@@ -123,12 +123,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
-      "news:https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
-      "news:https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
-      "news:https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
-      "news:https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys",
       "news:https://cryptoslate.com/ethereums-privacy-push-hits-a-numbers-problem-one-proof-needs-nearly-twice-the-proposed-gas-allowance/",
       "news:https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size/",
       "news:https://cryptoslate.com/solanas-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver/",
@@ -3122,7 +3116,13 @@
       "news:https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows/",
       "news:https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch/",
       "news:https://cryptoslate.com/anthropics-new-ai-leads-freelance-benchmarks-yet-fails-58-of-the-tasks/",
-      "news:https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/"
+      "news:https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+      "news:https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
+      "news:https://cryptoslate.com/circle-hands-usdc-reserves-to-eu-regulators-risking-higher-fees/"
     ]
   },
   "init": {
