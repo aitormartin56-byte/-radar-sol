@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:57:14.000Z",
+  "updated_at": "2026-11-13T21:51:58.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 704,
+      "time_left": "cierra en 20h",
+      "submissions": 710,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -26,20 +26,8 @@
       "sponsor": "swap.io",
       "deadline": "2026-11-14T23:59:59.000Z",
       "time_left": "cierra en 1 día",
-      "submissions": 195,
+      "submissions": 209,
       "url": "https://superteam.fun/earn/listing/make-a-video-about-our-x402-feature",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
-      "title": "Create Content About KriptoK · 200 USDC Creator Challenge",
-      "reward": "200 USDC",
-      "type": "bounty",
-      "sponsor": "KriptoK",
-      "deadline": "2026-11-18T20:59:59.999Z",
-      "time_left": "cierra en 5 días",
-      "submissions": 201,
-      "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
     {
@@ -50,7 +38,7 @@
       "sponsor": "Anna",
       "deadline": "2026-11-19T22:59:59.000Z",
       "time_left": "cierra en 6 días",
-      "submissions": 135,
+      "submissions": 144,
       "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
@@ -62,8 +50,20 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 10 días",
-      "submissions": 258,
+      "submissions": 259,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create Content About KriptoK · 200 USDC Creator Challenge",
+      "reward": "200 USDC",
+      "type": "bounty",
+      "sponsor": "KriptoK",
+      "deadline": "2026-11-25T20:59:59.000Z",
+      "time_left": "cierra en 11 días",
+      "submissions": 203,
+      "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
     {
@@ -74,7 +74,7 @@
       "sponsor": "Nosana_AI",
       "deadline": "2026-11-25T22:59:59.000Z",
       "time_left": "cierra en 12 días",
-      "submissions": 26,
+      "submissions": 28,
       "url": "https://superteam.fun/earn/listing/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
       "featured": false
     },
@@ -86,7 +86,7 @@
       "sponsor": "Raenest",
       "deadline": "2026-12-13T22:59:59.000Z",
       "time_left": "cierra en 30 días",
-      "submissions": 11,
+      "submissions": 14,
       "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
       "featured": true
     }
