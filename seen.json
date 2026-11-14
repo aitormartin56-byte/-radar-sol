@@ -123,10 +123,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/liquid-recovers-3400-btc-as-hacker-asks-is-that-ok-after-pocketing-47-million-in-bitcoin/",
-      "news:https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next/",
-      "news:https://cryptoslate.com/hunter-bidens-new-laptop-memecoin-targets-traders-who-lost-money-on-trump/",
-      "news:https://cryptoslate.com/polands-crypto-licensing-deadlock-is-handing-foreign-eu-firms-an-advantage/",
       "news:https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3122,7 +3118,11 @@
       "news:https://cryptoslate.com/fbi-warns-facestealer-turns-crypto-victims-into-bait-for-the-next-attack/",
       "news:https://cryptoslate.com/aave-lenders-interest-share-cut-proposal/",
       "news:https://cryptoslate.com/amazon-ai-written-aws-emulator-code/",
-      "news:https://cryptoslate.com/lido-earn-loss-protection-depositors/"
+      "news:https://cryptoslate.com/lido-earn-loss-protection-depositors/",
+      "news:https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+      "news:https://cryptoslate.com/binance-funds-theft-us-court-orders-cover-over-1-2-billion-with-return-unresolved/",
+      "news:https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/"
     ]
   },
   "init": {

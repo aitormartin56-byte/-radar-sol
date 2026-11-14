@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:51:58.000Z",
+  "updated_at": "2026-11-14T01:59:12.000Z",
   "counts": {
     "bounties": 7,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "ChimpX",
       "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 20h",
-      "submissions": 710,
+      "time_left": "cierra en 16h",
+      "submissions": 714,
       "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
       "featured": false
     },
@@ -25,8 +25,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-11-14T23:59:59.000Z",
-      "time_left": "cierra en 1 día",
-      "submissions": 209,
+      "time_left": "cierra en 22h",
+      "submissions": 214,
       "url": "https://superteam.fun/earn/listing/make-a-video-about-our-x402-feature",
       "featured": false
     },
@@ -37,8 +37,8 @@
       "type": "bounty",
       "sponsor": "Anna",
       "deadline": "2026-11-19T22:59:59.000Z",
-      "time_left": "cierra en 6 días",
-      "submissions": 144,
+      "time_left": "cierra en 5 días",
+      "submissions": 145,
       "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
@@ -62,7 +62,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-25T20:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 203,
+      "submissions": 204,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -73,8 +73,8 @@
       "type": "bounty",
       "sponsor": "Nosana_AI",
       "deadline": "2026-11-25T22:59:59.000Z",
-      "time_left": "cierra en 12 días",
-      "submissions": 28,
+      "time_left": "cierra en 11 días",
+      "submissions": 29,
       "url": "https://superteam.fun/earn/listing/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
       "featured": false
     },
@@ -85,8 +85,8 @@
       "type": "bounty",
       "sponsor": "Raenest",
       "deadline": "2026-12-13T22:59:59.000Z",
-      "time_left": "cierra en 30 días",
-      "submissions": 14,
+      "time_left": "cierra en 29 días",
+      "submissions": 16,
       "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
       "featured": true
     }
