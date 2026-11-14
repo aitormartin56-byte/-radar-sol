@@ -123,11 +123,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
-      "news:https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
-      "news:https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
-      "news:https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
       "news:https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
       "news:https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending/",
       "news:https://cryptoslate.com/copy-and-paste-crypto-address-attack-remains-active-after-major-malware-cleanup-cut-off-hacker-controls/",
@@ -3122,7 +3117,12 @@
       "news:https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
       "news:https://cryptoslate.com/coinbase-ai-trading-tool-pauses-bots-but-leaves-orders-open/",
-      "news:https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/"
+      "news:https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+      "news:https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+      "news:https://cryptoslate.com/wall-street-wants-24-7-trading-but-somebody-has-to-bankroll-the-weekend/",
+      "news:https://cryptoslate.com/microsoft-found-a-way-to-turn-a-helpful-ai-into-a-sleeper-agent/",
+      "news:https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/"
     ]
   },
   "init": {
