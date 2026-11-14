@@ -1,23 +1,11 @@
 {
-  "updated_at": "2026-11-14T15:37:05.000Z",
+  "updated_at": "2026-11-14T20:28:23.000Z",
   "counts": {
-    "bounties": 7,
+    "bounties": 6,
     "grants": 47,
     "news": 0
   },
   "bounties": [
-    {
-      "kind": "bounty",
-      "title": "Write a thread on $CHIMP Fair Launch - Part 1",
-      "reward": "500 USDC",
-      "type": "bounty",
-      "sponsor": "ChimpX",
-      "deadline": "2026-11-14T18:29:59.000Z",
-      "time_left": "cierra en 2h",
-      "submissions": 739,
-      "url": "https://superteam.fun/earn/listing/chimp-on-metaplex",
-      "featured": false
-    },
     {
       "kind": "bounty",
       "title": "Make a video about our x402 Feature",
@@ -25,8 +13,8 @@
       "type": "bounty",
       "sponsor": "swap.io",
       "deadline": "2026-11-14T23:59:59.000Z",
-      "time_left": "cierra en 8h",
-      "submissions": 242,
+      "time_left": "cierra en 3h",
+      "submissions": 264,
       "url": "https://superteam.fun/earn/listing/make-a-video-about-our-x402-feature",
       "featured": false
     },
@@ -38,7 +26,7 @@
       "sponsor": "Anna",
       "deadline": "2026-11-19T22:59:59.000Z",
       "time_left": "cierra en 5 días",
-      "submissions": 167,
+      "submissions": 190,
       "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
@@ -50,7 +38,7 @@
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 260,
+      "submissions": 265,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -62,7 +50,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-25T20:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 209,
+      "submissions": 212,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -74,7 +62,7 @@
       "sponsor": "Nosana_AI",
       "deadline": "2026-11-25T22:59:59.000Z",
       "time_left": "cierra en 11 días",
-      "submissions": 41,
+      "submissions": 55,
       "url": "https://superteam.fun/earn/listing/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
       "featured": false
     },
@@ -86,7 +74,7 @@
       "sponsor": "Raenest",
       "deadline": "2026-12-13T22:59:59.000Z",
       "time_left": "cierra en 29 días",
-      "submissions": 27,
+      "submissions": 38,
       "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
       "featured": true
     }

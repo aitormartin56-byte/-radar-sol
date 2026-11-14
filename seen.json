@@ -123,13 +123,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
-      "news:https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending/",
-      "news:https://cryptoslate.com/copy-and-paste-crypto-address-attack-remains-active-after-major-malware-cleanup-cut-off-hacker-controls/",
-      "news:https://cryptoslate.com/a-bitcoin-miner-burned-through-millions-in-btc-to-buy-compute-but-new-coins-are-not-returning-to-treasury/",
-      "news:https://cryptoslate.com/the-fight-over-ethereums-supply-is-forcing-a-choice-between-high-staking-yields-and-the-value-of-your-eth/",
-      "news:https://cryptoslate.com/cardanos-leios-6x-scaling-breakthrough-comes-with-a-much-harder-ada-problem/",
-      "news:https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3122,7 +3115,14 @@
       "news:https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
       "news:https://cryptoslate.com/wall-street-wants-24-7-trading-but-somebody-has-to-bankroll-the-weekend/",
       "news:https://cryptoslate.com/microsoft-found-a-way-to-turn-a-helpful-ai-into-a-sleeper-agent/",
-      "news:https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/"
+      "news:https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/",
+      "news:https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "news:https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+      "news:https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+      "news:https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell/",
+      "news:https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders/",
+      "news:https://cryptoslate.com/binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait/",
+      "news:https://cryptoslate.com/bitcoins-67000-crash-puts-57-billion-holder-cluster-at-risk-as-etf-investors-flee/"
     ]
   },
   "init": {
