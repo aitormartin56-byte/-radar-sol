@@ -123,11 +123,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/strategy-doubles-its-stock-buyback-to-2-billion-to-pull-its-strc-shares-back-to-100/",
-      "news:https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
       "news:https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
       "news:https://cryptoslate.com/bitcoin-just-hit-a-decade-low-sp-500-correlation-but-the-daily-data-tells-a-different-story/",
       "news:https://cryptoslate.com/bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version/",
@@ -3122,7 +3117,12 @@
       "news:https://cryptoslate.com/can-bitcoin-use-britains-wasted-wind/",
       "news:https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin/",
       "news:https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
-      "news:https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest/"
+      "news:https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest/",
+      "news:https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "news:https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
+      "news:https://cryptoslate.com/how-10000-in-stablecoins-would-have-gained-e420-without-earning-interest/",
+      "news:https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
+      "news:https://cryptoslate.com/robot-code-runs-without-ai-calling-the-shots/"
     ]
   },
   "init": {
