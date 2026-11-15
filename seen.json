@@ -123,14 +123,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
-      "news:https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
-      "news:https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
-      "news:https://cryptoslate.com/bitcoin-could-get-the-dollar-drop-bulls-want-this-week-without-getting-the-liquidity-rally-they-need/",
-      "news:https://cryptoslate.com/xrp-ai-agents-processed-4-5-million-payments-but-settled-just-5837-tokens/",
-      "news:https://cryptoslate.com/fed-inflation-trap-threatens-bitcoin-below-80k-as-100-oil-blindsides-fridays-cpi-report/",
-      "news:https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
       "news:https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
       "news:https://cryptoslate.com/strategys-250-bitcoin-jordans-sold-out-as-saylor-turns-4-of-btc-supply-into-a-consumer-brand/",
@@ -3122,7 +3114,15 @@
       "news:https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
       "news:https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
       "news:https://cryptoslate.com/cryptos-168-million-election-78-winners-13-newcomers-and-one-costly-defeat/",
-      "news:https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/"
+      "news:https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
+      "news:https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/ai-models-agreed-with-each-other-more-than-with-reality-in-a-new-test/",
+      "news:https://cryptoslate.com/ai-helped-hackers-gain-access-at-10-organizations-researchers-say/",
+      "news:https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
+      "news:https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+      "news:https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+      "news:https://cryptoslate.com/telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare/"
     ]
   },
   "init": {
