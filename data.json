@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T07:05:15.000Z",
+  "updated_at": "2026-11-16T17:17:46.000Z",
   "counts": {
     "bounties": 5,
     "grants": 47,
@@ -8,25 +8,13 @@
   "bounties": [
     {
       "kind": "bounty",
-      "title": "Create an Engaging X Thread Introducing Anna AI Messenger",
-      "reward": "250 USDC",
-      "type": "bounty",
-      "sponsor": "Anna",
-      "deadline": "2026-11-19T22:59:59.000Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 275,
-      "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
-      "featured": false
-    },
-    {
-      "kind": "bounty",
       "title": "Create Content on Premier League Predictions with worm 🪱⚽",
       "reward": "500 USDC",
       "type": "bounty",
       "sponsor": "worm ",
       "deadline": "2026-11-24T02:59:59.000Z",
       "time_left": "cierra en 7 días",
-      "submissions": 280,
+      "submissions": 293,
       "url": "https://superteam.fun/earn/listing/create-content-on-premier-league-predictions-with-worm",
       "featured": false
     },
@@ -38,7 +26,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-11-25T20:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 227,
+      "submissions": 240,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -50,8 +38,20 @@
       "sponsor": "Nosana_AI",
       "deadline": "2026-11-25T22:59:59.000Z",
       "time_left": "cierra en 9 días",
-      "submissions": 99,
+      "submissions": 117,
       "url": "https://superteam.fun/earn/listing/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
+      "featured": false
+    },
+    {
+      "kind": "bounty",
+      "title": "Create an Engaging X Thread Introducing Anna AI Messenger",
+      "reward": "250 USDC",
+      "type": "bounty",
+      "sponsor": "Anna",
+      "deadline": "2026-11-30T22:59:59.999Z",
+      "time_left": "cierra en 14 días",
+      "submissions": 301,
+      "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
     {
@@ -62,7 +62,7 @@
       "sponsor": "Raenest",
       "deadline": "2026-12-13T22:59:59.000Z",
       "time_left": "cierra en 27 días",
-      "submissions": 70,
+      "submissions": 90,
       "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
       "featured": true
     }
