@@ -124,11 +124,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-      "news:https://cryptoslate.com/circles-arc-launch-ties-wall-street-firms-to-the-network-without-making-them-its-safety-net/",
-      "news:https://cryptoslate.com/xrp-holders-could-earn-new-yield-but-getting-out-may-take-up-to-60-days/",
-      "news:https://cryptoslate.com/aave-v4-proposal-would-put-dao-funds-first-in-line-to-absorb-lending-losses/",
-      "news:https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/ethereum-builders-face-a-choice-between-locking-up-too-much-cash-or-relying-on-trusted-brokers/",
       "news:https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/",
       "news:https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3123,7 +3118,12 @@
       "news:https://cryptoslate.com/anthropics-1-5-trillion-ipo-exposes-bankrupt-ftxs-40-billion-missed-fortune/",
       "news:https://cryptoslate.com/cryptos-11-billion-bet-on-wall-street-is-running-into-a-funding-problem/",
       "news:https://cryptoslate.com/thresholds-11-day-bitcoin-redemption-freeze-exposes-a-hidden-risk-in-btc-backed-tokens/",
-      "news:https://cryptoslate.com/arthur-hayes-targets-1800-for-zcash-nearly-double-its-nov-18-close/"
+      "news:https://cryptoslate.com/arthur-hayes-targets-1800-for-zcash-nearly-double-its-nov-18-close/",
+      "news:https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/standard-chartered-and-ocbc-test-dollar-payments-in-minutes-without-traditional-banking-cutoffs/",
+      "news:https://cryptoslate.com/ai-tools-were-supposed-to-make-students-think-less-but-a-major-university-trial-found-a-different-result/",
+      "news:https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation/"
     ]
   },
   "init": {
