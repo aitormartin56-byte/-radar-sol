@@ -124,12 +124,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-      "news:https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
-      "news:https://cryptoslate.com/a-major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across-popular-apps/",
-      "news:https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
-      "news:https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
-      "news:https://cryptoslate.com/why-japans-3-8-bond-shock-is-quietly-setting-a-trap-for-bitcoin/",
       "news:https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
@@ -3123,7 +3117,13 @@
       "news:https://cryptoslate.com/scientists-found-a-surprising-use-for-wrong-ai-hypotheses-in-climate-research/",
       "news:https://cryptoslate.com/bitcoin-hits-four-month-low-as-820-million-liquidated-and-12-7-billion-short-squeeze-risk-builds/",
       "news:https://cryptoslate.com/the-defi-protocol-powering-1-6-billion-in-coinbase-loans-as-crypto-lending-goes-mainstream/",
-      "news:https://cryptoslate.com/ai-data-center-boom-linked-to-650-premature-us-deaths-as-pollution-spreads-across-states/"
+      "news:https://cryptoslate.com/ai-data-center-boom-linked-to-650-premature-us-deaths-as-pollution-spreads-across-states/",
+      "news:https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+      "news:https://cryptoslate.com/fluidkeys-1-6-million-hack-exposes-a-security-risk-even-when-private-keys-never-leave-users-devices/",
+      "news:https://cryptoslate.com/dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc/",
+      "news:https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/",
+      "news:https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines/",
+      "news:https://cryptoslate.com/just-2-5-of-recent-bitcoin-buyers-exchange-deposits-were-in-profit/"
     ]
   },
   "init": {
