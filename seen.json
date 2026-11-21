@@ -124,10 +124,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3123,7 +3119,11 @@
       "news:https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/",
       "news:https://cryptoslate.com/us-treasury-sells-15-billion-in-first-nine-day-cash-bill-auction-since-2008/",
       "news:https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian/",
-      "news:https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/"
+      "news:https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
+      "news:https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "news:https://cryptoslate.com/hackers-swapped-a-hosted-deepseek-model-for-53-hours-and-stripped-away-its-safety-protections/",
+      "news:https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+      "news:https://cryptoslate.com/aaves-4-billion-usdc-borrow-cap-could-leave-just-190-million-available-for-withdrawals/"
     ]
   },
   "init": {
