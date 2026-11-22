@@ -124,12 +124,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/a-100-million-launch-balance-doesnt-mean-a-crypto-etf-has-real-investors/",
-      "news:https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
       "news:https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
       "news:https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
       "news:https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
@@ -3123,7 +3117,13 @@
       "news:https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/",
       "news:https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
       "news:https://cryptoslate.com/two-hormuz-tanker-strikes-threaten-a-potential-source-of-relief-for-bitcoin/",
-      "news:https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/"
+      "news:https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
+      "news:https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/bithumb-halts-cyber-deposits-and-withdrawals-while-trading-stays-open/",
+      "news:https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18/",
+      "news:https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
+      "news:https://cryptoslate.com/ai-just-exposed-a-major-weakness-in-anonymous-peer-reviews/",
+      "news:https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet/"
     ]
   },
   "init": {
