@@ -124,16 +124,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
-      "news:https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
-      "news:https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
-      "news:https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
-      "news:https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
-      "news:https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
-      "news:https://cryptoslate.com/solana-treasury-giant-defi-development-opens-300m-chad-offering-backed-by-a-massive-13-dividend-catch/",
-      "news:https://cryptoslate.com/xrpl-proved-it-can-handle-over-3000-transactions-but-the-traffic-was-entirely-synthetic/",
-      "news:https://cryptoslate.com/cardano-fees-covered-just-0-7-of-staking-rewards-as-transactions-fall-72/",
-      "news:https://cryptoslate.com/uk-opens-a-major-loophole-for-stablecoin-payments-while-clamping-down-on-crypto-lending/",
       "news:https://cryptoslate.com/bai-global-settlement-layer-ai-agent-economy/",
       "news:https://cryptoslate.com/celsius-sues-bitmex-for-495-million-just-11-days-before-exchange-shutdown/",
       "news:https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3123,7 +3113,17 @@
       "news:https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18/",
       "news:https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
       "news:https://cryptoslate.com/ai-just-exposed-a-major-weakness-in-anonymous-peer-reviews/",
-      "news:https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet/"
+      "news:https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet/",
+      "news:https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cryptoslate.com/blackrocks-staked-ethereum-etf-redemptions/",
+      "news:https://cryptoslate.com/bitcoin-core-fixes-a-bug-that-can-stall-nodes-leaving-29-x-users-to-upgrade/",
+      "news:https://cryptoslate.com/bitquery-counted-400-fewer-btc-in-maples-disclosed-wallets-than-maple-reported/",
+      "news:https://cryptoslate.com/solanas-new-memory-checks-could-make-some-older-app-transactions-fail/",
+      "news:https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/",
+      "news:https://cryptoslate.com/claude-assisted-proof-of-riemann-hypothesis-validated-by-independent-checkers/",
+      "news:https://cryptoslate.com/ai-banking-agent-scored-100-on-its-own-tests-then-failed-92-of-97-real-world-simulations/"
     ]
   },
   "init": {
