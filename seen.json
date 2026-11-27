@@ -125,19 +125,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
-      "news:https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
-      "news:https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
-      "news:https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/",
-      "news:https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/",
-      "news:https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit/",
-      "news:https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "news:https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "news:https://cryptoslate.com/crypto-firms-put-206-million-behind-the-midterms-heres-who-their-political-machine-is-backing/",
@@ -3124,7 +3111,20 @@
       "news:https://cryptoslate.com/ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk/",
       "news:https://cryptoslate.com/yasser-elmansy-ai-crypto-portfolio-risk/",
       "news:https://cryptoslate.com/us-government-could-be-barred-from-selling-its-strategic-bitcoin-holdings-for-20-years/",
-      "news:https://cryptoslate.com/bitcoins-recovery-hinges-on-a-us-economic-slowdown-without-a-recession/"
+      "news:https://cryptoslate.com/bitcoins-recovery-hinges-on-a-us-economic-slowdown-without-a-recession/",
+      "news:https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "news:https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "news:https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "news:https://cryptoslate.com/who-could-share-nvidia-proposed-290-million-crypto-mining-settlement/",
+      "news:https://cryptoslate.com/morphos-largest-euro-stablecoin-vault-is-e13-8-million-short-of-covering-its-biggest-depositors-exit/",
+      "news:https://cryptoslate.com/xrp-sellers-could-lose-an-extra-3146-on-a-large-trade-if-five-accounts-pull-their-buy-orders/",
+      "news:https://cryptoslate.com/layerzero-locks-early-zro-deposits-behind-validators-users-cannot-choose/",
+      "news:https://cryptoslate.com/chainlink-jumps-10-as-its-wall-street-ambitions-gain-momentum-on-two-fronts/"
     ]
   },
   "init": {
