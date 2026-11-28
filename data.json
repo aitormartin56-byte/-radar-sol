@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:52:27.000Z",
+  "updated_at": "2026-11-28T03:44:26.000Z",
   "counts": {
     "bounties": 4,
     "grants": 47,
@@ -13,8 +13,8 @@
       "type": "bounty",
       "sponsor": "Anna",
       "deadline": "2026-11-30T22:59:59.999Z",
-      "time_left": "cierra en 3 días",
-      "submissions": 692,
+      "time_left": "cierra en 2 días",
+      "submissions": 697,
       "url": "https://superteam.fun/earn/listing/create-an-engaging-x-thread-introducing-anna-ai-messenger-1",
       "featured": false
     },
@@ -26,7 +26,7 @@
       "sponsor": "KriptoK",
       "deadline": "2026-12-02T20:59:59.000Z",
       "time_left": "cierra en 4 días",
-      "submissions": 375,
+      "submissions": 377,
       "url": "https://superteam.fun/earn/listing/kriptok-creator-challenge-01",
       "featured": false
     },
@@ -38,7 +38,7 @@
       "sponsor": "CapsGame",
       "deadline": "2026-12-07T16:59:59.999Z",
       "time_left": "cierra en 9 días",
-      "submissions": 75,
+      "submissions": 80,
       "url": "https://superteam.fun/earn/listing/publish-capsgame-review-for-solana-audience-video-or-x-thread",
       "featured": false
     },
@@ -49,8 +49,8 @@
       "type": "bounty",
       "sponsor": "Raenest",
       "deadline": "2026-12-13T22:59:59.000Z",
-      "time_left": "cierra en 16 días",
-      "submissions": 312,
+      "time_left": "cierra en 15 días",
+      "submissions": 314,
       "url": "https://superteam.fun/earn/listing/the-raenest-global-bounty-writing-video-and-animation",
       "featured": true
     }

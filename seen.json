@@ -125,9 +125,6 @@
       "grant:startup-accelerator-grant"
     ],
     "news": [
-      "news:https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks/",
-      "news:https://cryptoslate.com/bitcoin-may-go-quantum-safe-while-lightning-privacy-stays-exposed/",
-      "news:https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public/",
       "news:https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
       "news:https://cryptoslate.com/rogue-iphone-app-escapes-ios-sandbox-to-hijack-580000-in-usdt/",
       "news:https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -3124,7 +3121,10 @@
       "news:https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
       "news:https://cryptoslate.com/bank-of-england-to-test-how-uk-finance-would-recover-from-an-ai-disruption/",
       "news:https://cryptoslate.com/bitcoins-turbulent-week-has-created-a-16-billion-opportunity-for-a-short-squeeze/",
-      "news:https://cryptoslate.com/japan-weighs-safeguards-for-bitcoin-holders-who-keep-their-own-keys/"
+      "news:https://cryptoslate.com/japan-weighs-safeguards-for-bitcoin-holders-who-keep-their-own-keys/",
+      "news:https://cryptoslate.com/binance-withdrawals-are-back-after-octobers-hack-and-heres-why-yours-might-still-be-blocked/",
+      "news:https://cryptoslate.com/israeli-bank-lets-customers-buy-bitcoin-but-charges-them-2-to-get-in-and-2-to-get-out/",
+      "news:https://cryptoslate.com/chainflip-identifies-who-lost-money-in-12-6-million-hack-as-recovery-plan-takes-shape/"
     ]
   },
   "init": {
